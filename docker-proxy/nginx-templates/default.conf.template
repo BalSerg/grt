@@ -1,0 +1,28 @@
+server {
+  listen 80;
+
+  # without adding trailing slash (for nuxt)
+  location ~ "^/(_.*|nimages.*|nfonts.*|nfavicon.*|manifest\.json)?[/]?$" {
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_pass http://${DOCKER_HOST}:${NPM_SERVE_PORT};
+  }
+
+  # other - adding trailing slash
+    location ~ "^/(ru|en|de|fr|es|it|pt|tr|zh|hi|vi)?[/]?(js/old.*|restore-password|polet|palekh-watch|goods-refactored|cart|cart/.*|catalog|catalog/.*|suppliers|suppliers/.*|promo|promo/.*|products|products/.*|404|dev-checkout|search/.*|faq/merchant|faq/buyer|docs|docs/.*|news|news/.*|events|events/.*|checkout|order-status/.*|storybook|favorites/.*|account/.*|contacts/.*)?[/]?$" {
+    rewrite ^([^.]*[^/])$ $1/ permanent; # Add slash to the end of every url
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_pass http://${DOCKER_HOST}:${NPM_SERVE_PORT};
+  }
+
+  location / {
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_pass ${OLD_PROTOCOL}://${OLD_HOST};
+    proxy_connect_timeout       43200;
+    proxy_send_timeout          43200;
+    proxy_read_timeout          43200;
+    send_timeout                43200;
+  }
+}

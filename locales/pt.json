@@ -1,0 +1,920 @@
+{
+  "title": "Mercado de Comércio Internacional",
+  "advantages": {
+    "reason1": "A primeira plataforma de comércio eletrônico internacional B2B da Rússia",
+    "reason2": "Empresas de mais de 100 países estão presentes em nosso site"
+  },
+  "currency": {
+    "rub": "Rublo russo",
+    "usd": "Dolar dos Estados Unidos",
+    "eur": "Euro",
+    "uzs": "Soma uzbeque",
+    "ron": "Novo LEU romeno",
+    "kgs": "Som do Quirguistão",
+    "huf": "Forint húngaro",
+    "aud": "dólar australiano",
+    "cny": "Yuan chinês",
+    "brl": "Real brasileiro",
+    "hkd": "Dólar de Hong Kong",
+    "jpy": "Yen japonês",
+    "kzt": "Tenge do Cazaquistão",
+    "sek": "Coroa sueca",
+    "try": "Lira turca",
+    "czk": "Coroa Tcheca",
+    "pln": "Zloty polonês",
+    "chf": "Franco suíço",
+    "inr": "Rupia indiana",
+    "mdl": "Lei da Moldávia",
+    "bgn": "Lev búlgaro",
+    "amd": "Dram armênio",
+    "azn": "Manat do Azerbaijão",
+    "byn": "Rublo bielorrusso",
+    "krw": "Vitória da República da Coréia",
+    "dkk": "Coroa dinamarquesa",
+    "cad": "Dólar canadense",
+    "tmt": "Novo manat turcomeno",
+    "nok": "Coroa norueguesa",
+    "sgd": "dólar de Singapura",
+    "tjs": "Somoni tajique",
+    "uah": "Hryvnia ucraniana",
+    "gbp": "Libra esterlina",
+    "zar": "Rand sul africano"
+  },
+  "selectCurrency": "Moeda",
+  "features": {
+    "feature1": "A primeira plataforma de comércio eletrônico internacional B2B da Rússia",
+    "feature2": "Empresas de mais de 100 países estão presentes em nosso site"
+  },
+  "footer": {
+    "contacts": {
+      "call": "Ligar",
+      "everyday": "Todo dia",
+      "email": "Escreva para nós",
+      "phone": "Preciso de ajuda?"
+    },
+    "navigation": {
+      "about": "Sobre companhia",
+      "accept": "Aceitamos pagamento",
+      "benefits": "Benefícios do mercado",
+      "buyer": "Para o comprador",
+      "contacts": "Contatos",
+      "delivery": "Entrega",
+      "info": "Em formação",
+      "history": "História da empresa",
+      "legal": "Para pessoas jurídicas",
+      "media": "Mídia e parceiros",
+      "news": "Notícia",
+      "order": "Como fazer um pedido",
+      "partners": "Sócios",
+      "partnership": "Parceria",
+      "payment": "Forma de pagamento",
+      "return": "Troca e devolução",
+      "request": "Deixe um pedido de um produto",
+      "seller": "Fornecedor",
+      "start": "Comece a cooperação",
+      "warranty": "garantia",
+      "wholesale": "Clientes de atacado e B2B",
+      "sale_rules": "Regras de venda",
+      "public_offer": "Oferta pública",
+      "regulations": "Regulamentos",
+      "terms": "Termos de uso",
+      "privacy": "Política de Privacidade",
+      "tariff_payment": "Regras de pagamento",
+      "tariff_plans": "Planos tarifários",
+      "export_services": "Serviços de exportação",
+      "success_stories": "Histórias de sucesso"
+    },
+    "social": "Estamos nas redes sociais",
+    "subscribe": {
+      "agreement": "Eu concordo com {user_agreement} e {policy}",
+      "user_agreement": "os termos do acordo do usuário",
+      "policy": "política de privacidade",
+      "email": "Seu email",
+      "message": "Inscreva-se para ser o primeiro saber sobre ofertas interessantes",
+      "subscribe": "Se inscrever"
+    },
+    "messengers": "Contate-Nos"
+  },
+  "header": {
+    "cart": "Carrinho",
+    "catalog": "Catálogo",
+    "enter": "Inscreva-se para receber descontos personalizados, bônus e rastrear pedidos.",
+    "favorites": "Favoritos",
+    "faq": "Perguntas e respostas",
+    "become_a_supplier": "Torne-se um fornecedor",
+    "payment": "Pagamento e entrega",
+    "profile": "Perfil",
+    "search": "Pesquise entre {count} produtos e serviços",
+    "supplier": "Como se tornar um distribuidor",
+    "user": {
+      "orders": "Pedidos",
+      "bio": "Meus dados",
+      "messages": "Mensagens",
+      "refunds": "Reembolsos",
+      "feedback": "Feedback e perguntas",
+      "loyalty": "Programa de lealdade",
+      "logout": "Sair",
+      "companies": "Minhas empresas"
+    },
+    "sign_up": "inscrever-se",
+    "sign_in": "Entrar",
+    "sign_in_title": "Entrada",
+    "user_cart": {
+      "title": "Meu carrinho",
+      "total": "Custo total",
+      "goto": "Vá para o carrinho"
+    },
+    "partnership": "Comece a cooperação",
+    "buy": "Compre Agora",
+    "order": "Por ordem"
+  },
+  "product": {
+    "cart": "Adicionar ao carrinho",
+    "favorite": "Adicionar aos favoritos",
+    "in_the_cart": "No carrinho",
+    "to_cart": "No carrinho",
+    "take_a_look": "Dê uma olhada",
+    "whole_products": "produtos inteiros",
+    "goods_in_the_cart": "Produtos no carrinho",
+    "min_amount": "Valor mínimo do pedido para o fornecedor"
+  },
+  "section": {
+    "header": {
+      "advantages": "Vantagens da GlobalRusTrade",
+      "events": "Eventos",
+      "news": "Notícia",
+      "watch": "Assista tudo"
+    }
+  },
+  "login": {
+    "email": "O email",
+    "enter_email": "Digite seu e-mail",
+    "password": "Senha",
+    "password_forgot": "Esqueceu sua senha?",
+    "enter_correct_password": "Digite a senha correta",
+    "registration": "Cadastro",
+    "password_requirement": {
+      "message": "Para proteger seus dados, você deve criar uma senha segura",
+      "min_length": "{count} ou mais caracteres",
+      "letters": "cartas",
+      "figures": "figuras",
+      "new_password_message": "Insira uma nova senha que contenha:"
+    },
+    "register_now": "Registrar agora",
+    "create_password": "Crie uma senha",
+    "receive_personal_offers": "Receba ofertas pessoais",
+    "accept_terms": {
+      "accept": "No momento do registro, eu aceito os termos do",
+      "agreement": "Termo de Acordo do Usuário"
+    },
+    "registration_ending": "С Conclusão do registro",
+    "email_confirm_message": "Por favor, confirme o registro na carta enviada para",
+    "didnt_get_email": "não recebeu o email?",
+    "check_spam": "Verifique sua pasta de Spam se o e-mail não chegar por mais de 5 minutos. Às vezes, as cartas são bloqueadas por sistemas postais.",
+    "check_spelling": "Verifique a ortografia do seu e-mail",
+    "request_resend": "Solicite um reenvio de e-mail",
+    "didnt_help": "Não ajudou? Envia-nos um email",
+    "password_recovery": "Recuperação de senha",
+    "password_recovery_via_email_1": "Um link para redefinir sua senha será enviado para seu e-mail",
+    "password_recovery_via_email_2": ".",
+    "password_recovery_via_email_3": "Um link para redefinir sua senha foi enviado para seu e-mail {email} .",
+    "password_recovery_via_email_4": "Um link para redefinir sua senha será enviado para seu e-mail {email} .",
+    "send": "Mandar",
+    "save": "Salve ",
+    "password_change_success_message": "Senha alterada com sucesso",
+    "wait_for_redirect": "Aguarde o redirecionamento para a página principal em 5 segundos ou clique no botão abaixo",
+    "go_to_website": "Vá para o site",
+    "password_recovery_expired_1": "Seu link de redefinição de senha está desatualizado.",
+    "password_recovery_expired_2": "Solicite a recuperação da senha novamente.",
+    "go_to_mainpage": "Vá para a página principal",
+    "registration_confirm": "confirmação de registro",
+    "registration_successful": "Registro confirmado com sucesso",
+    "resend_email": "Reenviando e-mail",
+    "resend_email_instructions": "Um link para confirmar o registro será reenviado para o seu e-mail {email}.",
+    "resend_email_instructions_after_submit": "Um link para confirmar o registro foi enviado para seu e-mail {email}.",
+    "send_email_again": "Reenviar email"
+  },
+  "errors": {
+    "500": {
+      "something_went_wrong": "Oops! Algo correu mal...",
+      "message": "Ocorreu um erro. Não se preocupe, estamos a trabalhar para resolver o problema. Levantamo-nos em breve e poderá desfrutar das compras com vigor renovado.",
+      "link": "Actualizar página"
+    },
+    "400": {
+      "message": "Nada encontrado",
+      "link": "Pagina inicial"
+    },
+    "something_wrong": "Algo deu errado"
+  },
+  "name": "Nome",
+  "enter_name": "Digite seu nome",
+  "must_sign_in": "Você tem que entrar para fazer isso",
+  "phone_required": "Telefone*",
+  "phone_code": "Selecione o código do país e insira o seu número de telefone",
+  "enter_phone": "Digite seu número de telefone",
+  "enter_quantity": "Insira a quantidade",
+  "order_accepted": "Sua inscrição foi aceita",
+  "we_will_call": "Entraremos em contato o mais breve possível.",
+  "you_are_subscribed": "Parabéns! Você está inscrito.",
+  "added_to_cart": "Produto adicionado ao carrinho",
+  "language": "Língua",
+  "of_goods": "bens",
+  "price_demand": "Preço sob demanda",
+  "goto_catalog": "Vá para o catálogo",
+  "settings": "Definições",
+  "delivery_terms": "Termos de entrega",
+  "payment_methods": "Métodos de Pagamento",
+  "return_conditions": "Condições de devolução",
+  "returns": "Devoluções",
+  "palekh": {
+    "showmore": "Mostre mais",
+    "video": {
+      "title": "Tradições da arte Palekh incorporadas em relógios exclusivos"
+    },
+    "showcase": {
+      "title": "Relógios dignos de atenção",
+      "dark_title": "Fantastic Black Dial",
+      "link": "Assistir tudo",
+      "summerGarden": "Nova coleção \"Summer Garden\"",
+      "other_collections": "Outras coleções de Palekh Watch",
+      "winterCollection": "Coleção de inverno do relógio Palekh",
+      "womanCollection": "Relógio Palekh para mulheres",
+      "manCollection": "Relógio Palekh para homens"
+    },
+    "features": {
+      "readmore": "Mais detalhes",
+      "picture": {
+        "title": "Pintura à Mão",
+        "intro": "Cada mostrador é pintado à mão e guarda em si a beleza da miniatura única de Palekh, conhecida em todo o mundo.",
+        "article": [
+          "Cada mostrador é pintado à mão e guarda em si a beleza da miniatura única de Palekh, conhecida em todo o mundo. Cores ricas, linhas delicadas, pinceladas em filigrana e tramas emocionais de contos populares causaram sensação no Venetian Art Vernissage e na World Expo em Paris. Agora, seu pulso também será decorado com pinturas lendárias.",
+          "Os segredos da tecnologia de pintura são transmitidos de geração em geração. O relógio preservou as tradições centenárias dos artistas russos. Primeiro, os mestres cobrem os mostradores com esmalte preto, transferem o desenho com pedra-pomes e depois aplicam cal. Em seguida, eles pintam os mostradores com tintas a têmpera.",
+          "Seus personagens favoritos de contos populares ganham vida sob escovas finas. Aqui o firebird decola, aqui os três cavalos estão correndo, cortando o ar, e aqui está uma bela donzela com uma cesta em um prado de morango. Em seguida, os artistas envernizam a pintura, aplicam ouro, polem com presas de lobo, reaplicam o verniz e adicionam brilho."
+        ]
+      },
+      "gears": {
+        "title": "Movimento Suíço",
+        "article": [
+          "Os relógios são habilmente trabalhados por dentro e por fora. Movimentos confiáveis suíços ou japoneses são responsáveis pela precisão. O dispositivo anti-choque protege contra vibrações de choque. Os relógios são montados pela empresa Poljot Klassika com 25 anos de história e reputação de fabricante confiável."
+        ]
+      },
+      "box": {
+        "title": "Caixa de relógio de madeira",
+        "article": [
+          "O relógio é embalado em uma caixa de presente premium em nobre cor de noz. A caixa é feita de madeira nobre e revestida com verniz. O interior é acabado com rebanho bege."
+        ]
+      },
+      "belt": {
+        "title": "Pulseira de couro",
+        "article": [
+          "Outro elemento marcante da composição é uma pulseira feita de couro genuíno com relevo texturizado. Disponível em 7 tonalidades diferentes que complementam harmoniosamente a miniatura: preto, marrom, branco, vermelho, azul marinho, verde ou bege."
+        ]
+      },
+      "case": {
+        "title": "Caixa e vidro",
+        "article": [
+          "A qualidade e confiabilidade do relógio também são enfatizadas pela caixa. É feito de liga de zinco-alumínio ou aço inoxidável com revestimento de ouro ou cromo. O brilho metálico acentua lindamente os mostradores. O vidro mineral à prova d'água protege contra arranhões domésticos. O relógio é resistente a pequenos respingos acidentais."
+        ]
+      }
+    },
+    "about": {
+      "title": "Sobre o projeto",
+      "article": [
+        "É hora da arte! O relógio Palekh exclusivo combina a beleza da pintura Palekh com a qualidade dos movimentos dos relógios japoneses e suíços.",
+        "Este relógio não é apenas um belo acessório, mas uma verdadeira obra de arte que retém o calor do trabalho feito à mão e tradições seculares de artesanato. Cada mostrador é pintado à mão por um artesão da vila de Palekh, seguindo todos os estágios da criação tradicional em miniatura. Por exemplo, os acentos são pintados com ouro - exatamente como há cem anos. A criação de um único mostrador pode levar o mês inteiro por causa de um trabalho tão delicado. Os contos de fada favoritos, os ornamentos tradicionais e a beleza única da natureza se tornaram a inspiração para as miniaturas. Além disso, produzimos relógios de edição limitada sazonal.",
+        "Palekh Watch é apresentado exclusivamente no mercado Global Rus Trade."
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "primary_phone": "+7 (909) 646-56-65",
+      "secondary_phone": "+7 (495) 256 26 25",
+      "alt_phone": "+7 (495) 921-45-60",
+      "email": "infо@globalrustrade.com",
+      "alt_email": "sales@simvolika.ru",
+      "questions": [
+        {
+          "question": "Qual é o custo e condições de entrega?",
+          "answer": [
+            "A entrega na Rússia é gratuita e realizada pelos Correios russos em 2 a 14 dias. Para Moscou e a região de Moscou - no dia seguinte.",
+            "A entrega para outros países, bem como por serviços de correio expresso, está paga. Seu custo pode ser calculado automaticamente ao fazer um pedido no site.",
+            "Para fazer um pedido por meio de um gerente, entre em contato conosco em {primary_phone}, {secondary_phone} ou e-mail {email}."
+          ]
+        },
+        {
+          "question": "Eu quero dar um relógio de presente. Como fazer isso?",
+          "answer": [
+            "Qualquer relógio pode ser enviado em caixa de presente, anexando um cartão postal com seus desejos.",
+            "Para fazer um pedido de presente, entre em contato conosco pelos telefones {primary_phone}, {secondary_phone} ou e-mail {email}."
+          ]
+        },
+        {
+          "question": "Posso experimentar um relógio antes de comprá-lo?"
+        },
+        {
+          "question": "O que a garantia cobre?",
+          "answer": [
+            "Uma garantia de pelo menos 1 ano se aplica ao movimento, mãos e caixa. Durante o período de garantia, ajustes, reparos, substituição de unidades de montagem ou movimento são gratuitos, se o mau funcionamento ou falha do relógio não for causado por acidente ou operação inadequada.",
+            "Para aproveitar o caso de garantia, entre em contato pelo e-mail {alt_email} ou ligue para {alt_phone}",
+            "A garantia não cobre alterações estéticas, defeitos e danos resultantes do desgaste normal, desgaste e envelhecimento (por exemplo, pequenos arranhões na caixa ou no vidro, desgaste da pulseira, descascamento do revestimento, etc.)."
+          ]
+        },
+        {
+          "question": "É possível trocar ou devolver um item?",
+          "answer": [
+            "Retornaremos o item gratuitamente no prazo de 30 dias após o recebimento. O relógio deve ficar sem uso, em sua embalagem original com etiquetas intactas e filmes protetores, sem arranhões, rugas nas alças e outros sinais de desgaste.",
+            "Para emitir um reembolso, entre em contato conosco por telefone {primary_phone}, {secondary_phone} ou por e-mail {email}."
+          ]
+        }
+      ]
+    },
+    "form": {
+      "title": "Precisa de uma consulta? Deixe um pedido de retorno",
+      "comment": {
+        "label": "Comente",
+        "message": "Deixe um comentário"
+      },
+      "thanks": "Obrigado, os dados foram enviados com sucesso!",
+      "message": "Os gerentes entrarão em contato com você em breve.",
+      "contacts": "Se você não quiser esperar, ligue para nós {primary_phone} ou {secondary_phone}"
+    },
+    "benefits": {
+      "shipping": {
+        "title": "Frete grátis na Rússia",
+        "content": "A entrega na Rússia é gratuita e realizada pelos Correios russos em 2 a 14 dias. Para Moscou e região de Moscou, a entrega será realizada no dia seguinte."
+      },
+      "return": {
+        "title": "Retorno grátis em 30 dias",
+        "content": "Você pode devolver seu relógio gratuitamente em até 30 dias após o recebimento. Reembolsaremos o valor do produto caso não esteja danificado, mantenha sua apresentação e não apresente sinais de desgaste."
+      },
+      "painting": {
+        "title": "Pintura única do autor",
+        "content": "Torne-se o proprietário de um relógio exclusivo com a lendária pintura dos artistas Palekh. Escolha entre uma variedade de motivos folclóricos coloridos. A magia de um conto de fadas em cada modelo."
+      },
+      "technology": {
+        "title": "Tecnologia tradicional",
+        "content": "O mostrador é pintado da mesma maneira que há um século. Os mestres observam todas as etapas da tecnologia da pintura e preservam as tradições da lendária arte."
+      }
+    },
+    "watch": {
+      "107906": "Veja «LEL», artista Suloeva",
+      "107903": "Assistir «Swan Princess», artista Chaparina",
+      "107894": "Assistir «Firebird», artista Smirnov",
+      "107904": "Assistir «Swan», artista Kuzmenko",
+      "107893": "Assistir «Firebird», artista Smirnov",
+      "107895": "Veja «Goldfish», artista Smirnov",
+      "107899": "Veja «O Conto do Pescador e do Peixe», do artista Smirnov",
+      "98030": "Assistir «Firebird», artista Lukina",
+      "107896": "Veja «Músicos», artista Smirnov",
+      "98033": "Assistir «Meeting», artista Smirnov",
+      "98035": "Assistir «Goldilocks», artista Kornilova",
+      "98034": "Assistir «No Jardim», artista Lukina",
+      "98032": "Assistir «Wonderful Birds», artista Smirnov",
+      "92186": "Assistir «Casal», artista Surikova",
+      "107915": "Veja «Guidon», artista Suloeva",
+      "107905": "Assista «Por bagas», artista Kuzmenko",
+      "107908": "Veja «At the Well», artista Kuzmenko",
+      "107909": "Veja «Pássaros», artista Gavrilov",
+      "107910": "Assistir «Casal», artista Kuzmenko",
+      "107911": "Assistir «Firebird», artista Gavrilov",
+      "107914": "Assistir «Firebird», artista Kuzmenko",
+      "107897": "Veja «Near Lukomorye», artista Kornilova",
+      "107898": "Assistir «Jardim com pássaros maravilhosos», artista Shahanitsina",
+      "98031": "Assistir «LEL», artista Lukina",
+      "98028": "Veja «Pena do Pássaro de Fogo», artista Smirnov",
+      "98029": "Assistir «Date», artista Smirnov",
+      "92184": "Assistir «Berry girl», artista Lukina",
+      "92185": "Assistir «Casal», artista Surikova",
+      "107913": "Veja «Орнамент», artista Chibisova",
+      "107912": "Veja «Орнамент», artista Chibisova",
+      "108548": "Assistir \"Assol\", artista Mamina",
+      "108565": "Assistir \"By the Lukomorya\", artista Mamina",
+      "108568": "Assistir \"Anjos\", artista Kornilova",
+      "108569": "Assistir \"Princess Swan\", artista Mamina",
+      "108563": "Assistir \"Firebird\", artista Smirnov",
+      "108564": "Assistir \"Birds\", artista Smirnov",
+      "108566": "Assista \"O Conto do Pescador e do Peixe\", do artista Smirnov",
+      "108541": "Assistir \"The Swan Princess\", artista Mamina",
+      "108542": "Assistir \"Couple\", artista Smirnov",
+      "108543": "Assistir \"Thumbelina\", artista Mamina",
+      "108545": "Assistir \"George the Victorious\", artista Kornilov",
+      "108546": "Assista \"Ivan Tsarevich e o lobo cinzento\", artista Kornilova",
+      "108547": "Assistir \"Sivka-burka\", artista Kornilova",
+      "108549": "Assistir \"Ognevushka-jump\", artista Kornilova",
+      "108553": "Assista \"The Tale of Tsar Saltan\", do artista Smirnov",
+      "108556": "Assistir \"Firebird\", artista Gavrilov",
+      "108557": "Assistir \"Lel\", artista Kornilova",
+      "108558": "Assistir \"Ruslan\", artista Smirnov",
+      "108559": "Assistir \"Firebird\", artista Smirnov",
+      "108560": "Assistir \"Arcanjo Miguel\", artista Kornilov",
+      "108561": "Assistir \"George\", artista Kornilova",
+      "108567": "Assistir \"Miracle Yudo peixe-baleia\", artista Smirnov",
+      "108570": "Assistir \"Tapete de avião\", artista Smirnov",
+      "108571": "Veja \"Stone Flower\", do artista Smirnov",
+      "108572": "Assistir \"Firebird\", artista Smirnov",
+      "108573": "Relógio \"Swing\", artista Smirnov",
+      "108575": "Assistir \"By the Lukomorya\", artista Mamina",
+      "108576": "Assista \"O Conto do Pescador e do Peixe\", do artista Smirnov",
+      "108581": "Assistir \"Roosters\", artista Kornilova",
+      "108584": "Assistir \"Savannah\", artista Kornilova",
+      "108585": "Assistir \"Barco à vela\", artista Mamina",
+      "108586": "Veja \"O conto da bela adormecida\", do artista Smirnov",
+      "108587": "Assistir \"Tea Party\", artista Smirnov",
+      "108588": "Assistir \"Aviation\", artista Mamina",
+      "108589": "Assistir \"Firebird\", artista Smirnov",
+      "108590": "Assistir \"Pássaros do paraíso\", artista Smirnov",
+      "108591": "Assistir \"Flor Escarlate\", artista Mamina",
+      "108582": "Veja \"São Jorge\", artista Gavrilov",
+      "108583": "Assistir \"Night\", artista Kornilova",
+      "108766": "Assistir \"Sadko\", artista Kornilova",
+      "108710": "Assistir \"Ornament\", artista Chibisova",
+      "108765": "Veja \"Hunting\", do artista Gavrilov,",
+      "108767": "Assistir \"Stone Flower\", artista Kornilova",
+      "108768": "Assistir \"Sleeping Princess\", artista Kornilova",
+      "126009": "Assistir \"Sun\", artista Gavrilov",
+      "125989": "Assistir \"Moon\", artista Gavrilov",
+      "125988": "Assistir \"Sunshine\", artista Mamina",
+      "125987": "Assistir \"Day and Night\", artista Smirnov",
+      "125986": "Assista ao \"Encontro do Sol e da Lua\", do artista Smirnov",
+      "125985": "Assistir \"Dreamers\", artista Smirnov",
+      "125984": "Assistir \"City at night\", artista Mamina",
+      "125983": "Assistir \"Sun\", artista Gavrilov",
+      "125982": "Assistir \"Midnight Date\", artista Mamina",
+      "125981": "Assistir \"Reach for the Stars\", artista Kornilova",
+      "125980": "Assistir \"Anjos\", artista Mamina",
+      "174762": "Assistir \"Bouquet de flores da primavera №2\", artista Gavrilov",
+      "174761": "Assista \"Ternura das peônias nº 3\", do artista Smirnov",
+      "174760": "Assistir \"Magic Garden No. 15\", artista Kornilov",
+      "174759": "Assistir \"Marvelous bird №14\", artista Kornilova",
+      "174755": "Assista \"Brighter than the sun №7\", do artista Smirnov",
+      "174756": "Assista \"Ternura das peônias nº 3\", do artista Smirnov",
+      "174757": "Assistir \"Rosehip Bushes No. 15\", artista Smirnov",
+      "174758": "Assistir \"Cherry Orchard No. 7\", artista Mamina",
+      "174754": "Assistir \"Magic Garden No. 11\", artista Smirnov",
+      "174753": "Assista \"Ease of Flight No. 4\", do artista Smirnov",
+      "174752": "Assistir \"Juicy cherry No. 6\", artista Smirnov",
+      "174751": "Assista \"Brighter than the sun №7\", do artista Gavrilov",
+      "174749": "Assistir \"Magic Garden No. 13\", artista Gavrilov",
+      "174750": "Assistir \"Marvelous Bird No. 12\", artista Gavrilov",
+      "108574": "Assistir \"Troika №28\", artista Smirnov",
+      "108562": "Assistir \"Morozko №51\", artista Mamina",
+      "108551": "Assistir \"Troika №7\", artista Smirnov",
+      "107902": "Assistir \"Morozko №46\", artista Kuzmenko",
+      "292190": "Assista \"Silver hoof №58\", do artista Smirnov",
+      "292189": "Assista \"Patinação no Gelo №33\", do artista Smirnov",
+      "292188": "Assistir \"Snow Queen №216\", artista Kornilova",
+      "292186": "Assistir \"12 meses №215\", artista Kornilova",
+      "292184": "Assistir \"Winter №34\", do artista Smirnov",
+      "292183": "Assista \"Quebra-nozes №214\", artista Kornilova",
+      "292182": "Assistir \"Paysage №59\", artista Smirnov",
+      "292181": "Assistir \"Silver hoof №25\", artista Smirnov",
+      "108578": "Assistir \"Troika №45\", artista Kuzmenko",
+      "108577": "Assistir \"Silver hoof №57\", artista Chaparina",
+      "107907": "Assistir \"Troika №38\", artista Chaparina",
+      "107901": "Assistir \"Silver Hoof №39\", artista Chaparina",
+      "107900": "Assistir \"Troika №56\", artista Chaparina",
+      "98036": "Assistir \"Snow Queen №1\", artista Kornilova",
+      "293583": "Assistir \"Morozko №27\", artista Smirnov",
+      "293585": "Assistir \"Troyka №9\", artista Chaparina",
+      "293586": "Assistir \"Silver hoof №10\", artista Chaparina",
+      "293616": "Relógio / relógio Palekh \"Snow Queen №33\", artista Kornilova",
+      "293617": "Assistir \"Snow Queen №12\", artista Kornilova",
+      "293618": "Assista \"Quebra-nozes №14\", artista Kornilova",
+      "293619": "Assistir \"Bullfinches №1\", artista Chibisova",
+      "293620": "Assistir \"Squirrel №2\", artista Chibisova",
+      "293621": "Assistir \"Paysage №15\", artista Kornilova",
+      "292185": "Assista \"Prata prata maçã dourada №179\", artista Chibisova",
+      "277016": "Assista \"Summer Freshness\", artista Chibisova",
+      "210782": "Assista \"Bright splashes of tulips No. 1\", artista Gavrilov",
+      "210781": "Assista \"Marvelous bird №10\", artista Smirnov",
+      "206667": "Assista \"Lobo solitário №14\", artista Gavrilov",
+      "206669": "Assista \"Midnight Song No. 12\", artista Kornilov",
+      "293584": "Assista \"Firebird №6\", artista Gavrilov",
+      "108709": "Assista \"Ornament №77\" cronógrafo-quartzo, artista Chibisova",
+      "293587": "Assista \"Firebird №7\", artista Gavrilov"
+    },
+    "slides": {
+      "alts": [
+        "As pinturas nos mostradores são feitas por artesãos de Palekh.",
+        "Os acentos nas pinturas são feitos de ouro.",
+        "Os artesãos transferem pinturas para os mostradores de esboços originais."
+      ]
+    }
+  },
+  "go_to_cart": "Vá para o carrinho",
+  "benefits_title": "Nossos Benefícios",
+  "benefits": {
+    "price": "Mantemos preços favoráveis para que você possa se deliciar com mais frequência",
+    "quality": "Somos responsáveis pela qualidade dos produtos em nosso mercado",
+    "speak": "Falamos 11 idiomas, então podemos encontrar facilmente um idioma comum com você",
+    "express": "Entregaremos suas mercadorias em qualquer lugar do mundo sem problemas",
+    "return": "A devolução ou substituição de mercadorias não levará muito tempo ou esforço"
+  },
+  "quick_order": "Encomendar",
+  "catalog": {
+    "sort": {
+      "default": "Por padrão",
+      "new": "Novo primeiro",
+      "priceasc": "Barato primeiro",
+      "pricedesc": "Caro primeiro",
+      "relevant": "Mais relevante",
+      "popular": "Popular"
+    }
+  },
+  "meta": {
+    "title": "Serviço internacional de varejo e atacado online",
+    "description": "Milhares de produtos exclusivos, remessa mundial",
+    "category_desсription": "atacado e varejo, compare preços de fornecedores no mercado Global Rus Trade. 🚚 Entrega rápida e conveniente! ✅ Serviço e garantia!",
+    "category_page_title": "compre na Global Rus Trade",
+    "twitter_description": "Uma maneira rápida e gratuita de encontrar o produto certo",
+    "events_description": "Saiba mais sobre as próximas exposições e eventos na Global Rus Trade. Mantenha-se atualizado sobre todas as próximas feiras, displays, fóruns e eventos importantes com GRT.",
+    "news_description": "Mantenha-se atualizado com as notícias de exportação russas no mercado Global Rus Trade."
+  },
+  "reset": "Redefinir",
+  "min_value": "Valor mínimo",
+  "max_value": "Valor máximo",
+  "cookie_accept": "Usamos cookies. Com a ajuda deles, cuidamos de você, aprimorando o site.",
+  "coockie_agreed": "eu concordo",
+  "clear_all": "Limpar tudo",
+  "see_all": "Ver tudo",
+  "collapse": "Colapso",
+  "range": {
+    "from": "a partir de",
+    "to": "para"
+  },
+  "homepage": "Casa",
+  "filters": "Filtros",
+  "form_supplier": {
+    "title": "Pedido de cooperação",
+    "site": "Site da companhia",
+    "company": "Nome da empresa",
+    "comment": "Comentário / Pergunta",
+    "offer": "Oferta comercial (lista de preços)",
+    "attach_file": "Anexar arquivo",
+    "file_size": "(máximo 30 Мb)",
+    "error_format": "O arquivo não corresponde ao formato ",
+    "error_size": "Arquivo com mais de 30Mb",
+    "thank_you": "Obrigado!",
+    "we_will_call": "Obrigado pelo seu interesse na Global Rus Trade, entraremos em contato em breve.",
+    "enter_company": "Insira o nome da sua empresa"
+  },
+  "ok": "OK",
+  "no_products": "Não foi possível encontrar nenhum item. Você pode aplicar outros filtros de produto ou usar a caixa de pesquisa na parte superior da página.",
+  "search": {
+    "tabs": {
+      "products": "Produtos",
+      "services": "Serviços",
+      "suppliers": "Empresas"
+    },
+    "blank": {
+      "title": "Desculpe, não foram encontrados resultados.",
+      "description": "Tente outra pesquisa ou navegue no diretório do catálogo que pode conter os produtos que você está procurando."
+    },
+    "filters": {
+      "categories": "Categorias"
+    }
+  },
+  "vendor_code": "Código do vendedor",
+  "reviews": "avaliações",
+  "product_rating": "Avaliação do produto",
+  "rate_the_product": "Avalie o produto",
+  "rating_options": {
+    "awful": "Horrível",
+    "bad": "Ruim",
+    "fine": "Multar",
+    "good": "Bom",
+    "excellent": "Excelente"
+  },
+  "price_as_title": "Preço",
+  "to_reduce": "Reduzir",
+  "to_enlarge": "Aumentar",
+  "brand_name": "Marca",
+  "seller_name": "Fornecedor",
+  "description": "Descrição",
+  "characteristics": "Características",
+  "show_full_description": "Mostrar descrição completa",
+  "hide_full_description": "Esconder a descrição completa",
+  "hide_some_of_the_characteristics": "Esconda algumas das características",
+  "show_all_characteristics": "Mostrar todas as características",
+  "special_conditions": "Condições especiais",
+  "for_legal_entities": "para pessoas jurídicas",
+  "conditions_for_legal_entities": "Condições para pessoas jurídicas",
+  "price_for_legal_entities": "Preço para pessoas jurídicas",
+  "minimum_lot_for_purchase": "Lote mínimo para compra",
+  "company_represented_on_site": "A empresa está representada no site",
+  "years": "1 ano | {n} anos",
+  "show_next_photo": "Mostrar a próxima foto",
+  "show_previous_photo": "Mostrar foto anterior",
+  "slide": "Slide",
+  "send_search_request": "Enviar pedido de pesquisa",
+  "open_menu": "Abra o menu do usuário",
+  "go_to_prev_page": "Vá para a página anterior",
+  "go_to_next_page": "Vá para a próxima página",
+  "suppliers": {
+    "pagetitle": "Produtos da empresa"
+  },
+  "show_navigation": "Mostrar lista de categorias",
+  "show_filters": "Mostrar filtros",
+  "choose_sorting": "Escolha um método de classificação",
+  "similar_products": "Produtos Similares",
+  "search_results_by_request": "A pedido de {request} {entity} foram encontrados:",
+  "additional_info": "informação adicional",
+  "current_exchange_rate": "O preço é calculado de acordo com a taxa de câmbio atual",
+  "universal": {
+    "date": {
+      "range": {
+        "from": "a partir de",
+        "to": "para"
+      }
+    }
+  },
+  "fakebreadcrumbs": {
+    "events": "Calendário de Eventos",
+    "docs": "Documentos",
+    "news": "Todas as notícias"
+  },
+  "goods": "{n} bens",
+  "docs_intro": "Nesta página você pode encontrar documentos que podem ser úteis na compra ou venda de mercadorias na plataforma de negociação eletrônica GlobalRusTrade.com - regras e procedimentos do mercado, termos de uso, política de privacidade e outros. Se você tiver alguma dúvida - escreva para info@globalrustrade.com",
+  "go_back": "Volte",
+  "product_is_over": "O produto acabou",
+  "withdrawn_from_sale": "Retirado da venda",
+  "complain": {
+    "button": "Reclame sobre o produto",
+    "title": "Razão",
+    "comment": "Comente",
+    "error_format": "O arquivo não corresponde ao formato",
+    "reason1": "Descrição incorreta",
+    "reason2": "Produtos de baixa qualidade",
+    "reason3": "Produtos falsificados",
+    "reason4": "De outros",
+    "thank_you": "Obrigado pela sua atenção!",
+    "send": "Sua reclamação foi enviada para consideração. Com certeza iremos verificar e, se necessário, tomar medidas."
+  },
+  "empty_field": "Preencha o campo",
+  "product-not-available": "Infelizmente, este produto não está disponível. Confira uma seleção de produtos semelhantes - talvez haja exatamente o que você está procurando.",
+  "сhoose_one_option": "Escolha uma opção",
+  "currencyLocalType": "Euro",
+  "checkout": {
+    "heading": "Confira",
+    "user_data": "Informação do comprador",
+    "goods_quantity": "Qty",
+    "delivery_heading": "Endereço de entrega de entrada",
+    "delivery_action": "Especifique o endereço no mapa",
+    "delivery_methods": "Escolha um método de entrega",
+    "recipient": "Destinatário",
+    "change_recipient": "Alterar Destinatário",
+    "parcel": "Parcela",
+    "goods": "Bens",
+    "discount": "Desconto",
+    "choose": "Escolher",
+    "close": "Fechar",
+    "message_many_parcels": "A encomenda virá em vários pacotes, uma vez que será enviada de diferentes armazéns",
+    "submit": "Prossiga para o pagamento",
+    "hide": "Esconder",
+    "days": "{n} dia | {n} dias",
+    "parcels": "{n} pacote | {n} parcelas",
+    "address_placeholder": "Cidade, rua, casa, apartamento / escritório",
+    "delivery_type_error": "Escolha um método de entrega conveniente",
+    "delivery_method_error": "Escolha um serviço de entrega",
+    "address_error": "Insira seu endereço corretamente ou use a seleção automática",
+    "postal_code_error": "Insira o código postal para a entrega correta",
+    "target_invalid": "Preencha todos os campos obrigatórios.",
+    "delivery_type": {
+      "post": {
+        "description": "Entrega nos correios",
+        "name": "Entrega postal"
+      },
+      "courier": {
+        "description": "Entrega por correio para o endereço que você especificou",
+        "name": "serviço de entrega"
+      },
+      "pack-station": {
+        "name": "Pontos de coleta",
+        "description": "Entrega no posto de coleta"
+      },
+      "self-delivery": {
+        "name": "Auto entrega",
+        "description": "Recolha no nosso armazém"
+      }
+    },
+    "has-no-parcels": "Você não tem produtos para finalizar a compra",
+    "index": "Código Postal",
+    "delivery_warning": "Existem dificuldades com entrega em sua região. Nosso gerente irá aconselhá-lo sobre alternativas."
+  },
+  "notes": {
+    "cart_change": "Alguns itens do carrinho estão em falta ou a quantidade mudou.",
+    "cart_order": "É necessário verificar as condições dos itens selecionados com os fornecedores. Assim que você deixar uma solicitação, nossos especialistas entrarão em contato com eles. Depois disso, entraremos em contato com você no número de telefone especificado para confirmar seu pedido"
+  },
+  "cart": {
+    "remove_selected": "Remover selecionado",
+    "recommend": "Recomendar",
+    "delivery": "Entrega",
+    "costOfDelivery": "custo de entrega",
+    "from": "a partir de",
+    "how_to_decrease_the_price": "Como diminuir o preço?",
+    "at_this_one": "neste",
+    "result": "Resultado",
+    "total": "Total",
+    "products_of_company": "Produtos da empresa",
+    "products": "Produtos",
+    "weigh_total": "Pesar (total)",
+    "thing": "pcs.",
+    "go_to_checkout": "Vá para o checkout",
+    "amount_is_changed": "Quantidade é alterada",
+    "it_is_max_limit_amount": "é a quantidade máxima possível de bens para compra",
+    "it_is_min_limit_amount": "é a quantidade mínima possível de bens para compra",
+    "go_to": "Vamos para",
+    "product_added": "O produto é adicionado ao carrinho",
+    "product_removed": "O produto foi removido do carrinho",
+    "grt_cart_title": "GRT - carrinho",
+    "mark_product": "Marque o produto que deseja comprar",
+    "grab_all": "Selecione todos",
+    "tip-off": "Selecione os itens que deseja comprar e prossiga para a finalização da compra",
+    "your_basket_is_empty": "Seu carrinho está vazio",
+    "the_catalog": "o catálogo",
+    "and_choose_a_product": "e escolha o que quiser entre mais de {count} itens",
+    "not_available": "não estão prontos. Você quer continuar?",
+    "to_proceed_with_order": "Para prosseguir com o pedido",
+    "stay_in_cart": "Fique no carrinho",
+    "go_to_catalog": "Ir para o catálogo do fornecedor",
+    "for_delivery": "Você precisa adicionar mais produtos em: {count}",
+    "parcels_from": "Encomendas de",
+    "all_products": "todos os produtos",
+    "see": "Ver",
+    "add_products": "Adicione os produtos em:",
+    "without_delivery": "Sem entrega",
+    "product": "produtos",
+    "was_deleted": "Foi apagado",
+    "total_products": "Total"
+  },
+  "mass_unit": {
+    "kg": "kg"
+  },
+  "modal": {
+    "select_delivery_region": "Selecione a região de entrega"
+  },
+  "confirm_form": {
+    "enter_the_code_from_sms": "Digite o código do SMS",
+    "you_have_been_sent_an_sms": "Você recebeu um SMS com um código para o número",
+    "to_change_number": "Para mudar o número",
+    "send": "Mandar",
+    "resend_code_via": "Reenviar código via",
+    "resend_code": "Reenviar código",
+    "log_in": "Conecte-se",
+    "expired_validation": "validação expirada",
+    "wrong_code": "Código errado"
+  },
+  "validation": {
+    "expiredValidation": "O prazo para recebimento do código de confirmação expirou. O código SMS foi enviado para você novamente.",
+    "wrong_code": "Código errado"
+  },
+  "thanks_for_your_order": {
+    "title": "Obrigado pelo seu pedido",
+    "text": "Inscreva-se em nossas redes sociais para ficar por dentro de novos produtos e promoções."
+  },
+  "status_order": {
+    "not_processed": {
+      "title": "No trabalho",
+      "text": "Seu pedido é processado por nosso gerente. Ele entrará em contato com você em breve para esclarecer os detalhes.",
+      "thanks": "Obrigado pelo",
+      "order": "pedido",
+      "text_true": "Aceitamos seu pedido e levamos para o trabalho. Inscreva-se em nossas redes sociais para se manter atualizado com novos produtos e promoções.",
+      "text_false": "Seu pedido é processado pelo nosso gerente. Ele entrará em contato em breve para esclarecer os detalhes.",
+      "continue_shopping": "Continue comprando",
+      "personal_account": "Conta pessoal"
+    },
+    "awaiting_payment": {
+      "title": "Aguardando pagamento",
+      "text": "Pague o pedido usando qualquer um dos métodos disponíveis.",
+      "thanks": "Obrigado por",
+      "order": "Nº do pedido",
+      "problem": "Se você tiver problemas com o pagamento, use um método alternativo",
+      "button": "Por cartão bancário"
+    },
+    "preparing_for_shipment": {
+      "title": "Pago, aguardando envio",
+      "text": "Recebemos o pagamento do seu pedido. A sua encomenda está a ser preparada e será enviada em breve para o serviço de entregas. Avisaremos você quando isso acontecer. Obrigado por escolher a Global Rus Trade"
+    },
+    "shipped": {
+      "title": "Enviado",
+      "text": "A encomenda foi enviada ao serviço de entregas. Rastreie sua localização pelo número da trilha"
+    },
+    "completed": {
+      "title": "Concluído",
+      "text": "Divirta-se com os produtos adquiridos. Obrigado por escolher a Global Rus Trade. Por favor, ajude-nos a nos tornarmos melhores e deixe um comentário."
+    },
+    "canceled": {
+      "title": "Cancelado",
+      "text": "Cancelamos o pedido conforme sua solicitação. Esperamos ainda poder surpreendê-lo com nossos produtos exclusivos. Vejo você em breve."
+    },
+    "error": {
+      "title": "Erro de autenticação de pagamento usando protocolo 3D Secure",
+      "text": "Esta opção pode não estar habilitada em seu cartão. Entre em contato com o banco para confirmar a transação ou use outro cartão do banco para o pagamento.",
+      "thanks": "Obrigado pela compreensão. Isso é importante para a segurança do pagamento. Você também pode usar ApplePay ou GPay."
+    }
+  },
+  "payment_description": "Pagamento de mercadorias em globalrustrade.com",
+  "proceed_сheckout": "Prossiga para сheckout",
+  "pay": "Pagar",
+  "address_label": "Endereço",
+  "full_name": "Primeiro e último nome",
+  "hint": "Existem seus produtos aqui também. Clique para fazer um pedido",
+  "account": {
+    "subscribe": "Assine a nossa newsletter",
+    "save": "Salve ",
+    "avatar": {
+      "invalid_format": "Formato de arquivo incorreto",
+      "invalid_size": "Tamanho máximo do arquivo 10 MB"
+    },
+    "navigation": {
+      "heading": "Perfil de usuário"
+    },
+    "data": {
+      "heading": "Dados peronais",
+      "upload": "Carregar Avatar"
+    },
+    "orders": {
+      "no-order": "Você não tem nenhum pedido",
+      "awaiting-payment": "Aguardando pagamento",
+      "cancelled": "Cancelado",
+      "completed": "Concluído",
+      "not-processed": "Não processado",
+      "heading": "Pedidos",
+      "order": "Pedido",
+      "from": "a partir de",
+      "address": "2 endereços de entrega",
+      "pay": "Pagar"
+    },
+    "modal": {
+      "title": "Escreva para nós",
+      "any_messenger": "Em qualquer mensageiro",
+      "social_network": "ou nas redes sociais"
+    },
+    "order_detail": {
+      "title": "Ordem",
+      "from": "a partir de",
+      "electronic_receipt": "Recibo eletrônico",
+      "payment_method": "Forma de pagamento",
+      "card": "Cartão",
+      "to_clarify_the_information_on_the_order": "Para esclarecer as informações sobre o pedido",
+      "parcel": {
+        "title": "Pacote",
+        "weight": "Peso",
+        "recipient": "Destinatário",
+        "delivery": "Método de entrega, endereço e custo",
+        "comment": "Comente"
+      },
+      "good": {
+        "weight": "Peso",
+        "color": "Cor",
+        "size": "Tamanho",
+        "price": "Preço"
+      }
+    },
+    "gender": {
+      "male": "Macho",
+      "female": "Fêmea"
+    },
+    "search": "Procurar"
+  },
+  "authorization": {
+    "title": "Autorização",
+    "send": "Mandar",
+    "choice": "Ou escolha um método de autorização conveniente",
+    "will_send_code": "Iremos enviar-lhe um código de confirmação através do canal selecionado.",
+    "enter_code": "Digite o código",
+    "confirm": "Dentro de um minuto você receberá uma chamada com um código de confirmação para o número",
+    "change_number": "mude o numero",
+    "suggest": "Os últimos 4 dígitos do número de telefone do qual você recebeu a chamada são o código. (Não há necessidade de responder).",
+    "call_not_received": "Se a chamada não for recebida dentro de",
+    "another_way_connection": "escolha um método de comunicação diferente",
+    "send_code": "Enviamos a você um código para",
+    "change_mail": "Mude o e-mail",
+    "enter_correct_phone": "Digite o número de telefone correto",
+    "get_code": "Obtenha o código",
+    "enter_correct_mail": "Digite o e-mail correto",
+    "error_code": "O código errado foi inserido",
+    "code_not_received": "Se o código não for recebido dentro"
+  },
+  "contacts": {
+    "legal_address": "Endereço legal",
+    "address": "3 Bolotnaya naberezhnaya, Bld. 2, bloco I",
+    "for_registration_documents": "Para registro de documentos",
+    "mail": "Correspondência",
+    "media_inquiries": "Consultas e esclarecimentos da mídia sobre pedidos ou cooperação",
+    "phone": "Telefone",
+    "questions": "Dúvidas sobre pedidos ou cooperação",
+    "partners": "Parceiros",
+    "detailed_conditions": "Condições detalhadas para cooperação",
+    "go": "Ir",
+    "requisites": "Requisitos",
+    "inn": "ITN",
+    "ogrn": "PSRN",
+    "kpp": "IEC"
+  },
+  "free": "De graça",
+  "surname": "Último nome",
+  "enter_surname": "Digite seu sobrenome",
+  "birthday": "Data de nascimento",
+  "enter_birthday": "Digite sua data de nascimento"
+}

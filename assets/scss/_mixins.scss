@@ -1,0 +1,138 @@
+@mixin ui-text-level($font-size, $line-height) {
+  font-size: $font-size;
+  line-height: $line-height;
+  color: $text-black;
+}
+
+@mixin text-level-13() {
+  @include ui-text-level(13px, 18px);
+}
+
+@mixin text-level-15() {
+  @include ui-text-level(15px, 19px);
+}
+
+@mixin text-level-17() {
+  @include ui-text-level(17px, 22px);
+}
+
+@mixin text-level-28() {
+  @include ui-text-level(28px, 39px);
+}
+
+@mixin grt-btn-filled($bg-color, $color, $bg-color-active) {
+  background: $bg-color;
+  border-color: $bg-color;
+  color: $color;
+
+  &:hover,
+  &:focus {
+    color: $bg-color;
+    background-color: $color;
+  }
+
+  &:active {
+    background: $bg-color-active;
+    border-color: $bg-color-active;
+    color: $color;
+  }
+}
+
+@mixin move-vertical ($value) {
+  transform: translateY($value);
+  transition: all ease-in 250ms;
+}
+
+//Ширина, высота, цвет бордера, цвет заливки, цвет заливки при чекед, цвет галки, цвет текста
+@mixin checkbox ($width, $height, $stroke-box, $fill-box, $fill-box-checked, $fill-checkmark, $txt-color) {
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  cursor: pointer;
+
+  .label {
+    margin-left: 5px;
+    font-size: 11px;
+    line-height: 1.4;
+    color: $txt-color;
+  }
+
+  .input,
+  .icon {
+    width: $width;
+    height: $height;
+  }
+
+  .input {
+    position: absolute;
+    top: 2px;
+    margin: 0;
+    padding: 0;
+    opacity: 0;
+    cursor: pointer;
+
+    & + .icon {
+      .bg {
+        stroke: $stroke-box;
+        fill: $fill-box;
+      }
+    }
+
+    &:checked + .icon {
+      .bg {
+        fill: $fill-box-checked;
+      }
+
+      .checkmark {
+        fill: $fill-checkmark;
+      }
+    }
+  }
+
+  .icon {
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+}
+
+//Позиционирует блок по центру родителя
+//Булево значение true/false (квадрат/неквадрат); ширина блока; высота блока
+@mixin center-position($isSquare, $width-block, $height-block) {
+  $center-both: if($isSquare, calc((100% - #{$width-block}) / 2), 0);
+  $center-hor: calc((100% - #{$width-block}) / 2);
+  $center-vert: calc((100% - #{$height-block}) / 2);
+  height: if($isSquare, $width-block, $height-block);
+  width: $width-block;
+  left: if($isSquare, $center-both, $center-hor);
+  top: if($isSquare, $center-both, $center-vert);
+  position: absolute;
+}
+
+@mixin shadow() {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+@mixin base-button() {
+  box-sizing: border-box;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 48px;
+  padding: 14px 7px;
+
+  font-size: 15px;
+  line-height: 1.3;
+  color: #ffffff;
+
+  background-color: $grt-blue;
+  border-radius: 4px;
+  cursor: pointer;
+
+  transition: all 0.3s ease;
+
+  &:hover,
+  &:focus {
+    background-color: #66bdff;
+  }
+}

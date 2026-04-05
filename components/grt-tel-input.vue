@@ -1,0 +1,400 @@
+<template>
+  <div :class="{'grt-tel-input--error': v.$error || isFieldNoDirty || isInvalid , 'val-vti': !v.$invalid && phone}"
+       class="grt-tel-input grt-text-input"
+  >
+    <VueTelInput
+      ref="phoneInputRef"
+      v-model.lazy="phone"
+      :disabled="disabled"
+      v-bind="telInputProps"
+      @blur="vueTelInputBlur"
+      @focus="phoneInputFocused = true"
+      @input="inputPhone"
+    >
+      <template #arrow-icon>
+        <div class="grt-tel-input__arrow-icon"></div>
+      </template>
+    </VueTelInput>
+
+    <label
+      :class="{
+        'grt-text-input__label--focus': phone || phoneInputFocused
+      }"
+      :for="uniqueIDPrefix"
+      class="grt-text-input__label"
+    >
+      {{ $t('phone_required') }}
+    </label>
+    <div v-show="v.$error || isFieldNoDirty" class="grt-text-input__messages">
+      <div class="grt-text-input__message">{{
+          !v.required || v.minLength === false ? $t('enter_phone') : $t('authorization.enter_correct_phone')
+        }}
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+import {VueTelInput} from 'vue-tel-input';
+import {getRandomIntFromZeroToTenThounsand} from '@/assets/js/util';
+import {SmsVerificationBus} from "@/event-bus/sms-verification-bus";
+import {COUNTRY_CODE} from "~/assets/js/const.LocalStorage";
+import localStorageService from "~/utils/service.localStorage";
+
+// PhoneObj = {
+//   country: {
+//     dialCode: "7"
+//     iso2: "RU"
+//     name: "Russia (Россия)"
+//   }
+//   countryCallingCode: "7"
+//   countryCode: "RU"
+//   formatted: "+7 925 888 77 66"
+//   nationalNumber: "9258887766"
+//   number: "+79258887766"
+// }
+
+export default {
+  components: {
+    VueTelInput
+  },
+  props: {
+    isInvalid: {
+      Boolean,
+      default: false
+    },
+    isWatch: {
+      type: Boolean
+    },
+    countryCode: {
+      type: String
+    },
+    value: {
+      type: String,
+      default: ''
+    },
+    v: {
+      type: Object,
+      required: true
+    },
+    disabled: {
+      type: Boolean,
+      default: false
+    },
+    isFieldNoDirty: {
+      type: Boolean,
+      default: false
+    },
+    autoDefaultCountry: {
+      type: Boolean,
+      default: true
+    }
+  },
+  data() {
+    return {
+      telInputProps: {
+        defaultCountry: null,
+        mode: 'international',
+        styleClasses: 'grt-text-input__field',
+        inputOptions: {
+          showDialCode: false,
+          required: true,
+          id: '',
+          styleClasses: 'grt-text-input__input',
+          placeholder: '',
+        },
+        dropdownOptions: {
+          showDialCodeInSelection: true,
+          showFlags: true,
+          showDialCodeInList: true
+        }
+      },
+      phoneInputFocused: false,
+      uniqueIDPrefix: '',
+      phoneObj: {
+        formatted: '',
+        valid: false,
+        country: undefined
+      },
+    }
+  },
+  computed: {
+    phone: {
+      get() {
+        if (this.value)
+          return this.value;
+      },
+      set(newValue) {
+        this.$emit('input', newValue);
+      }
+    },
+  },
+  mounted() {
+    SmsVerificationBus.$on('changeNumber', this.changeNumber)
+  },
+  beforeDestroy() {
+    SmsVerificationBus.$off('changeNumber')
+  },
+  created() {
+    this.uniqueIDPrefix = getRandomIntFromZeroToTenThounsand().toString();
+    this.telInputProps.inputOptions.id = this.uniqueIDPrefix;
+    this.telInputProps.defaultCountry = this.isWatch ? this.countryCode : localStorage[COUNTRY_CODE]
+  },
+  methods: {
+    changeNumber() {
+      this.triggerPhoneInput()
+    },
+    triggerPhoneInput() {
+      this.$refs.phoneInputRef.$refs.input.focus()
+      this.$refs.phoneInputRef.$refs.input.select()
+      this.$refs.phoneInputRef.$refs.input.scrollIntoView({
+        behavior: 'smooth',
+        block: 'center',
+        inline: 'center'
+      });
+    },
+    inputPhone(_, newPhoneObj) {
+      this.phoneObj = newPhoneObj;
+      const forms = {
+        'countryAlpha2': newPhoneObj.country.iso2,
+      }
+      localStorageService.SAVE_USER_INTO_LOCALSTORAGE(forms)
+      this.$emit('on-input-phone', this.phoneObj);
+    },
+    vueTelInputBlur() {
+      this.$emit('vue-tel-input-blur')
+      this.phoneInputFocused = false
+      this.v.$touch()
+    }
+  }
+}
+</script>
+
+<style lang="scss">
+@import "assets/scss/vti-flags.scss";
+
+.vti__flag {
+  width: 20px;
+  height: 15px;
+  margin-right: 5px;
+  margin-left: 5px;
+
+  box-shadow: 0 0 1px 0 #888888;
+  background-image: url("/nimages/vue-tel-input/vue-tel-input-flags.png");
+  background-repeat: no-repeat;
+  background-color: #dbdbdb;
+  background-position: 20px 0;
+}
+
+.vue-tel-input {
+  border-radius: 3px;
+  display: flex;
+  text-align: left;
+  height: 46px;
+  border: none;
+}
+
+.vue-tel-input.disabled .dropdown,
+.vue-tel-input.disabled .selection,
+.vue-tel-input.disabled input {
+  cursor: no-drop;
+}
+
+.vue-tel-input:focus-within {
+  box-shadow: none;
+  border-color: transparent;
+}
+
+.vti__dropdown {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  position: relative;
+  padding: 7px;
+  cursor: pointer;
+
+  background-color: #ffffff;
+  border: 1px solid #bebebe;
+  border-radius: 3px;
+
+  &:focus {
+    border-color: $grt-blue;
+    outline: 0;
+  }
+}
+
+.vti__dropdown.show {
+  max-height: 300px;
+  overflow: scroll;
+}
+
+.vti__dropdown.open,
+.vti__dropdown:hover {
+  background-color: #f3f3f3;
+}
+
+.vti__selection {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 84px;
+
+  font-size: 13px;
+  color: $text-black;
+}
+
+.vti__selection .vti__country-code {
+  color: #666666;
+}
+
+.vti__dropdown-list {
+  position: absolute;
+  z-index: 100;
+  left: -1px;
+
+  width: 330px;
+  max-height: 200px;
+  margin: 0;
+  padding: 0;
+
+  text-align: left;
+
+  list-style: none;
+  background-color: #ffffff;
+  border: none;
+  border-radius: 3px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  overflow-y: scroll;
+
+  &::-webkit-scrollbar {
+    background-color: #ffffff;
+    width: 16px;
+    border-radius: 3px;
+  }
+
+  /* background of the scrollbar except button or resizer */
+  &::-webkit-scrollbar-track {
+    background-color: #ffffff;
+    border-radius: 3px;
+    overflow: hidden;
+  }
+
+  &::-webkit-scrollbar-track:hover {
+    background-color: #f4f4f4;
+  }
+
+  /* scrollbar itself */
+  &::-webkit-scrollbar-thumb {
+    background-color: #babac0;
+    border-radius: 16px;
+    border: 5px solid #ffffff;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background-color: #a0a0a5;
+    border: 4px solid #f4f4f4;
+  }
+
+  /* set button(top and bottom of the scrollbar) */
+  &::-webkit-scrollbar-button {
+    display: none;
+  }
+}
+
+.vti__dropdown-list.below {
+  top: 33px;
+}
+
+.vti__dropdown-list.above {
+  top: auto;
+  bottom: 100%;
+}
+
+.vti__dropdown-arrow {
+  transform: scaleY(0.5);
+  display: inline-block;
+  color: #666666;
+}
+
+.vti__dropdown-item {
+  cursor: pointer;
+  padding: 11px 15px;
+}
+
+.vti__dropdown-item.highlighted {
+  background-color: #f3f3f3;
+}
+
+.vti__dropdown-item.last-preferred {
+  border-bottom: 1px solid #cacaca;
+}
+
+.vti__dropdown-item .vti__flag {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.vti__input {
+  width: 100%;
+  outline: none;
+
+  margin-left: 8px;
+  padding-left: 14px;
+
+  font-family: $main-font-family;
+
+  border: 1px solid #bebebe;
+  border-radius: 3px;
+
+  &:focus {
+    border-color: $grt-blue;
+  }
+}
+
+
+.grt-tel-input {
+  position: relative;
+
+  .grt-text-input__label {
+    left: 124px;
+  }
+
+  .grt-tel-input__arrow-icon {
+    margin-left: auto;
+    width: 12px;
+    height: 12px;
+
+    background-image: url("data:image/svg+xml,%3Csvg width='12' height='12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M5.17 9.05a1 1 0 001.66 0l3.32-4.92a1 1 0 00-.83-1.56H2.68a1 1 0 00-.83 1.56l3.32 4.92z' fill='%23717171'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+
+.grt-tel-input--error {
+  .vti__input,
+  .vti__input:focus {
+    border-color: $coral;
+  }
+
+  .vti__input::placeholder {
+    color: $coral;
+  }
+
+  .grt-text-input__message {
+    display: block;
+  }
+
+  .grt-text-input__label {
+    transform: translateY(-12px) scale(0.85);
+  }
+}
+
+.val-vti {
+  .vti__input,
+  .vti__input:focus {
+    border-color: $azure4;
+  }
+}
+</style>

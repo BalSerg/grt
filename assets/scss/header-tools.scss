@@ -1,0 +1,128 @@
+.header-tools {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+
+  @media screen and (max-width: $desktop-mid - 1) {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 100;
+
+    min-height: 52px;
+    box-sizing: border-box;
+    padding: 10px 0;
+    justify-content: space-between;
+
+    background-color: #ffffff;
+    box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .header-tool {
+    padding: 0;
+    margin-left: 32px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    cursor: pointer;
+
+    @media screen and (max-width: $desktop-mid - 1) {
+      margin-left: 20px;
+      margin-right: 20px;
+
+      .header-tool__icon {
+        svg {
+          path {
+            fill: #5b5b5b;
+          }
+        }
+      }
+    }
+
+    &:hover,
+    &:focus {
+      .header-tool__text {
+        color: $grt-blue;
+      }
+
+      .header-tool__icon {
+        svg {
+          path {
+            fill: $grt-blue;
+          }
+        }
+      }
+    }
+
+    &.active {
+      .header-tool__context {
+        visibility: visible;
+      }
+    }
+
+    .header-tool__context {
+      visibility: hidden;
+    }
+
+    .header-tool__icon {
+      width: 32px;
+      height: 32px;
+      position: relative;
+      display: flex;
+      flex-flow: row nowrap;
+      justify-content: center;
+      align-items: center;
+
+      svg {
+        width: 32px;
+        height: 32px;
+      }
+
+      @media screen and (max-width: $pad - 1) {
+        width: 24px;
+        height: 24px;
+
+        svg {
+          width: 24px;
+          height: 24px;
+        }
+      }
+    }
+
+    .header-tool__text {
+      font-size: 13px;
+      line-height: 1;
+      text-align: center;
+
+      @media screen and (max-width: $pad - 1) {
+        font-size: 10px;
+      }
+    }
+
+    .header-tool__badge {
+      background: $grt-blue;
+      line-height: 11px;
+      font-size: 11px;
+      color: #ffffff;
+      padding: 3px 7px 4px 7px;
+      border-radius: 1em;
+      position: absolute;
+      right: 0;
+      top: 0;
+      z-index: 2;
+
+      &:empty {
+        display: none;
+      }
+
+      @media screen and (max-width: $pad - 1) {
+        font-size: 8px;
+        padding: 2px 5px 3px 5px;
+      }
+    }
+  }
+}

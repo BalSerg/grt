@@ -1,0 +1,920 @@
+{
+  "title": "Uluslararası Ticaret Pazarı",
+  "advantages": {
+    "reason1": "İlk Rus B2B sınır ötesi e-ticaret platformu",
+    "reason2": "Sitemizde 100'den fazla ülkeden şirketler var"
+  },
+  "currency": {
+    "rub": "Rus rublesi",
+    "usd": "Amerikan Doları",
+    "eur": "Euro",
+    "uzs": "Özbek toplamı",
+    "ron": "Yeni Romanya LEU",
+    "kgs": "Kırgız som",
+    "huf": "Macar forint",
+    "aud": "Avustralya doları",
+    "cny": "Çin yuanı",
+    "brl": "Brezilya gerçek",
+    "hkd": "Hong Kong Doları",
+    "jpy": "Japon Yeni",
+    "kzt": "Kazak tenge",
+    "sek": "İsveç Kronu",
+    "try": "Türk Lirası",
+    "czk": "Çek Korunası",
+    "pln": "Polonya zlotisi",
+    "chf": "İsviçre frangı",
+    "inr": "Hint rupisi",
+    "mdl": "Moldova leyi",
+    "bgn": "Bulgar levası",
+    "amd": "Ermeni dram",
+    "azn": "Azerbaycan manatı",
+    "byn": "Beyaz Rusya rublesi",
+    "krw": "Kore Cumhuriyeti kazandı",
+    "dkk": "Danimarka Kronu",
+    "cad": "Kanada Doları",
+    "tmt": "Yeni Türkmen manatı",
+    "nok": "Norveç kronu",
+    "sgd": "Singapur doları",
+    "tjs": "Tacikçe somoni",
+    "uah": "Ukrayna grivnası",
+    "gbp": "İngiliz sterlini",
+    "zar": "Güney Afrika randı"
+  },
+  "selectCurrency": "Para birimi",
+  "features": {
+    "feature1": "İlk Rus B2B sınır ötesi e-ticaret platformu",
+    "feature2": "Sitemizde 100'den fazla ülkeden şirketler var"
+  },
+  "footer": {
+    "contacts": {
+      "call": "Aramak",
+      "everyday": "Her gün",
+      "email": "Bize yazın",
+      "phone": "Yardıma mı ihtiyacınız var?"
+    },
+    "navigation": {
+      "about": "Şirket hakkında",
+      "accept": "Ödemeyi kabul ediyoruz",
+      "benefits": "Pazar yeri avantajları",
+      "buyer": "Alıcı için",
+      "contacts": "Kişiler",
+      "delivery": "Teslimat",
+      "info": "Bilgi",
+      "history": "Şirketin tarihi",
+      "legal": "Tüzel kişiler için",
+      "media": "Medya ve ortaklar",
+      "news": "Haberler",
+      "order": "Nasıl sipariş verilir",
+      "partners": "Ortaklar",
+      "partnership": "Ortaklık",
+      "payment": "Ödeme",
+      "return": "Değişim ve iade",
+      "request": "Bir ürün için istek bırakın",
+      "seller": "Tedarikçi",
+      "start": "İşbirliğini başlatın",
+      "warranty": "Garanti",
+      "wholesale": "Toptan ve B2B müşterileri",
+      "sale_rules": "Satış kuralları",
+      "public_offer": "Halka açık teklif",
+      "regulations": "Yönetmelikler",
+      "terms": "Kullanım Şartları",
+      "privacy": "Gizlilik Politikası",
+      "tariff_payment": "Ödeme kuralları",
+      "tariff_plans": "Tarife planları",
+      "export_services": "İhracat hizmetleri",
+      "success_stories": "Başarı Öyküleri"
+    },
+    "social": "Sosyal ağlardayız",
+    "subscribe": {
+      "agreement": "{user_agreement} ve {policy} kabul ediyorum",
+      "user_agreement": "Kullanıcı sözleşmesi ",
+      "policy": "gizlilik politikasının şartlarını",
+      "email": "E-posta adresiniz",
+      "message": "İlk olmak için abone olun ilginç teklifler hakkında bilgi sahibi olmak",
+      "subscribe": "Abone ol"
+    },
+    "messengers": "Bize Ulaşın"
+  },
+  "header": {
+    "cart": "Araba",
+    "catalog": "Katalog",
+    "enter": "Kişiselleştirilmiş indirimler, bonuslar almak ve siparişleri takip etmek için oturum açın.",
+    "favorites": "Favoriler",
+    "faq": "Sorular ve cevaplar",
+    "become_a_supplier": "Tedarikçi olun",
+    "payment": "Ödeme ve teslimat",
+    "profile": "Profil",
+    "search": "{Count} ürün ve hizmet arasında ara",
+    "supplier": "Nasıl tedarikçi olunur",
+    "user": {
+      "orders": "Emirler",
+      "bio": "Benim verim",
+      "messages": "Mesajlar",
+      "refunds": "Geri ödemeler",
+      "feedback": "Geribildirim ve Sorular",
+      "loyalty": "Sadakat programı",
+      "logout": "Çıkış Yap",
+      "companies": "Şirketlerim"
+    },
+    "sign_up": "kaydol",
+    "sign_in": "İçeri gel",
+    "sign_in_title": "Giriş",
+    "user_cart": {
+      "title": "Sepetim",
+      "total": "Toplam tutar",
+      "goto": "Sepete git"
+    },
+    "partnership": "İşbirliğini başlatın",
+    "buy": "Şimdi al",
+    "order": "Sipariş için"
+  },
+  "product": {
+    "cart": "Sepete ekle",
+    "favorite": "Favorilere ekle",
+    "in_the_cart": "sepette",
+    "to_cart": "sepete",
+    "take_a_look": "Bir göz at",
+    "whole_products": "bütün ürünler",
+    "goods_in_the_cart": "Sepetteki ürünler",
+    "min_amount": "Tedarikçi için minimum sipariş miktarı"
+  },
+  "section": {
+    "header": {
+      "advantages": "GlobalRusTrade'in Avantajları",
+      "events": "Etkinlikler",
+      "news": "Haberler",
+      "watch": "Hepsini izle"
+    }
+  },
+  "login": {
+    "email": "E-posta",
+    "enter_email": "E-postanızı giriniz",
+    "password": "Parola",
+    "password_forgot": "Parolanızı mı unuttunuz?",
+    "enter_correct_password": "Doğru şifreyi girin",
+    "registration": "Kayıt",
+    "password_requirement": {
+      "message": "Verilerinizi korumak için güvenli bir parola oluşturmalısınız",
+      "min_length": "{count} veya daha fazla karakter",
+      "letters": "harfler",
+      "figures": "rakamlar",
+      "new_password_message": "Lütfen aşağıdakileri içeren yeni bir şifre girin:"
+    },
+    "register_now": "Şimdi üye Ol",
+    "create_password": "şifre oluştur",
+    "receive_personal_offers": "Kişisel teklifler alın",
+    "accept_terms": {
+      "accept": "Kaydolduktan sonra, şartlarını kabul ediyorum",
+      "agreement": "Kullanıcı Sözleşmesi"
+    },
+    "registration_ending": "Kaydın tamamlanması",
+    "email_confirm_message": "Lütfen adresine gönderilen mektupta kaydı onaylayın",
+    "didnt_get_email": "Emaili almadın mı?",
+    "check_spam": "E-posta 5 dakikadan fazla gelmezse Spam klasörünüzü kontrol edin. Bazen mektuplar posta sistemleri tarafından engellenir.",
+    "check_spelling": "E-postanızın yazımını kontrol edin",
+    "request_resend": "Yeniden gönderme e-postası isteyin",
+    "didnt_help": "Yardım etmedi? Bize e-posta gönderin",
+    "password_recovery": "Şifre kurtarma",
+    "password_recovery_via_email_1": "E-postanıza şifrenizi sıfırlamak için bir bağlantı gönderilecektir",
+    "password_recovery_via_email_2": ".",
+    "password_recovery_via_email_3": "{email} e-postanıza şifrenizi sıfırlamak için bir bağlantı gönderildi.",
+    "password_recovery_via_email_4": "E-postanıza şifrenizi sıfırlamak için bir bağlantı gönderilecektir {email} .",
+    "send": "Gönder",
+    "save": "Kayıt etmek",
+    "password_change_success_message": "parola başarıyla değiştirildi",
+    "wait_for_redirect": "5 saniye içinde ana sayfaya yönlendirmeyi bekleyin veya aşağıdaki düğmeyi tıklayın",
+    "go_to_website": "Web sitesine git",
+    "password_recovery_expired_1": "Parola sıfırlama bağlantınız güncel değil.",
+    "password_recovery_expired_2": "Lütfen tekrar şifre kurtarma talebinde bulunun.",
+    "go_to_mainpage": "Ana sayfaya git",
+    "registration_confirm": "kayıt onayı",
+    "registration_successful": "Kayıt başarıyla onaylandı",
+    "resend_email": "E-postayı yeniden gönderme",
+    "resend_email_instructions": "Kaydı onaylamak için bir bağlantı e-postanıza ({email}) yeniden gönderilecektir.",
+    "resend_email_instructions_after_submit": "E-postanıza kaydı onaylamak için bir bağlantı gönderildi {email}.",
+    "send_email_again": "Elektronik postayı tekrar gönder"
+  },
+  "errors": {
+    "500": {
+      "something_went_wrong": "Oops! Bir şeyler yanlış gitti…",
+      "message": "Bir hata oluştu. Merak etmeyin, sorunu çözmek için çalışıyoruz. Yakında buradayız ve yenilenmiş bir enerji ile alışverişin tadını çıkarabilirsiniz.",
+      "link": "Sayfayı yenile"
+    },
+    "400": {
+      "message": "Hiçbirşey Bulunamadı",
+      "link": "Anasayfa"
+    },
+    "something_wrong": "Bir şeyler yanlış gitti"
+  },
+  "name": "İsim",
+  "enter_name": "Adınızı giriniz",
+  "must_sign_in": "Bunu yapmak için giriş yapmalısın",
+  "phone_required": "Telefon*",
+  "phone_code": "Ülke kodunu seçin ve telefon numaranızı girin",
+  "enter_phone": "Telefon numaranızı girin",
+  "enter_quantity": "Miktarı girin",
+  "order_accepted": "Başvurunuz kabul edildi",
+  "we_will_call": "En kısa zamanda sizinle iletişime geçeceğiz.",
+  "you_are_subscribed": "Tebrikler! Abonesin.",
+  "added_to_cart": "Ürün sepete eklendi",
+  "language": "Dil",
+  "of_goods": "mal",
+  "price_demand": "Talep üzerine fiyat",
+  "goto_catalog": "Kataloğa git",
+  "settings": "Ayarlar",
+  "delivery_terms": "Teslimat şartları",
+  "payment_methods": "Ödeme metodları",
+  "return_conditions": "İade koşulları",
+  "returns": "İadeler",
+  "palekh": {
+    "showmore": "Daha fazla göster",
+    "video": {
+      "title": "Özel Saatlerde Somutlaşan Palekh Sanat Gelenekleri"
+    },
+    "showcase": {
+      "title": "Dikkate Değer Saatler",
+      "dark_title": "Fantastik Siyah Kadran",
+      "link": "Hepsini izle",
+      "summerGarden": "Yeni koleksiyon \"Yaz Bahçesi\"",
+      "other_collections": "Palekh Watch'ın diğer koleksiyonları",
+      "winterCollection": "Palekh Watch'ın kış koleksiyonu",
+      "womanCollection": "Kadınlar için Palekh İzle",
+      "manCollection": "Erkekler için Palekh İzle"
+    },
+    "features": {
+      "readmore": "Daha fazla detay",
+      "picture": {
+        "title": "El Boyama",
+        "intro": "Her kadran elle boyanmıştır ve dünya çapında bilinen eşsiz Palekh minyatürünün güzelliğini kendi içinde tutar.",
+        "article": [
+          "Her kadran elle boyanmıştır ve dünya çapında bilinen eşsiz Palekh minyatürünün güzelliğini kendi içinde tutar. Zengin renkler, zarif çizgiler, telkari fırça darbeleri ve halk masallarının duygusal taslakları, Paris'teki Venedik Art Vernissage ve World Expo'da heyecan yarattı. Artık bileğiniz efsanevi tablolarla süslenecek.",
+          "Boyama teknolojisinin sırları nesilden nesile aktarılıyor. Saat, Rus sanatçıların asırlık geleneklerini korumuştur. Ustalar önce kadranları siyah mine ile kaplar, taslağı süngertaşı ile aktarır, ardından badana uygular. Ardından kadranları tempera boyalarıyla boyadılar.",
+          "Halk masallarından en sevdiğiniz karakterler ince fırçaların altında hayat buluyor. Burada ateş kuşu havalanıyor, burada üç at koşuyor, havayı kesiyor ve işte çilek çayırında sepeti olan güzel bir kızlık. Daha sonra sanatçılar tabloyu cilalar, altın uygular, bir kurt dişi ile cilalar, verniği yeniden uygular ve parlaklık katar."
+        ]
+      },
+      "gears": {
+        "title": "İsviçre Hareketi",
+        "article": [
+          "Saatler hem içeride hem de dışarıda ustaca hazırlanmış. Doğruluktan güvenilir İsviçre veya Japon hareketleri sorumludur. Şok önleyici cihaz, şok titreşimlerine karşı koruma sağlar. Saatler, 25 yıllık bir geçmişe ve güvenilir bir üretici ününe sahip Poljot Klassika şirketi tarafından monte edilmektedir."
+        ]
+      },
+      "box": {
+        "title": "Ahşap Saat Kutusu",
+        "article": [
+          "Saat, asil ceviz renginde birinci sınıf bir hediye kutusu içinde paketlenmiştir. Kasa değerli ahşaptan yapılmıştır ve bir vernikle kaplanmıştır. İç kısmı bej renkli sürü ile tamamlanmıştır."
+        ]
+      },
+      "belt": {
+        "title": "Deri Kayış",
+        "article": [
+          "Kompozisyonun bir diğer çarpıcı unsuru, dokulu kabartmalı gerçek deriden yapılmış bir kayış. Minyatürü uyumlu bir şekilde tamamlayan 7 farklı tonda mevcuttur: siyah, kahverengi, beyaz, kırmızı, lacivert, yeşil veya bej."
+        ]
+      },
+      "case": {
+        "title": "Kasa ve Cam",
+        "article": [
+          "Saatin kalitesi ve güvenilirliği de kasa tarafından vurgulanmaktadır. Çinko-alüminyum alaşımından veya altın veya krom kaplamalı paslanmaz çelikten yapılmıştır. Metalik parlaklık kadranları güzel bir şekilde vurgular. Su geçirmez mineral cam, ev tipi çizilmelere karşı korur. Saat, küçük kazara sıçramalara karşı dayanıklıdır."
+        ]
+      }
+    },
+    "about": {
+      "title": "Proje hakkında",
+      "article": [
+        "Sanat zamanı! Eşsiz Palekh Watch, Palekh resminin güzelliğini Japon ve İsviçre saat hareketlerinin kalitesiyle birleştirir.",
+        "Bu saat sadece güzel bir aksesuar değil, aynı zamanda el yapımı işçiliğin sıcaklığını ve asırlık işçilik geleneklerini koruyan gerçek bir sanat eseridir. Her kadran, geleneksel minyatür yaratımın tüm aşamalarını takip ederek Palekh köyünden bir zanaatkâr tarafından elle boyanmıştır. Örneğin, vurgular altınla boyanmıştır - tıpkı yüz yıl önce olduğu gibi. Tek bir kadranın oluşturulması, bu kadar hassas bir çalışma nedeniyle tüm ayı alabilir. Sevilen masallar, geleneksel süslemeler ve doğanın eşsiz güzelliği minyatürlerin ilham kaynağı oldu. Ayrıca sezonluk sınırlı sayıda saat üretmekteyiz.",
+        "Palekh Watch, yalnızca Global Rus Ticaret pazarında sunulmaktadır."
+      ]
+    },
+    "faq": {
+      "title": "SSS",
+      "primary_phone": "+7 (909) 646-56-65",
+      "secondary_phone": "+7 (495) 256 26 25",
+      "alt_phone": "+7 (495) 921-45-60",
+      "email": "infо@globalrustrade.com",
+      "alt_email": "sales@simvolika.ru",
+      "questions": [
+        {
+          "question": "Teslimatın maliyeti ve şartları nedir?",
+          "answer": [
+            "Rusya içi teslimat ücretsizdir ve 2-14 gün içinde Russian Post tarafından gerçekleştirilir. Moskova ve Moskova bölgesi için - ertesi gün.",
+            "Diğer ülkelere teslimatın yanı sıra kurye hizmetleri ile ödeme yapılır. Web sitesinde sipariş verirken maliyeti otomatik olarak hesaplanabilir.",
+            "Bir yönetici aracılığıyla sipariş vermek için, lütfen {birincil_ telefon}, {ikincil_ telefon} veya e-posta {e-posta} adresinden bizimle iletişime geçin."
+          ]
+        },
+        {
+          "question": "Hediye olarak bir saat vermek istiyorum. Nasıl yapılır?",
+          "answer": [
+            "Herhangi bir saat, dileklerinizin bulunduğu bir kartpostal eklenmiş bir hediye kutusunda gönderilebilir.",
+            "Hediye olarak sipariş vermek için lütfen bize telefonlardan {birincil_ telefon}, {ikincil_ telefon} veya e-posta {e-posta} yoluyla ulaşın."
+          ]
+        },
+        {
+          "question": "Bir saati satın almadan önce deneyebilir miyim?"
+        },
+        {
+          "question": "Garanti neyi kapsar?",
+          "answer": [
+            "Hareket, eller ve kasa için en az 1 yıllık garanti geçerlidir. Garanti süresi boyunca, saatin arızası veya arızası kaza veya yanlış kullanımdan kaynaklanmıyorsa, ayarlamalar, onarımlar, montaj birimlerinin değiştirilmesi veya hareket ücretsizdir.",
+            "Garanti durumundan yararlanmak için bize e-posta ile {alt_email} ulaşın veya {alt_phone} numaralı telefonu arayın",
+            "Garanti, normal aşınma, yıpranma ve eskimeden kaynaklanan estetik değişiklikleri, kusurları ve hasarları (örneğin, kasa veya camda küçük çizikler, bilezikte aşınma, kaplamanın soyulması vb.) Kapsamaz."
+          ]
+        },
+        {
+          "question": "Bir ürünü değiştirmek veya iade etmek mümkün mü?",
+          "answer": [
+            "Ürünü, alınmasından itibaren 30 gün içinde ücretsiz olarak iade edeceğiz. Saat, orijinal ambalajında, bozulmamış etiketler ve koruyucu filmler ile, çizik, kayış üzerinde kırışıklık ve diğer aşınma belirtileri olmadan kullanılmamış olmalıdır.",
+            "Geri ödeme yapmak için lütfen bize telefonla {birincil_ telefon}, {ikincil_ telefon} veya e-posta {e-posta} yoluyla ulaşın."
+          ]
+        }
+      ]
+    },
+    "form": {
+      "title": "Bir danışmaya mı ihtiyacınız var? Geri arama için bir istek bırakın",
+      "comment": {
+        "label": "Yorum Yap",
+        "message": "yorum Yap"
+      },
+      "thanks": "Teşekkürler, veriler başarıyla gönderildi!",
+      "message": "Yöneticiler yakında sizinle iletişime geçecek.",
+      "contacts": "Beklemek istemiyorsanız, bizi {birincil_ telefon} veya {ikincil_ telefon} arayın"
+    },
+    "benefits": {
+      "shipping": {
+        "title": "Rusya içinde ücretsiz gönderim",
+        "content": "Rusya içi teslimat ücretsizdir ve 2-14 gün içinde Russian Post tarafından gerçekleştirilir. Moskova ve Moskova bölgesi için teslimat ertesi gün gerçekleştirilecek."
+      },
+      "return": {
+        "title": "30 gün içinde ücretsiz iade",
+        "content": "Saatinizi teslim aldığınız tarihten itibaren 30 gün içerisinde ücretsiz olarak iade edebilirsiniz. Ürün hasar görmemişse, sunumunu sürdürüyorsa ve aşınma belirtisi yoksa, ürünün maliyetini geri ödeyeceğiz."
+      },
+      "painting": {
+        "title": "Yazarın benzersiz tablosu",
+        "content": "Palekh sanatçılarının efsanevi tablosu ile özel bir saatin sahibi olun. Çeşitli renkli folklor motiflerinden birini seçin. Her modelde bir peri masalının büyüsü."
+      },
+      "technology": {
+        "title": "Geleneksel teknoloji",
+        "content": "Kadran, bir asır önceki ile aynı şekilde boyanmıştır. Ustalar, resim teknolojisinin tüm aşamalarını gözlemler ve efsanevi sanatın geleneklerini korurlar."
+      }
+    },
+    "watch": {
+      "107906": "Sanatçı Suloeva, «LEL» izleyin",
+      "107903": "Sanatçı Chaparina, «Swan Princess» i izleyin",
+      "107894": "\"Firebird\" i izle, sanatçı Smirnov",
+      "107904": "\"Swan\" ı izleyin, sanatçı Kuzmenko",
+      "107893": "\"Firebird\" i izle, sanatçı Smirnov",
+      "107895": "\"Japon Balığı\" nı izleyin, sanatçı Smirnov",
+      "107899": "\"Balıkçının ve Balıkların Hikayesi\" ni izleyin, sanatçı Smirnov",
+      "98030": "Sanatçı Lukina, «Firebird» i izle",
+      "107896": "Sanatçı Smirnov'u «Müzisyenler» izleyin",
+      "98033": "Sanatçı Smirnov'u «Buluşma» izleyin",
+      "98035": "\"Goldilocks\" u izleyin, sanatçı Kornilova",
+      "98034": "Sanatçı Lukina «Bahçede» izle",
+      "98032": "\"Harika Kuşlar\" ı izleyin, sanatçı Smirnov",
+      "92186": "Sanatçı Surikova, «Çift» i izle",
+      "107915": "Sanatçı Suloeva, «Guidon» u izleyin",
+      "107905": "Sanatçı Kuzmenko, «Çilek ile» izle",
+      "107908": "Sanatçı Kuzmenko, «Kuyudaki» izleyin",
+      "107909": "Sanatçı Gavrilov \"Kuşlar\" ı izleyin",
+      "107910": "Sanatçı Kuzmenko, «Çift» i izle",
+      "107911": "\"Firebird\" i izle, sanatçı Gavrilov",
+      "107914": "\"Firebird\" i izleyin, sanatçı Kuzmenko",
+      "107897": "Sanatçı Kornilova, «Lukomorye Yakınları» nı izleyin",
+      "107898": "Sanatçı Shahanitsina «Muhteşem Kuşlarla Bahçe» izleyin",
+      "98031": "Sanatçı Lukina, «LEL» izleyin",
+      "98028": "\"Firebird Tüyleri\" ni izleyin, sanatçı Smirnov",
+      "98029": "\"Tarih\" i izle, sanatçı Smirnov",
+      "92184": "Sanatçı Lukina «Berry kızı» izleyin",
+      "92185": "Sanatçı Surikova, «Çift» i izle",
+      "107913": "Sanatçı Chibisova, «Орнамент» izleyin",
+      "107912": "Sanatçı Chibisova, «Орнамент» izleyin",
+      "108548": "\"Assol\" u izleyin, sanatçı Mamina",
+      "108565": "Sanatçı Mamina \"By the Lukomorya\" yı izleyin",
+      "108568": "\"Melekler\" i izle, sanatçı Kornilova",
+      "108569": "\"Princess Swan\" ı izleyin, sanatçı Mamina",
+      "108563": "\"Firebird\" i izle, sanatçı Smirnov",
+      "108564": "Sanatçı Smirnov \"Birds\" i izle",
+      "108566": "\"Balıkçının ve Balıkların Hikayesi\" ni izleyin, sanatçı Smirnov",
+      "108541": "\"The Swan Princess\" i izle, sanatçı Mamina",
+      "108542": "\"Çift\" i izle, sanatçı Smirnov",
+      "108543": "\"Thumbelina\" yı izleyin, sanatçı Mamina",
+      "108545": "\"Muzaffer George\" u izleyin, sanatçı Kornilov",
+      "108546": "\"Ivan Tsarevich ve gri kurt\" u izleyin, sanatçı Kornilova",
+      "108547": "Sanatçı Kornilova \"Sivka-burka\" yı izleyin",
+      "108549": "\"Ognevushka-jump\" ı izleyin, sanatçı Kornilova",
+      "108553": "\"The Tale of Tsar Saltan\" ı izleyin, sanatçı Smirnov",
+      "108556": "\"Firebird\" i izle, sanatçı Gavrilov",
+      "108557": "\"Lel\" i izle, sanatçı Kornilova",
+      "108558": "\"Ruslan\" ı izleyin, sanatçı Smirnov",
+      "108559": "\"Firebird\" i izle, sanatçı Smirnov",
+      "108560": "Sanatçı Kornilov, \"Archangel Michael\" ı izleyin",
+      "108561": "\"George\" u izleyin, sanatçı Kornilova",
+      "108567": "\"Miracle Yudo balık balinası\" nı izleyin, sanatçı Smirnov",
+      "108570": "\"Uçak halısı\" nı izleyin, sanatçı Smirnov",
+      "108571": "\"Stone Flower\" ı izleyin, sanatçı Smirnov",
+      "108572": "\"Firebird\" i izle, sanatçı Smirnov",
+      "108573": "\"Swing\" İzle, sanatçı Smirnov",
+      "108575": "Sanatçı Mamina \"By the Lukomorya\" yı izleyin",
+      "108576": "\"Balıkçının ve Balıkların Hikayesi\" ni izleyin, sanatçı Smirnov",
+      "108581": "\"Horozlar\" ı izleyin, sanatçı Kornilova",
+      "108584": "\"Savannah\" adlı videoyu izleyin, sanatçı Kornilova",
+      "108585": "\"Yelkenli gemi\" yi izleyin, sanatçı Mamina",
+      "108586": "\"Uyuyan Güzelin Hikayesi\" ni izleyin, sanatçı Smirnov",
+      "108587": "\"Çay Partisi\" ni izleyin, sanatçı Smirnov",
+      "108588": "\"Havacılık\" ı izleyin, sanatçı Mamina",
+      "108589": "\"Firebird\" i izle, sanatçı Smirnov",
+      "108590": "\"Cennet Kuşları\" nı izleyin, sanatçı Smirnov",
+      "108591": "\"Scarlet Flower\" ı izleyin, sanatçı Mamina",
+      "108582": "Sanatçı Gavrilov \"St. George\" u izleyin",
+      "108583": "\"Gece\" yi izle, sanatçı Kornilova",
+      "108766": "\"Sadko\" yu izleyin, sanatçı Kornilova",
+      "108710": "\"Ornament\" ı izleyin, sanatçı Chibisova",
+      "108765": "\"Avcılık\" ı izleyin, sanatçı Gavrilov,",
+      "108767": "\"Taş Çiçek\" i izle, sanatçı Kornilova",
+      "108768": "\"Sleeping Princess\" i izle, sanatçı Kornilova",
+      "126009": "\"Sun\" u izleyin, sanatçı Gavrilov",
+      "125989": "\"Moon\" u izleyin, sanatçı Gavrilov",
+      "125988": "Sanatçı Mamina'yı \"Sunshine\" izleyin",
+      "125987": "\"Gündüz ve Gece\" yi izleyin, sanatçı Smirnov",
+      "125986": "Sanatçı Smirnov \"Güneş ve Ayın Buluşması\" nı izleyin",
+      "125985": "\"Hayalperestler\" i izle, sanatçı Smirnov",
+      "125984": "\"City at night\" filmini izleyin, sanatçı Mamina",
+      "125983": "\"Sun\" u izleyin, sanatçı Gavrilov",
+      "125982": "Sanatçı Mamina \"Midnight Date\" i izleyin",
+      "125981": "Sanatçı Kornilova, \"Yıldızlara Ulaşın\" ı izleyin",
+      "125980": "\"Melekler\" i izleyin, sanatçı Mamina",
+      "174762": "Sanatçı Gavrilov \"Bahar Çiçekleri Buketi №2\" yi izleyin",
+      "174761": "Sanatçı Smirnov, \"3 No'lu Şakayıkların Hassasiyeti\"ni izleyin",
+      "174760": "\"Sihirli Bahçe No. 15\"i izleyin, sanatçı Kornilov",
+      "174759": "Sanatçı Kornilova \"Muhteşem kuş №14\"ü izleyin",
+      "174755": "Sanatçı Smirnov \"Güneşten Daha Parlak №7\"yi izleyin",
+      "174756": "Sanatçı Smirnov, \"3 No'lu Şakayıkların Hassasiyeti\"ni izleyin",
+      "174757": "Sanatçı Smirnov \"Kuşburnu Çalıları No. 15\"i izleyin",
+      "174758": "Sanatçı Mamina \"Kiraz Bahçesi No. 7\"yi izleyin",
+      "174754": "\"Sihirli Bahçe No. 11\"i izleyin, sanatçı Smirnov",
+      "174753": "\"Ease of Flight No. 4\"ü izleyin, sanatçı Smirnov",
+      "174752": "Sanatçı Smirnov \"Sulu Kiraz No. 6\"yı izleyin",
+      "174751": "Sanatçı Gavrilov \"Güneşten Daha Parlak №7\"yi izleyin",
+      "174749": "\"Sihirli Bahçe No. 13\"ü izleyin, sanatçı Gavrilov",
+      "174750": "Sanatçı Gavrilov \"Muhteşem Kuş No. 12\"yi izleyin",
+      "108574": "\"Troika №28\"i izleyin, sanatçı Smirnov",
+      "108562": "Sanatçı Mamina \"Morozko №51\"i izleyin",
+      "108551": "Sanatçı Smirnov \"Troika №7\"yi izleyin",
+      "107902": "Sanatçı Kuzmenko \"Morozko №46\"yı izleyin",
+      "292190": "\"Gümüş toynak №58\"i izleyin, sanatçı Smirnov",
+      "292189": "Sanatçı Smirnov \"Buz pateni №33\"ü izleyin",
+      "292188": "Sanatçı Kornilova \"Snow Queen №216\"yı izleyin",
+      "292186": "Sanatçı Kornilova \"12 ay №215\"i izleyin",
+      "292184": "Sanatçı Smirnov \"Kış №34\"ü izleyin",
+      "292183": "Sanatçı Kornilova \"Fındıkkıran №214\"ü izleyin",
+      "292182": "Sanatçı Smirnov \"Paysage №59\"u izleyin",
+      "292181": "\"Gümüş toynak №25\"i izleyin, sanatçı Smirnov",
+      "108578": "\"Troika №45\"i izleyin, sanatçı Kuzmenko",
+      "108577": "Sanatçı Chaparina \"Gümüş toynak №57\"yi izleyin",
+      "107907": "\"Troika №38\"i izleyin, sanatçı Chaparina",
+      "107901": "\"Gümüş toynak №39\"u izleyin, sanatçı Chaparina",
+      "107900": "Sanatçı Chaparina \"Troika №56\"yı izleyin",
+      "98036": "Sanatçı Kornilova \"Snow Queen №1\"i izleyin",
+      "293583": "Sanatçı Smirnov \"Morozko №27\"yi izleyin",
+      "293585": "Sanatçı Chaparina \"Troyka №9\"u izleyin",
+      "293586": "\"Gümüş toynak №10\"u izleyin, sanatçı Chaparina",
+      "293616": "Palekh izle / İzle \"Kar Kraliçesi №33\", sanatçı Kornilova",
+      "293617": "Sanatçı Kornilova \"Kar Kraliçesi №12\"yi izleyin",
+      "293618": "Sanatçı Kornilova \"Fındıkkıran №14\"ü izleyin",
+      "293619": "\"Bullfinches №1\"i izleyin, sanatçı Chibisova",
+      "293620": "\"Squirrel №2\"yi izleyin, sanatçı Chibisova",
+      "293621": "\"Pasage №15\"i izleyin, sanatçı Kornilova",
+      "292185": "\"Gümüş tabak altın elma №179\" izle, sanatçı Chibisova",
+      "277016": "\"Yaz Tazeliği\"ni izleyin, sanatçı Chibisova",
+      "210782": "Sanatçı Gavrilov \"1 No'lu lalelerin parlak sıçramaları\"nı izleyin",
+      "210781": "\"Muhteşem kuş №10\"u izleyin, sanatçı Smirnov",
+      "206667": "Sanatçı Gavrilov \"Yalnız Kurt №14\"ü izleyin",
+      "206669": "Sanatçı Kornilov \"Gece Yarısı Şarkısı No. 12\"yi izleyin",
+      "293584": "Sanatçı Gavrilov \"Firebird №6\"yı izleyin",
+      "108709": "\"Ornament №77\" kronograf-kuvars, sanatçı Chibisova'yı izleyin",
+      "293587": "Sanatçı Gavrilov \"Firebird №7\"yi izleyin"
+    },
+    "slides": {
+      "alts": [
+        "Kadranlardaki resimler Palekh'li zanaatkârlar tarafından yapılmıştır.",
+        "Resimlerdeki vurgular altınla yapılmıştır.",
+        "Esnaf, resimleri orijinal eskizlerden kadranlara aktarır."
+      ]
+    }
+  },
+  "go_to_cart": "Sepete git",
+  "benefits_title": "Avantajlarımız",
+  "benefits": {
+    "price": "Kendinizi daha sık memnun edebilmeniz için uygun fiyatları koruyoruz",
+    "quality": "Pazarımızdaki malların kalitesinden sorumluyuz",
+    "speak": "11 dil konuşuyoruz, böylece sizinle kolayca ortak bir dil bulabiliriz",
+    "express": "Ürünlerinizi dünyanın her yerine sorunsuz bir şekilde teslim edeceğiz",
+    "return": "Malların iadesi veya değiştirilmesi çok zaman veya çaba gerektirmez"
+  },
+  "quick_order": "Yaptırmak",
+  "catalog": {
+    "sort": {
+      "default": "Varsayılan olarak",
+      "new": "Önce yeni",
+      "priceasc": "Önce ucuz",
+      "pricedesc": "Önce pahalı",
+      "relevant": "En uygun",
+      "popular": "Popüler"
+    }
+  },
+  "meta": {
+    "title": "Uluslararası çevrimiçi perakende ve toptan satış hizmeti",
+    "description": "Binlerce benzersiz ürün, dünya çapında nakliye",
+    "category_desсription": "toptan ve perakende, piyasadaki tedarikçilerin fiyatlarını karşılaştırın Global Rus Trade. 🚚 Hızlı ve rahat teslimat! ✅ Servis ve garanti!",
+    "category_page_title": "Global Rus Trade'de satın alın",
+    "twitter_description": "Doğru ürünü bulmanın hızlı ve ücretsiz bir yolu",
+    "events_description": "Global Rus Trade'de yaklaşan sergiler ve etkinlikler hakkında bilgi edinin. GRT ile tüm gelecek ticaret fuarları, teşhirler, forumlar ve önemli etkinlikler hakkında güncel kalın.",
+    "news_description": "Global Rus Trade pazarındaki Rus ihracat haberlerini takip edin."
+  },
+  "reset": "Sıfırla",
+  "min_value": "Minimum değer",
+  "max_value": "Maksimum değer",
+  "cookie_accept": "Çerezler kullanıyoruz. Onların yardımıyla, siteyi iyileştirerek sizinle ilgileniyoruz.",
+  "coockie_agreed": "katılıyorum",
+  "clear_all": "Hepsini temizle",
+  "see_all": "Hepsini gör",
+  "collapse": "Çöküş",
+  "range": {
+    "from": "itibaren",
+    "to": "-e"
+  },
+  "homepage": "Ev",
+  "filters": "Filtreler",
+  "form_supplier": {
+    "title": "İşbirliği başvurusu",
+    "site": "Şirket Web Sitesi",
+    "company": "Şirket Adı",
+    "comment": "Yorum / Soru",
+    "offer": "Ticari teklif (fiyat listesi)",
+    "attach_file": "Dosya eki",
+    "file_size": "(maksimum  30 Мb)",
+    "error_format": "Dosya formatla eşleşmiyor ",
+    "error_size": "30Mb üzerinde dosya",
+    "thank_you": "Teşekkür ederim!",
+    "we_will_call": "Global Rus Trade'e gösterdiğiniz ilgiye teşekkür ederiz, kısa süre içinde sizinle iletişime geçeceğiz.",
+    "enter_company": "Şirketinizin adını girin"
+  },
+  "ok": "Tamam mı",
+  "no_products": "Herhangi bir öğe bulamadık. Diğer ürün filtrelerini uygulayabilir veya sayfanın üst kısmındaki arama kutusunu kullanabilirsiniz.",
+  "search": {
+    "tabs": {
+      "products": "Ürün:% s",
+      "services": "Hizmetler",
+      "suppliers": "Firmalar"
+    },
+    "blank": {
+      "title": "Üzgünüz, sonuç bulunamadı.",
+      "description": "Lütfen başka bir arama deneyin veya aradığınız ürünleri içerebilecek katalog dizinine göz atın."
+    },
+    "filters": {
+      "categories": "Kategoriler"
+    }
+  },
+  "vendor_code": "Satıcı kodu",
+  "reviews": "incelemeler",
+  "product_rating": "Ürün derecelendirmesi",
+  "rate_the_product": "Ürünü değerlendirin",
+  "rating_options": {
+    "awful": "Korkunç",
+    "bad": "Kötü",
+    "fine": "İnce",
+    "good": "İyi",
+    "excellent": "Mükemmel"
+  },
+  "price_as_title": "Fiyat",
+  "to_reduce": "Azalt",
+  "to_enlarge": "Büyütmek için",
+  "brand_name": "Marka adı",
+  "seller_name": "Tedarikçi",
+  "description": "Açıklama",
+  "characteristics": "Özellikler",
+  "show_full_description": "Tam açıklamayı göster",
+  "hide_full_description": "Tam açıklamayı gizle",
+  "hide_some_of_the_characteristics": "Bazı özellikleri gizle",
+  "show_all_characteristics": "Tüm özellikleri göster",
+  "special_conditions": "Özel durumlar",
+  "for_legal_entities": "tüzel kişiler için",
+  "conditions_for_legal_entities": "Tüzel kişiler için koşullar",
+  "price_for_legal_entities": "Tüzel kişiler için fiyat",
+  "minimum_lot_for_purchase": "Satın almak için minimum lot",
+  "company_represented_on_site": "Şirket sitede temsil edilmektedir",
+  "years": "1 yıl | {n} yıl",
+  "show_next_photo": "Sonraki fotoğrafı göster",
+  "show_previous_photo": "Önceki fotoğrafı göster",
+  "slide": "Kaymak",
+  "send_search_request": "Arama isteği gönder",
+  "open_menu": "Kullanıcı menüsünü aç",
+  "go_to_prev_page": "Önceki sayfaya git",
+  "go_to_next_page": "Sonraki sayfaya git",
+  "suppliers": {
+    "pagetitle": "Şirketin ürünleri"
+  },
+  "show_navigation": "Kategori listesini göster",
+  "show_filters": "Filtreleri göster",
+  "choose_sorting": "Bir sıralama yöntemi seçin",
+  "similar_products": "Benzer ürünler",
+  "search_results_by_request": "{request} {entity} isteği üzerine bulundu:",
+  "additional_info": "Ek Bilgiler",
+  "current_exchange_rate": "Fiyat cari döviz kuruna göre hesaplanır",
+  "universal": {
+    "date": {
+      "range": {
+        "from": "itibaren",
+        "to": "için"
+      }
+    }
+  },
+  "fakebreadcrumbs": {
+    "events": "Etkinlik Takvimi",
+    "docs": "Belgeler",
+    "news": "Tüm haberler"
+  },
+  "goods": "{n} mal",
+  "docs_intro": "Bu sayfada, elektronik ticaret platformu GlobalRusTrade.com'da - pazar kuralları ve prosedürleri, kullanım koşulları, gizlilik politikası ve diğerleri üzerinde mal satın alırken veya satarken faydalı olabilecek belgeleri bulabilirsiniz. Herhangi bir sorunuz varsa - bize info@globalrustrade.com adresinden yazın.",
+  "go_back": "Geri gitmek",
+  "product_is_over": "ürün bitti",
+  "withdrawn_from_sale": "Satıştan çekildi",
+  "complain": {
+    "button": "Ürünü şikayet edin",
+    "title": "Sebep",
+    "comment": "Yorum Yap",
+    "error_format": "Dosya formatla eşleşmiyor",
+    "reason1": "Yanlış açıklama",
+    "reason2": "kalitesiz mallar",
+    "reason3": "taklit mallar",
+    "reason4": "Başka",
+    "thank_you": "İlginiz için teşekkür ederiz!",
+    "send": "Şikayetiniz değerlendirilmek üzere gönderildi. Mutlaka kontrol edeceğiz ve gerekirse önlem alacağız."
+  },
+  "empty_field": "Alanı doldurun",
+  "product-not-available": "Ne yazık ki, bu ürün mevcut değil. Bir dizi benzer ürüne göz atın - belki de tam olarak aradığınız şey vardır.",
+  "сhoose_one_option": "Bir seçenek belirleyin",
+  "currencyLocalType": "Euro",
+  "checkout": {
+    "heading": "Ödeme",
+    "user_data": "alıcı bilgileri",
+    "goods_quantity": "miktar",
+    "delivery_heading": "Teslimat adresini girin",
+    "delivery_action": "Adresi haritada belirtin",
+    "delivery_methods": "Bir teslimat yöntemi seçin",
+    "recipient": "alıcı",
+    "change_recipient": "Alıcıyı Değiştir",
+    "parcel": "Parsel",
+    "goods": "Mal",
+    "discount": "İndirim",
+    "choose": "Seçmek",
+    "close": "Kapat",
+    "message_many_parcels": "Sipariş, farklı depolardan gönderileceği için birkaç koli halinde gelecektir.",
+    "submit": "Ödemeye devam et",
+    "hide": "Saklamak",
+    "days": "{n} gün | {n} gün",
+    "parcels": "{n} parsel | {n} parsel",
+    "address_placeholder": "Şehir, Sokak, Ev, Daire/Ofis",
+    "delivery_type_error": "Uygun bir teslimat yöntemi seçin",
+    "delivery_method_error": "Bir teslimat hizmeti seçin",
+    "address_error": "Adresinizi doğru girin veya otomatik seçimi kullanın",
+    "postal_code_error": "Doğru teslimat için posta kodunu girin",
+    "target_invalid": "Gerekli tüm alanları doldurun.",
+    "delivery_type": {
+      "post": {
+        "description": "Postaneye teslimat",
+        "name": "Posta teslimi"
+      },
+      "courier": {
+        "description": "Belirttiğiniz adrese kurye ile teslimat",
+        "name": "kurye servisi"
+      },
+      "pack-station": {
+        "name": "alma noktaları",
+        "description": "Teslim alma noktasına teslimat"
+      },
+      "self-delivery": {
+        "name": "Kendi kendine teslimat",
+        "description": "Depomuzdan teslim alın"
+      }
+    },
+    "has-no-parcels": "Ödeme için ürününüz yok",
+    "index": "Posta kodu",
+    "delivery_warning": "Bölgenize teslimatta zorluklar var. Yöneticimiz size alternatifler konusunda tavsiyede bulunacaktır."
+  },
+  "notes": {
+    "cart_change": "Sepetinizdeki bazı ürünler stokta yok veya miktarları değişti.",
+    "cart_order": "Seçilen kalemler için koşulları tedarikçilerle birlikte kontrol etmek gerekir. Bir talep bıraktığınız anda uzmanlarımız onlarla iletişime geçecektir. Daha sonra siparişinizi onaylamak için belirtilen telefon numarasından sizinle iletişime geçeceğiz."
+  },
+  "cart": {
+    "remove_selected": "Seçilenleri kaldır",
+    "recommend": "Önermek",
+    "delivery": "Teslimat",
+    "costOfDelivery": "teslimat ücreti",
+    "from": "itibaren",
+    "how_to_decrease_the_price": "Fiyat nasıl düşürülür?",
+    "at_this_one": "bu sefer",
+    "result": "Sonuç",
+    "total": "Toplam",
+    "products_of_company": "Şirketin ürünleri",
+    "products": "Ürün:% s",
+    "weigh_total": "Ağırlık (toplam)",
+    "thing": "adet.",
+    "go_to_checkout": "ödemeye git",
+    "amount_is_changed": "Tutar değiştirildi",
+    "it_is_max_limit_amount": "satın almak için mümkün olan maksimum mal miktarıdır",
+    "it_is_min_limit_amount": "satın almak için mümkün olan minimum mal miktarıdır",
+    "go_to": "git",
+    "product_added": "Ürün sepetinize eklenmiştir",
+    "product_removed": "Ürün sepetten kaldırıldı",
+    "grt_cart_title": "GRT - Sepet",
+    "mark_product": "Lütfen satın almak istediğiniz ürünü işaretleyiniz.",
+    "grab_all": "hepsini seç",
+    "tip-off": "Satın almak istediğiniz ürünleri seçin ve ödemeye devam edin",
+    "your_basket_is_empty": "Sepetiniz boş",
+    "the_catalog": "katalog",
+    "and_choose_a_product": "ve {count}'dan fazla öğe arasından istediğinizi seçin",
+    "not_available": "hazır değiller. Devam etmek istiyor musun?",
+    "to_proceed_with_order": "Siparişe devam etmek için",
+    "stay_in_cart": "sepette kal",
+    "go_to_catalog": "Tedarikçinin kataloğuna git",
+    "for_delivery": "{count} üzerinde daha fazla ürün eklemeniz gerekiyor",
+    "parcels_from": "Parseller",
+    "all_products": "Tüm ürünler",
+    "see": "Görmek",
+    "add_products": "Ürünleri ekleyin:",
+    "without_delivery": "Teslimat olmadan",
+    "product": "Ürün",
+    "was_deleted": "silindi",
+    "total_products": "Toplam"
+  },
+  "mass_unit": {
+    "kg": "kilogram"
+  },
+  "modal": {
+    "select_delivery_region": "Teslimat bölgesini seçin"
+  },
+  "confirm_form": {
+    "enter_the_code_from_sms": "SMS'den kodu girin",
+    "you_have_been_sent_an_sms": "Numaraya bir kod içeren bir SMS gönderildi",
+    "to_change_number": "Numarayı değiştirmek için",
+    "send": "Göndermek",
+    "resend_code_via": "Kodu yeniden gönder",
+    "resend_code": "Yeniden gönderme kodu",
+    "log_in": "Giriş yapmak",
+    "expired_validation": "süresi dolmuş doğrulama",
+    "wrong_code": "Yanlış kod"
+  },
+  "validation": {
+    "expiredValidation": "Onay kodunu almak için son tarih doldu. SMS kodu tarafınıza tekrar gönderilmiştir.",
+    "wrong_code": "Yanlış kod"
+  },
+  "thanks_for_your_order": {
+    "title": "siparişiniz için teşekkürler",
+    "text": "Yeni ürünlerden ve promosyonlardan haberdar olmak için sosyal ağlarımıza abone olun."
+  },
+  "status_order": {
+    "not_processed": {
+      "title": "İşte",
+      "text": "Siparişiniz yöneticimiz tarafından işlenir. Ayrıntıları netleştirmek için yakında sizinle iletişime geçecektir.",
+      "thanks": "İçin teşekkürler",
+      "order": "sipariş",
+      "text_true": "Siparişinizi kabul ettik ve işe aldık. Yeni ürünler ve promosyonlardan haberdar olmak için sosyal ağlarımıza abone olun.",
+      "text_false": "Siparişiniz yöneticimiz tarafından işlenir. Ayrıntıları netleştirmek için yakında sizinle iletişime geçecektir.",
+      "continue_shopping": "Alışverişe devam",
+      "personal_account": "Kişisel hesap"
+    },
+    "awaiting_payment": {
+      "title": "Bekleyen ödeme",
+      "text": "Mevcut yöntemlerden herhangi birini kullanarak sipariş için ödeme yapın.",
+      "thanks": "İçin teşekkürler",
+      "order": "sipariş numarası",
+      "problem": "Ödemeyle ilgili sorun yaşıyorsanız, alternatif bir yöntem kullanın",
+      "button": "banka kartı ile"
+    },
+    "preparing_for_shipment": {
+      "title": "Ödendi, sevkiyat bekleniyor",
+      "text": "Siparişiniz için ödeme aldık. Siparişiniz hazırlanıyor ve yakında teslimat hizmetine gönderilecektir. Bu olduğunda size haber vereceğiz. Global Rus Trade'i seçtiğiniz için teşekkür ederiz."
+    },
+    "shipped": {
+      "title": "sevk edildi",
+      "text": "Sipariş teslimat servisine gönderildi. Parça numarasına göre konumunu takip edin"
+    },
+    "completed": {
+      "title": "Tamamlanmış",
+      "text": "Satın alınan mallarla iyi eğlenceler. Global Rus Trade'i seçtiğiniz için teşekkür ederiz. Lütfen daha iyi olmamıza ve bir inceleme bırakmamıza yardımcı olun."
+    },
+    "canceled": {
+      "title": "İptal edildi",
+      "text": "İsteğiniz üzerine siparişi iptal ettik. Umarız yine de benzersiz ürünlerimizle sizi şaşırtabiliriz. Yakında görüşürüz."
+    },
+    "error": {
+      "title": "3D Secure protokolü kullanılarak ödeme doğrulama hatası",
+      "text": "Bu seçenek kartınızda etkinleştirilmemiş olabilir. Lütfen işlemi onaylamak için bankayla iletişime geçin veya ödeme için başka bir banka kartı kullanın.",
+      "thanks": "Anlayışınız için teşekkürler. Bu, ödemenin güvenliği için önemlidir. ApplePay veya GPay'i de kullanabilirsiniz."
+    }
+  },
+  "payment_description": "globalrustrade.com'da mallar için ödeme",
+  "proceed_сheckout": "Ödeme işlemine devam edin",
+  "pay": "Ödemek",
+  "address_label": "Adres",
+  "full_name": "Ad ve soyad",
+  "hint": "Ürünleriniz de burada. Sipariş vermek için tıklayın",
+  "account": {
+    "subscribe": "Haber bültenimize abone ol",
+    "save": "kayıt etmek",
+    "avatar": {
+      "invalid_format": "Yanlış dosya biçimi",
+      "invalid_size": "Maksimum dosya boyutu 10MB"
+    },
+    "navigation": {
+      "heading": "Kullanıcı profili"
+    },
+    "data": {
+      "heading": "kişisel veriler",
+      "upload": "Avatarı Yükle"
+    },
+    "orders": {
+      "no-order": "Hiç siparişiniz yok",
+      "awaiting-payment": "Bekleyen ödeme",
+      "cancelled": "İptal edildi",
+      "completed": "Tamamlanmış",
+      "not-processed": "İşlenmemiş",
+      "heading": "Emirler",
+      "order": "Emir",
+      "from": "itibaren",
+      "address": "2 teslimat adresi",
+      "pay": "Ödemek"
+    },
+    "modal": {
+      "title": "Bize yazın",
+      "any_messenger": "herhangi bir habercide",
+      "social_network": "veya sosyal ağlarda"
+    },
+    "order_detail": {
+      "title": "Sipariş",
+      "from": "itibaren",
+      "electronic_receipt": "elektronik makbuz",
+      "payment_method": "Ödeme şekli",
+      "card": "kart",
+      "to_clarify_the_information_on_the_order": "Siparişle ilgili bilgileri netleştirmek için",
+      "parcel": {
+        "title": "paket",
+        "weight": "Ağırlık",
+        "recipient": "alıcı",
+        "delivery": "Teslimat yöntemi, adres ve maliyet",
+        "comment": "Yorum"
+      },
+      "good": {
+        "weight": "Ağırlık",
+        "color": "Renk",
+        "size": "Boyut",
+        "price": "Fiyat"
+      }
+    },
+    "gender": {
+      "male": "Erkek",
+      "female": "Dişi"
+    },
+    "search": "Arama"
+  },
+  "authorization": {
+    "title": "yetki",
+    "send": "Göndermek",
+    "choice": "Veya uygun bir yetkilendirme yöntemi seçin",
+    "will_send_code": "Seçilen kanal üzerinden size bir onay kodu göndereceğiz.",
+    "enter_code": "kodu giriniz",
+    "confirm": "Bir dakika içinde, numaraya bir onay kodu içeren bir çağrı alacaksınız.",
+    "change_number": "numarayı değiştir",
+    "suggest": "Çağrıyı aldığınız telefon numarasının son 4 hanesi koddur. (Cevap vermeye gerek yok).",
+    "call_not_received": "içinde çağrı alınmazsa",
+    "another_way_connection": "farklı bir iletişim yöntemi seçin",
+    "send_code": "Size bir kod gönderdik",
+    "change_mail": "Değişim e-posta",
+    "enter_correct_phone": "Doğru telefon numarasını girin",
+    "get_code": "kodu al",
+    "enter_correct_mail": "Doğru e-postayı girin",
+    "error_code": "Yanlış kod girilmiş",
+    "code_not_received": "Kod içinde alınmazsa"
+  },
+  "contacts": {
+    "legal_address": "Yasal adres",
+    "address": "3 Bolotnaya naberezhnaya, Bld. 2, blok I",
+    "for_registration_documents": "Belgelerin tescili için",
+    "mail": "Posta",
+    "media_inquiries": "Siparişler veya işbirliği hakkında medya soruları ve açıklamalar",
+    "phone": "Telefon",
+    "questions": "Siparişler veya işbirliği ile ilgili sorular",
+    "partners": "Ortaklar",
+    "detailed_conditions": "İşbirliği için ayrıntılı koşullar",
+    "go": "Gitmek",
+    "requisites": "gereklilikler",
+    "inn": "ITN",
+    "ogrn": "PSRN",
+    "kpp": "IEC"
+  },
+  "free": "ücretsiz",
+  "surname": "Soyadı",
+  "enter_surname": "Soyadınızı giriniz",
+  "birthday": "Doğum tarihi",
+  "enter_birthday": "Doğum tarihinizi girin"
+}

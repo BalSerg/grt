@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="8px" viewBox="0 0 10 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>galochka-copy-4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="3.63078035%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#007ACC" offset="0%"></stop>
+            <stop stop-color="#58A4D7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Главная" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-1304.000000, -275.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="galochka" transform="translate(1304.000000, 275.000000)">
+                <polygon id="galochka-copy-4" points="3.76749703 4.897759 10 0 3.76749703 8 0 3.288916"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

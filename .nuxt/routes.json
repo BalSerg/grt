@@ -1,0 +1,3545 @@
+[
+  {
+    "path": "/en",
+    "redirect": "/"
+  },
+  {
+    "path": "/404/",
+    "name": "error-404___en",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/500/",
+    "name": "error-500___en",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___en",
+    "path": "/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___en",
+    "path": "/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___en",
+    "path": "/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/cart/",
+    "name": "cart-new___en",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___en",
+    "path": "/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___en",
+    "path": "/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "index___de",
+    "path": "/de/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___en",
+    "path": "/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___en",
+    "path": "/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/en/",
+    "redirect": "/"
+  },
+  {
+    "name": "index___es",
+    "path": "/es/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___en",
+    "path": "/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___en",
+    "path": "/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "index___fr",
+    "path": "/fr/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "index___hi",
+    "path": "/hi/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "index___it",
+    "path": "/it/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___en",
+    "path": "/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/palekh-watch/",
+    "name": "palekh-watch___en",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___en",
+    "path": "/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "index___pt",
+    "path": "/pt/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___en",
+    "path": "/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___en",
+    "path": "/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "index___ru",
+    "path": "/ru/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___en",
+    "path": "/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "index___tr",
+    "path": "/tr/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "index___vi",
+    "path": "/vi/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "index___zh",
+    "path": "/zh/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career-example___en",
+    "path": "/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___en",
+    "path": "/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/de/404/",
+    "name": "error-404___de",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/de/500/",
+    "name": "error-500___de",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___de",
+    "path": "/de/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___de",
+    "path": "/de/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___de",
+    "path": "/de/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/de/cart/",
+    "name": "cart-new___de",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___de",
+    "path": "/de/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___de",
+    "path": "/de/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___de",
+    "path": "/de/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___de",
+    "path": "/de/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___de",
+    "path": "/de/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___de",
+    "path": "/de/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___de",
+    "path": "/de/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/de/palekh-watch/",
+    "name": "palekh-watch___de",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___de",
+    "path": "/de/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___de",
+    "path": "/de/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___de",
+    "path": "/de/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___de",
+    "path": "/de/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/es/404/",
+    "name": "error-404___es",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/es/500/",
+    "name": "error-500___es",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___es",
+    "path": "/es/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___es",
+    "path": "/es/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___es",
+    "path": "/es/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/es/cart/",
+    "name": "cart-new___es",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___es",
+    "path": "/es/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___es",
+    "path": "/es/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___es",
+    "path": "/es/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___es",
+    "path": "/es/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___es",
+    "path": "/es/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___es",
+    "path": "/es/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___es",
+    "path": "/es/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/es/palekh-watch/",
+    "name": "palekh-watch___es",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___es",
+    "path": "/es/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___es",
+    "path": "/es/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___es",
+    "path": "/es/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___es",
+    "path": "/es/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___en",
+    "path": "/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___en",
+    "path": "/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/fr/404/",
+    "name": "error-404___fr",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/fr/500/",
+    "name": "error-500___fr",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___fr",
+    "path": "/fr/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___fr",
+    "path": "/fr/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___fr",
+    "path": "/fr/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/fr/cart/",
+    "name": "cart-new___fr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___fr",
+    "path": "/fr/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___fr",
+    "path": "/fr/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___fr",
+    "path": "/fr/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___fr",
+    "path": "/fr/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___fr",
+    "path": "/fr/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___fr",
+    "path": "/fr/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___fr",
+    "path": "/fr/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/fr/palekh-watch/",
+    "name": "palekh-watch___fr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___fr",
+    "path": "/fr/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___fr",
+    "path": "/fr/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___fr",
+    "path": "/fr/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___fr",
+    "path": "/fr/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/hi/404/",
+    "name": "error-404___hi",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/hi/500/",
+    "name": "error-500___hi",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___hi",
+    "path": "/hi/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___hi",
+    "path": "/hi/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___hi",
+    "path": "/hi/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/hi/cart/",
+    "name": "cart-new___hi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___hi",
+    "path": "/hi/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___hi",
+    "path": "/hi/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___hi",
+    "path": "/hi/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___hi",
+    "path": "/hi/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___hi",
+    "path": "/hi/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___hi",
+    "path": "/hi/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___hi",
+    "path": "/hi/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/hi/palekh-watch/",
+    "name": "palekh-watch___hi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___hi",
+    "path": "/hi/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___hi",
+    "path": "/hi/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___hi",
+    "path": "/hi/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___hi",
+    "path": "/hi/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/info/about-us/",
+    "name": "about-us___en",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "path": "/it/404/",
+    "name": "error-404___it",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/it/500/",
+    "name": "error-500___it",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___it",
+    "path": "/it/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___it",
+    "path": "/it/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___it",
+    "path": "/it/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/it/cart/",
+    "name": "cart-new___it",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___it",
+    "path": "/it/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___it",
+    "path": "/it/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___it",
+    "path": "/it/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___it",
+    "path": "/it/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___it",
+    "path": "/it/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___it",
+    "path": "/it/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___it",
+    "path": "/it/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/it/palekh-watch/",
+    "name": "palekh-watch___it",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___it",
+    "path": "/it/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___it",
+    "path": "/it/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___it",
+    "path": "/it/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___it",
+    "path": "/it/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/pt/404/",
+    "name": "error-404___pt",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/pt/500/",
+    "name": "error-500___pt",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___pt",
+    "path": "/pt/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___pt",
+    "path": "/pt/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___pt",
+    "path": "/pt/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/pt/cart/",
+    "name": "cart-new___pt",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___pt",
+    "path": "/pt/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___pt",
+    "path": "/pt/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___pt",
+    "path": "/pt/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___pt",
+    "path": "/pt/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___pt",
+    "path": "/pt/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___pt",
+    "path": "/pt/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___pt",
+    "path": "/pt/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/pt/palekh-watch/",
+    "name": "palekh-watch___pt",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___pt",
+    "path": "/pt/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___pt",
+    "path": "/pt/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___pt",
+    "path": "/pt/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___pt",
+    "path": "/pt/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/ru/404/",
+    "name": "error-404___ru",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/ru/500/",
+    "name": "error-500___ru",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___ru",
+    "path": "/ru/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___ru",
+    "path": "/ru/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___ru",
+    "path": "/ru/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/ru/cart/",
+    "name": "cart-new___ru",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___ru",
+    "path": "/ru/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___ru",
+    "path": "/ru/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___ru",
+    "path": "/ru/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___ru",
+    "path": "/ru/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___ru",
+    "path": "/ru/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___ru",
+    "path": "/ru/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___ru",
+    "path": "/ru/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/ru/palekh-watch/",
+    "name": "palekh-watch___ru",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___ru",
+    "path": "/ru/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___ru",
+    "path": "/ru/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___ru",
+    "path": "/ru/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___ru",
+    "path": "/ru/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/tr/404/",
+    "name": "error-404___tr",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/tr/500/",
+    "name": "error-500___tr",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___tr",
+    "path": "/tr/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___tr",
+    "path": "/tr/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___tr",
+    "path": "/tr/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/tr/cart/",
+    "name": "cart-new___tr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___tr",
+    "path": "/tr/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___tr",
+    "path": "/tr/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___tr",
+    "path": "/tr/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___tr",
+    "path": "/tr/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___tr",
+    "path": "/tr/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___tr",
+    "path": "/tr/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___tr",
+    "path": "/tr/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/tr/palekh-watch/",
+    "name": "palekh-watch___tr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___tr",
+    "path": "/tr/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___tr",
+    "path": "/tr/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___tr",
+    "path": "/tr/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___tr",
+    "path": "/tr/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/vi/404/",
+    "name": "error-404___vi",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/vi/500/",
+    "name": "error-500___vi",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___vi",
+    "path": "/vi/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___vi",
+    "path": "/vi/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___vi",
+    "path": "/vi/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/vi/cart/",
+    "name": "cart-new___vi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___vi",
+    "path": "/vi/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___vi",
+    "path": "/vi/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___vi",
+    "path": "/vi/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___vi",
+    "path": "/vi/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___vi",
+    "path": "/vi/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___vi",
+    "path": "/vi/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___vi",
+    "path": "/vi/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/vi/palekh-watch/",
+    "name": "palekh-watch___vi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___vi",
+    "path": "/vi/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___vi",
+    "path": "/vi/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___vi",
+    "path": "/vi/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___vi",
+    "path": "/vi/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/zh/404/",
+    "name": "error-404___zh",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 404
+      }
+    }
+  },
+  {
+    "path": "/zh/500/",
+    "name": "error-500___zh",
+    "component": "C:\\\\work2\\\\main\\\\layouts\\\\error.vue",
+    "props": {
+      "error": {
+        "statusCode": 500
+      }
+    }
+  },
+  {
+    "name": "about___zh",
+    "path": "/zh/about/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "build-info___zh",
+    "path": "/zh/build-info/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\build-info.vue",
+    "chunkName": "pages/build-info",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career___zh",
+    "path": "/zh/career/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\index.vue",
+    "chunkName": "pages/career/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/zh/cart/",
+    "name": "cart-new___zh",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue"
+  },
+  {
+    "name": "checkout___zh",
+    "path": "/zh/checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\checkout\\\\index.vue",
+    "chunkName": "pages/checkout/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "contacts___zh",
+    "path": "/zh/contacts/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\contacts.vue",
+    "chunkName": "pages/contacts",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "dev-checkout___zh",
+    "path": "/zh/dev-checkout/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\dev-checkout.vue",
+    "chunkName": "pages/dev-checkout",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs___zh",
+    "path": "/zh/docs/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\index.vue",
+    "chunkName": "pages/docs/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events___zh",
+    "path": "/zh/events/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue",
+    "chunkName": "pages/events/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "favorites___zh",
+    "path": "/zh/favorites/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\favorites.vue",
+    "chunkName": "pages/favorites",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news___zh",
+    "path": "/zh/news/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/zh/palekh-watch/",
+    "name": "palekh-watch___zh",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue"
+  },
+  {
+    "name": "polet___zh",
+    "path": "/zh/polet/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\polet.vue",
+    "chunkName": "pages/polet",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "registration-confirm___zh",
+    "path": "/zh/registration-confirm/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\registration-confirm.vue",
+    "chunkName": "pages/registration-confirm",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "restore-password___zh",
+    "path": "/zh/restore-password/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\restore-password.vue",
+    "chunkName": "pages/restore-password",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "storybook___zh",
+    "path": "/zh/storybook/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\storybook.vue",
+    "chunkName": "pages/storybook",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "career-example___de",
+    "path": "/de/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___de",
+    "path": "/de/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___de",
+    "path": "/de/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___de",
+    "path": "/de/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/de/info/about-us/",
+    "name": "about-us___de",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "name": "career-example___es",
+    "path": "/es/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___es",
+    "path": "/es/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___es",
+    "path": "/es/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___es",
+    "path": "/es/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/es/info/about-us/",
+    "name": "about-us___es",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "name": "career-example___fr",
+    "path": "/fr/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___fr",
+    "path": "/fr/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___fr",
+    "path": "/fr/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___fr",
+    "path": "/fr/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/fr/info/about-us/",
+    "name": "about-us___fr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "name": "career-example___hi",
+    "path": "/hi/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___hi",
+    "path": "/hi/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___hi",
+    "path": "/hi/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___hi",
+    "path": "/hi/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/hi/info/about-us/",
+    "name": "about-us___hi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "name": "career-example___it",
+    "path": "/it/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___it",
+    "path": "/it/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___it",
+    "path": "/it/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___it",
+    "path": "/it/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/it/info/about-us/",
+    "name": "about-us___it",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "name": "career-example___pt",
+    "path": "/pt/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___pt",
+    "path": "/pt/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___pt",
+    "path": "/pt/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___pt",
+    "path": "/pt/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/pt/info/about-us/",
+    "name": "about-us___pt",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "name": "career-example___ru",
+    "path": "/ru/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___ru",
+    "path": "/ru/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___ru",
+    "path": "/ru/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___ru",
+    "path": "/ru/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/ru/info/about-us/",
+    "name": "about-us___ru",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "name": "career-example___tr",
+    "path": "/tr/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___tr",
+    "path": "/tr/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___tr",
+    "path": "/tr/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___tr",
+    "path": "/tr/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/tr/info/about-us/",
+    "name": "about-us___tr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "name": "career-example___vi",
+    "path": "/vi/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___vi",
+    "path": "/vi/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___vi",
+    "path": "/vi/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___vi",
+    "path": "/vi/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/vi/info/about-us/",
+    "name": "about-us___vi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "name": "career-example___zh",
+    "path": "/zh/career/example/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\career\\\\example.vue",
+    "chunkName": "pages/career/example",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "cart-cart-new___zh",
+    "path": "/zh/cart/cart-new/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\cart\\\\cart-new.vue",
+    "chunkName": "pages/cart/cart-new",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-buyer___zh",
+    "path": "/zh/faq/buyer/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\buyer.vue",
+    "chunkName": "pages/faq/buyer",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "faq-merchant___zh",
+    "path": "/zh/faq/merchant/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\faq\\\\merchant.vue",
+    "chunkName": "pages/faq/merchant",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/zh/info/about-us/",
+    "name": "about-us___zh",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\about.vue"
+  },
+  {
+    "path": "/de/account/orders/:id/",
+    "name": "account-order-id___de",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___de",
+    "path": "/de/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/es/account/orders/:id/",
+    "name": "account-order-id___es",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___es",
+    "path": "/es/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/fr/account/orders/:id/",
+    "name": "account-order-id___fr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___fr",
+    "path": "/fr/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/hi/account/orders/:id/",
+    "name": "account-order-id___hi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___hi",
+    "path": "/hi/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/it/account/orders/:id/",
+    "name": "account-order-id___it",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___it",
+    "path": "/it/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/pt/account/orders/:id/",
+    "name": "account-order-id___pt",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___pt",
+    "path": "/pt/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/ru/account/orders/:id/",
+    "name": "account-order-id___ru",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___ru",
+    "path": "/ru/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/tr/account/orders/:id/",
+    "name": "account-order-id___tr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___tr",
+    "path": "/tr/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/vi/account/orders/:id/",
+    "name": "account-order-id___vi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___vi",
+    "path": "/vi/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/zh/account/orders/:id/",
+    "name": "account-order-id___zh",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "event-in-year___zh",
+    "path": "/zh/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___de",
+    "path": "/de/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___es",
+    "path": "/es/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___fr",
+    "path": "/fr/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___hi",
+    "path": "/hi/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___it",
+    "path": "/it/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___pt",
+    "path": "/pt/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___ru",
+    "path": "/ru/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___tr",
+    "path": "/tr/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___vi",
+    "path": "/vi/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "event-in-month___zh",
+    "path": "/zh/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "path": "/account/orders/:id/",
+    "name": "account-order-id___en",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "account-page___de",
+    "path": "/de/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/de/account/:page/",
+    "name": "account___de",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/de/account/:page/",
+    "name": "account-orders___de",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___de",
+    "path": "/de/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___de",
+    "path": "/de/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___de",
+    "path": "/de/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___de",
+    "path": "/de/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___de",
+    "path": "/de/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___de",
+    "path": "/de/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___de",
+    "path": "/de/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___de",
+    "path": "/de/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___de",
+    "path": "/de/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "account-page___es",
+    "path": "/es/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/es/account/:page/",
+    "name": "account___es",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/es/account/:page/",
+    "name": "account-orders___es",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___es",
+    "path": "/es/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___es",
+    "path": "/es/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___es",
+    "path": "/es/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___es",
+    "path": "/es/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___es",
+    "path": "/es/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___es",
+    "path": "/es/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___es",
+    "path": "/es/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___es",
+    "path": "/es/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___es",
+    "path": "/es/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "event-in-year___en",
+    "path": "/events/year/:year/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "account-page___fr",
+    "path": "/fr/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/fr/account/:page/",
+    "name": "account___fr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/fr/account/:page/",
+    "name": "account-orders___fr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___fr",
+    "path": "/fr/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___fr",
+    "path": "/fr/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___fr",
+    "path": "/fr/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___fr",
+    "path": "/fr/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___fr",
+    "path": "/fr/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___fr",
+    "path": "/fr/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___fr",
+    "path": "/fr/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___fr",
+    "path": "/fr/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___fr",
+    "path": "/fr/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "account-page___hi",
+    "path": "/hi/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/hi/account/:page/",
+    "name": "account___hi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/hi/account/:page/",
+    "name": "account-orders___hi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___hi",
+    "path": "/hi/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___hi",
+    "path": "/hi/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___hi",
+    "path": "/hi/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___hi",
+    "path": "/hi/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___hi",
+    "path": "/hi/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___hi",
+    "path": "/hi/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___hi",
+    "path": "/hi/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___hi",
+    "path": "/hi/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___hi",
+    "path": "/hi/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "account-page___it",
+    "path": "/it/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/it/account/:page/",
+    "name": "account___it",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/it/account/:page/",
+    "name": "account-orders___it",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___it",
+    "path": "/it/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___it",
+    "path": "/it/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___it",
+    "path": "/it/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___it",
+    "path": "/it/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___it",
+    "path": "/it/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___it",
+    "path": "/it/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___it",
+    "path": "/it/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___it",
+    "path": "/it/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___it",
+    "path": "/it/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "account-page___pt",
+    "path": "/pt/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/pt/account/:page/",
+    "name": "account___pt",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/pt/account/:page/",
+    "name": "account-orders___pt",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___pt",
+    "path": "/pt/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___pt",
+    "path": "/pt/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___pt",
+    "path": "/pt/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___pt",
+    "path": "/pt/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___pt",
+    "path": "/pt/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___pt",
+    "path": "/pt/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___pt",
+    "path": "/pt/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___pt",
+    "path": "/pt/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___pt",
+    "path": "/pt/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "account-page___ru",
+    "path": "/ru/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/ru/account/:page/",
+    "name": "account___ru",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/ru/account/:page/",
+    "name": "account-orders___ru",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___ru",
+    "path": "/ru/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___ru",
+    "path": "/ru/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___ru",
+    "path": "/ru/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___ru",
+    "path": "/ru/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___ru",
+    "path": "/ru/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___ru",
+    "path": "/ru/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___ru",
+    "path": "/ru/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___ru",
+    "path": "/ru/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___ru",
+    "path": "/ru/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "account-page___tr",
+    "path": "/tr/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/tr/account/:page/",
+    "name": "account___tr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/tr/account/:page/",
+    "name": "account-orders___tr",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___tr",
+    "path": "/tr/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___tr",
+    "path": "/tr/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___tr",
+    "path": "/tr/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___tr",
+    "path": "/tr/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___tr",
+    "path": "/tr/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___tr",
+    "path": "/tr/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___tr",
+    "path": "/tr/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___tr",
+    "path": "/tr/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___tr",
+    "path": "/tr/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "account-page___vi",
+    "path": "/vi/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/vi/account/:page/",
+    "name": "account___vi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/vi/account/:page/",
+    "name": "account-orders___vi",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___vi",
+    "path": "/vi/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___vi",
+    "path": "/vi/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___vi",
+    "path": "/vi/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___vi",
+    "path": "/vi/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___vi",
+    "path": "/vi/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___vi",
+    "path": "/vi/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___vi",
+    "path": "/vi/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___vi",
+    "path": "/vi/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___vi",
+    "path": "/vi/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "account-page___zh",
+    "path": "/zh/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/zh/account/:page/",
+    "name": "account___zh",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/zh/account/:page/",
+    "name": "account-orders___zh",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___zh",
+    "path": "/zh/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___zh",
+    "path": "/zh/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___zh",
+    "path": "/zh/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___zh",
+    "path": "/zh/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___zh",
+    "path": "/zh/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___zh",
+    "path": "/zh/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___zh",
+    "path": "/zh/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___zh",
+    "path": "/zh/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___zh",
+    "path": "/zh/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "event-in-month___en",
+    "path": "/events/year/:year/month/:month/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\index.vue"
+  },
+  {
+    "name": "account-page___en",
+    "path": "/account/:page?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue",
+    "chunkName": "pages/account/_page",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/account/:page/",
+    "name": "account___en",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "path": "/account/:page/",
+    "name": "account-orders___en",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\account\\\\_page.vue"
+  },
+  {
+    "name": "catalog-slug___en",
+    "path": "/catalog/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\catalog\\\\_slug.vue",
+    "chunkName": "pages/catalog/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "docs-slug___en",
+    "path": "/docs/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\docs\\\\_slug.vue",
+    "chunkName": "pages/docs/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "events-slug___en",
+    "path": "/events/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\events\\\\_slug.vue",
+    "chunkName": "pages/events/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "news-slug___en",
+    "path": "/news/:slug/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\news\\\\_slug.vue",
+    "chunkName": "pages/news/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "order-status-slug___en",
+    "path": "/order-status/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\order-status\\\\_slug.vue",
+    "chunkName": "pages/order-status/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "products-slug___en",
+    "path": "/products/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\products\\\\_slug.vue",
+    "chunkName": "pages/products/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "promo-slug___en",
+    "path": "/promo/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\promo\\\\_slug.vue",
+    "chunkName": "pages/promo/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "search-slug___en",
+    "path": "/search/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\search\\\\_slug.vue",
+    "chunkName": "pages/search/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "name": "suppliers-slug___en",
+    "path": "/suppliers/:slug?/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\suppliers\\\\_slug.vue",
+    "chunkName": "pages/suppliers/_slug",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  },
+  {
+    "path": "/en/*",
+    "redirect": "/*"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "C:\\\\work2\\\\main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "pathToRegexpOptions": {
+      "strict": true
+    }
+  }
+]

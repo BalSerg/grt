@@ -1,0 +1,54 @@
+.document-static {
+  h1 {
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  p,
+  li {
+    line-height: 1.5em;
+    margin: 0 0 10px;
+    text-align: left;
+  }
+
+  p {
+    margin: 10px 0;
+  }
+
+  ol {
+    counter-reset: section;
+    list-style-type: none;
+
+    ol {
+      margin: 10px 0 0;
+
+      li { //второй и ниже уровни
+        margin: 0 0 10px;
+      }
+    }
+
+    > li { //первый уровень
+      margin: 30px 0 0;
+
+      &::before {
+        counter-increment: section;
+        content: counters(section, ".");
+        margin: 0 5px 0 0;
+      }
+    }
+
+    ul {
+      margin: 10px 0 0 20px;
+      list-style-type: initial;
+
+      li {
+        list-style-type: initial;
+        margin: 0 0 10px;
+      }
+    }
+  }
+
+  &__glossary {
+    margin: 0 0 10px;
+  }
+}

@@ -1,0 +1,25 @@
+version: '3'
+services:
+  docker-host:
+    image: qoomon/docker-host
+    cap_add: [ 'NET_ADMIN', 'NET_RAW' ]
+    restart: on-failure
+    environment:
+      - PORTS=3001
+
+  nuxt-proxy:
+    image: nginx
+    volumes:
+     - ./nginx-templates:/etc/nginx/templates
+    ports:
+      - 3300:80
+    restart: on-failure
+    environment:
+      - DOCKER_HOST=docker-host
+      - NPM_SERVE_PORT=3001
+      - NAPI_PROTOCOL=http
+      - NAPI_HOST=grtest.website
+      - OLD_PROTOCOL=http
+      - OLD_HOST=grtest.website
+    depends_on:
+      - docker-host

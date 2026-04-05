@@ -1,0 +1,924 @@
+{
+  "title": "International Trade Marketplace",
+  "advantages": {
+    "reason1": "The first Russian B2B cross-border e-commerce platform",
+    "reason2": "Companies from more than 100 countries are present on our site"
+  },
+  "currencyLocalType": "Euro",
+  "currency": {
+    "rub": "Russian rouble",
+    "usd": "United States dollar",
+    "eur": "Euro",
+    "uzs": "Uzbek sum",
+    "ron": "New Romanian LEU",
+    "kgs": "Kyrgyz som",
+    "huf": "Hungarian forint",
+    "aud": "Australian dollar",
+    "cny": "Chinese yuan",
+    "brl": "Brazilian real",
+    "hkd": "Hong kong dollar",
+    "jpy": "Japanese yen",
+    "kzt": "Kazakh tenge",
+    "sek": "Swedish krona",
+    "try": "Turkish lira",
+    "czk": "Czech Koruna",
+    "pln": "Polish zloty",
+    "chf": "Swiss frank",
+    "inr": "Indian rupee",
+    "mdl": "Moldovan lei",
+    "bgn": "Bulgarian lev",
+    "amd": "Armenian dram",
+    "azn": "Azerbaijani manat",
+    "byn": "Belarusian ruble",
+    "krw": "Won Republic of Korea",
+    "dkk": "Danish krone",
+    "cad": "Canadian dollar",
+    "tmt": "New Turkmen manat",
+    "nok": "Norwegian krone",
+    "sgd": "Singapore dollar",
+    "tjs": "Tajik somoni",
+    "uah": "Ukrainian hryvnia",
+    "gbp": "Pound sterling",
+    "zar": "South African rand"
+  },
+  "selectCurrency": "Currency",
+  "features": {
+    "feature1": "The first Russian B2B cross-border e-commerce platform",
+    "feature2": "Companies from more than 100 countries are present on our site"
+  },
+  "footer": {
+    "contacts": {
+      "call": "Call",
+      "everyday": "Everyday",
+      "email": "Write us",
+      "phone": "Need help?"
+    },
+    "navigation": {
+      "sale_rules": "Sale rules",
+      "public_offer": "Public offer",
+      "regulations": "Regulations",
+      "terms": "Terms of use",
+      "privacy": "Privacy Policy",
+      "tariff_payment": "Payment rules",
+      "tariff_plans": "Tariff plans",
+      "export_services": "Export services",
+      "about": "About company",
+      "accept": "We accept payment",
+      "benefits": "Marketplace benefits",
+      "buyer": "For the buyer",
+      "contacts": "Contacts",
+      "delivery": "Delivery",
+      "info": "Information",
+      "history": "History of the company",
+      "success_stories": "Success stories",
+      "legal": "For legal entities",
+      "media": "Rules for the provision of information services",
+      "news": "News",
+      "order": "How to make an order",
+      "partners": "Partners",
+      "partnership": "Partnership",
+      "payment": "Payment",
+      "return": "Exchange and return",
+      "request": "Leave a request for a product",
+      "seller": "Supplier",
+      "start": "Start cooperation",
+      "warranty": "Warranty",
+      "wholesale": "Wholesale and B2B clients"
+    },
+    "social": "We are in social networks",
+    "messengers": "Contact us",
+    "subscribe": {
+      "agreement": "I agree to the terms of the {user_agreement} and {policy}",
+      "user_agreement": "user agreement",
+      "policy": "privacy policy",
+      "email": "Your e-mail",
+      "message": "Subscribe to be the first to know about interesting offers",
+      "subscribe": "Subscribe"
+    }
+  },
+  "catalog": {
+    "sort": {
+      "default": "By default",
+      "new": "New first",
+      "priceasc": "Cheap first",
+      "pricedesc": "Expensive first",
+      "relevant": "Most relevant",
+      "popular": "Popular"
+    }
+  },
+  "homepage": "Home",
+  "header": {
+    "cart": "Cart",
+    "buy": "Buy now",
+    "order": "For order",
+    "catalog": "Catalog",
+    "enter": "Sign in to receive personalized discounts, bonuses and track orders.",
+    "favorites": "Favorites",
+    "faq": "Questions and answers",
+    "partnership": "Start cooperation",
+    "become_a_supplier": "Become a supplier",
+    "payment": "Payment and delivery",
+    "profile": "Profile",
+    "search": "Search among {count} products and services",
+    "supplier": "How to become a supplier",
+    "user": {
+      "orders": "Orders",
+      "bio": "My data",
+      "messages": "Messages",
+      "refunds": "Refunds",
+      "feedback": "Feedback & Questions",
+      "loyalty": "Loyalty program",
+      "logout": "Logout",
+      "companies": "My companies"
+    },
+    "sign_up": "Sign up",
+    "sign_in": "Log in",
+    "sign_in_title": "Log in",
+    "user_cart": {
+      "title": "My cart",
+      "total": "Total cost",
+      "goto": "Go to cart"
+    }
+  },
+  "product": {
+    "favorite": "Add to favourites",
+    "in_the_cart": "In the cart",
+    "to_cart": "Add to cart",
+    "min_amount": "Minimum order amount for the supplier",
+    "take_a_look": "Take a look",
+    "whole_products": "whole products",
+    "goods_in_the_cart": "Products in the cart"
+  },
+  "section": {
+    "header": {
+      "advantages": "Advantages of the Global Rus Trade",
+      "events": "Events",
+      "news": "News",
+      "watch": "Watch all"
+    }
+  },
+  "benefits_title": "Our Benefits",
+  "benefits": {
+    "price": "We keep favorable prices so that you can delight yourself more often",
+    "quality": "We are responsible for the quality of goods at our marketplace",
+    "speak": "We speak 11 languages, so we can easily find a common language with you",
+    "express": "We will deliver your goods anywhere in the world without any problems",
+    "return": "The return or replacement of goods will not take much time or effort"
+  },
+  "login": {
+    "email": "E-mail",
+    "enter_email": "Enter your email",
+    "password": "Password",
+    "password_forgot": "Forgot your password?",
+    "enter_correct_password": "Enter correct password",
+    "registration": "Registration",
+    "password_requirement": {
+      "message": "To protect your data, you must create a secure password",
+      "min_length": "{count} or more characters",
+      "letters": "letters",
+      "figures": "figures",
+      "new_password_message": "Please enter a new password that contains:"
+    },
+    "register_now": "Register now",
+    "create_password": "Create a password",
+    "receive_personal_offers": "Receive personal offers",
+    "accept_terms": {
+      "accept": "Upon registration, I accept the terms of the",
+      "agreement": "user agreement"
+    },
+    "registration_ending": "Сompletion of registration",
+    "email_confirm_message": "Please confirm the registration in the letter sent to",
+    "didnt_get_email": "Did not get the email?",
+    "check_spam": "Check your Spam folder if the email does not arrive for more than 5 minutes. Sometimes letters are blocked by postal systems.",
+    "check_spelling": "Check the spelling of your email",
+    "request_resend": "Request a resend email",
+    "didnt_help": "Did not help? Email us",
+    "password_recovery": "Password recovery",
+    "password_recovery_via_email_1": "A link to reset your password will be sent to your email",
+    "password_recovery_via_email_2": ".",
+    "password_recovery_via_email_3": "A link to reset your password has been sent to your email {email}.",
+    "password_recovery_via_email_4": "A link to reset your password will be sent to your email {email}.",
+    "password_recovery_expired_1": "Your password reset link is out of date.",
+    "password_recovery_expired_2": "Please request password recovery again.",
+    "send": "Send",
+    "save": "Save",
+    "password_change_success_message": "Password changed successfully",
+    "wait_for_redirect": "Wait for redirection to the main page in 5 seconds or click the button below",
+    "go_to_website": "Go to website",
+    "go_to_mainpage": "Go to main page",
+    "registration_confirm": "Confirmation of registration",
+    "registration_successful": "Registration confirmed successfully",
+    "resend_email": "Resending email",
+    "resend_email_instructions": "A link to confirm registration will be re-sent to your e-mail {email}.",
+    "resend_email_instructions_after_submit": "A link to confirm registration has been sent to your email {email}.",
+    "send_email_again": "Resend email"
+  },
+  "errors": {
+    "something_wrong": "Something went wrong",
+    "500": {
+      "something_went_wrong": "Oops! Something went wrong…",
+      "message": "An error has occurred. Don’t worry, we are working to fix the problem. We’ll be up soon and you can enjoy shopping with renewed vigour.",
+      "link": "Refresh page"
+    },
+    "400": {
+      "message": "Nothing found",
+      "link": "Homepage"
+    }
+  },
+  "quick_order": "Order",
+  "name": "Name",
+  "surname": "Last name",
+  "full_name": "First and Last name",
+  "enter_name": "Enter your name",
+  "enter_surname": "Enter your last name",
+  "birthday": "Date of birth",
+  "enter_birthday": "Enter your date of birth",
+  "must_sign_in": "You have to sign in to do that",
+  "phone_required": "Phone*",
+  "phone_code": "Select country code and enter your phone number",
+  "enter_phone": "Enter your phonenumber",
+  "enter_quantity": "Enter quantity",
+  "order_accepted": "Your application is accepted",
+  "we_will_call": "We will contact you as soon as possible.",
+  "you_are_subscribed": "Congratulations! You are subscribed.",
+  "added_to_cart": "Product added to cart",
+  "go_to_cart": "Go to cart",
+  "language": "Language",
+  "of_goods": "goods",
+  "price_demand": "Price on demand",
+  "goto_catalog": "Go to catalog",
+  "settings": "Settings",
+  "delivery_terms": "Delivery terms",
+  "payment_methods": "Payment methods",
+  "return_conditions": "Return conditions",
+  "returns": "Returns",
+  "palekh": {
+    "showmore": "Show more",
+    "video": {
+      "title": "Palekh Watch – with a real painting on the dial"
+    },
+    "showcase": {
+      "title": "New collection \"Day and Night\"",
+      "dark_title": "Fantastic Black Dial",
+      "link": "Watch all",
+      "summerGarden": "New collection \"Summer Garden\"",
+      "other_collections": "Other collections by Palekh Watch",
+      "womanCollection": "Palekh Watch for women",
+      "manCollection": "Palekh Watch for men"
+    },
+    "features": {
+      "readmore": "More Details",
+      "picture": {
+        "title": "Hand Painting",
+        "intro": "Each dial is hand-painted and keeps in itself the beauty of the unique Palekh miniature, known throughout the world.",
+        "article": [
+          "Each dial is hand-painted and keeps in itself the beauty of the unique Palekh miniature, known throughout the world. Rich colours, delicate lines, filigree brushstrokes and emotional plots of folk tales caused a sensation at the Venetian Art Vernissage and the World Expo in Paris. Now your wrist will also be decorated with legendary paintings.",
+          "The secrets of painting technology are passed down from generation to generation. The watch has preserved the centuries-old traditions of Russian artists. First, the masters cover the dials with black enamel, transfer the sketch with pumice stone, then apply whitewash. Next, they paint the dials with tempera paints.",
+          "Your favourite characters from folk tales come to life under thin brushes. Here the firebird takes off, here the three horses are running, cutting through the air, and here is a beautiful maiden with a basket in a strawberry meadow. Then the artists varnish the painting, apply gold, polish it with a wolf's fang, reapply the varnish and add gloss."
+        ]
+      },
+      "gears": {
+        "title": "Swiss Movement",
+        "article": [
+          "The watches are skillfully crafted both inside and outside. Reliable Swiss or Japanese movements are responsible for the accuracy. The anti-shock device protects against shock vibrations. The watches are assembled by Poljot Klassika company with a 25-year history and a reputation of a reliable manufacturer."
+        ]
+      },
+      "box": {
+        "title": "Wood Watch Box",
+        "article": [
+          "The watch is packed in a premium gift case of noble walnut colour. The case is made of precious wood and coated with a varnish. Inside it is finished with beige flock."
+        ]
+      },
+      "belt": {
+        "title": "Leather Strap",
+        "article": [
+          "Another striking element of the composition is a strap made of textured embossed genuine leather. Available in 7 different shades that harmoniously complement the miniature: black, brown, white, red, navy blue, green or beige."
+        ]
+      },
+      "case": {
+        "title": "Case and Glass",
+        "article": [
+          "The quality and reliability of the watch is also emphasized by the case. It is made of zinc-aluminium alloy or stainless steel with a gold or chrome plating. The metallic luster beautifully accentuates the dials. Waterproof mineral glass protects against household scratches. Watch is resistant to minor accidental splashes."
+        ]
+      }
+    },
+    "about": {
+      "title": "About Palekh Watch project",
+      "article": [
+        "Time for art! Unique Palekh Watch combine the beauty of Palekh painting with the quality of Japanese and Swiss watch movements.",
+        "This watch is not just a beautiful accessory, but a real piece of art that retains warmth of handmade work and centuries-old traditions of craftsmanship. Each dial is hand-painted by an artisan from the village of Palekh, following all stages of traditional miniature creation. For example, the accents are painted with gold - just like a hundred years ago. The creation of a single dial can take the whole month because of such delicate work. Favorite fairy tales, traditional ornaments and the unique beauty of nature became the inspiration for miniatures. In addition, we produce seasonal limited edition watches.",
+        "Palekh Watch is presented exclusively on the Global Rus Trade marketplace."
+      ]
+    },
+    "slides": {
+      "alts": [
+        "Paintings on the dials are made by artisans from Palekh.",
+        "The accents on the paintings are made with gold.",
+        "Artisans transfer paintings to the dials from original sketches."
+      ]
+    },
+    "faq": {
+      "title": "FAQ",
+      "primary_phone": "+7(909)646-56-65",
+      "secondary_phone": "+7(495)646-56-01",
+      "alt_phone": "+7(495)921-45-60",
+      "email": "infо@globalrustrade.com",
+      "alt_email": "sales@simvolika.ru",
+      "questions": [
+        {
+          "question": "What is the cost and terms of delivery?",
+          "answer": [
+            "Delivery within Russia is free and is carried out by Russian Post within 2-14 days. For Moscow and the Moscow region - the next day.",
+            "Delivery to other countries as well as by courier services is paid for. Its cost can be calculated automatically when placing an order on the website.",
+            "To place an order through a manager, please contact us at {primary_phone}, {secondary_phone} or e-mail {email}."
+          ]
+        },
+        {
+          "question": "I want to give a watch as a gift. How to do it?",
+          "answer": [
+            "Any watch can be sent in a gift box, enclosing a postcard with your wishes.",
+            "To place an order as a gift, please contact us by phones {primary_phone}, {secondary_phone} or e-mail {email}."
+          ]
+        },
+        {
+          "question": "Can I try on a watch before I buy it?",
+          "answer": [
+            "You can try on a watch in the office of Global Rus Trade at Bersenevskaya embankment, 6, building 1, Moscow, Russia. Please notify us of your visit and book the model you like. Since watches are very popular, some models may not be available.",
+            "If it is not possible to come, you can use the online fitting by receiving a video of the watch on a man's or woman's hand. To do this, contact us by phone {primary_phone}, {secondary_phone} or by e-mail {email}.",
+            "Also, some models of our watches are available in other Russian cities",
+            "St. Petersburg Bolshoy Prospekt P. S., 58, Gallery \"A Priori\"",
+            "Novokuznetsk  Suvorov str., 8, Gallery of jewelry art \"Almazy Yakutii\"",
+            "Penza Kirova str., 71, Jewelry house \"Yakhont\""
+          ]
+        },
+        {
+          "question": "What does the warranty cover?",
+          "answer": [
+            "A warranty of at least 1 year applies to the movement, hands and case. During the warranty period, adjustments, repairs, replacement of assembly units or movement is free of charge, if the malfunction or failure of the watch is not caused by accident or improper operation.",
+            "To take advantage of the warranty case, contact us by e-mail {alt_email} or call {alt_phone}",
+            "The warranty does not cover aesthetic changes, defects and damage resulting from normal wear, tear and aging (for example, minor scratches on the case or glass, wear on the bracelet, peeling of the coating, etc.)."
+          ]
+        },
+        {
+          "question": "Is it possible to exchange or return an item?",
+          "answer": [
+            "We will return the item free of charge within 30 days of receipt. The watch must be unused, in its original packaging with intact labels and protective films, without scratches, wrinkles on the straps and other signs of wear.",
+            "To issue a refund, please contact us by phone {primary_phone}, {secondary_phone} or by e-mail {email}."
+          ]
+        }
+      ]
+    },
+    "form": {
+      "title": "Need a consultation? Leave a request for a call-back",
+      "comment": {
+        "label": "Comment",
+        "message": "Leave a comment"
+      },
+      "thanks": "Thank you, the data was sent successfully!",
+      "message": "The managers will contact you soon.",
+      "contacts": "If you don't want to wait, call us {primary_phone} or {secondary_phone}"
+    },
+    "benefits": {
+      "shipping": {
+        "title": "Free shipping within Russia",
+        "content": "Delivery within Russia is free and is carried out by Russian Post within 2-14 days. When placing an order in Moscow and the Moscow region before 13:00 – will be delivered on the same day."
+      },
+      "return": {
+        "title": "Free return within 30 days",
+        "content": "You can return the Palekh watch free of charge within 30 days of receipt. We will reimburse the cost of the product if it is not damaged, retains its presentation and has no signs of wear."
+      },
+      "painting": {
+        "title": "Author's unique painting",
+        "content": "Become the owner of an exclusive watch with the legendary painting of Palekh artists. All products are hand-painted and presented in a single copy. Re-production of models is possible only by prior order."
+      },
+      "technology": {
+        "title": "Traditional technology",
+        "content": "The dial is painted in the same way as it was a century ago. The masters observe all stages of painting technology and preserve the traditions of the legendary art."
+      }
+    },
+    "watch": {
+      "107906": "Watch \"Lel\", artist Suloeva",
+      "107903": "Watch \"The Swan Princess\", artist Suloeva",
+      "107894": "Watch \"Firebird\", artist Smirnov",
+      "107904": "Watch \"Swan\", artist Kuzmenko",
+      "107893": "Watch \"Firebird\" , artist Smirnov",
+      "107895": "Watch \"Goldfish\", artist Smirnov",
+      "107899": "Watch \"The Tale of the Fisherman and the Fish\", artist Smirnov",
+      "98030": "Watch \"The Firebird\", artist Lukina",
+      "107896": "Watch \"Musicians\", artist Smirnov",
+      "98033": "Watch \"Rendezvous\", artist Smirnov",
+      "98035": "Watch \"Goldilocks\", artist Kornilova",
+      "98034": "Watch \"In the Garden\", artist Lukina",
+      "98032": "Watch \"Birds of Wonder\", artist Smirnov",
+      "92186": "Watch \"Couple\", artist Surikova",
+      "107915": "Watch \"Gvidon\", artist Suloeva",
+      "107905": "Watch \"Picking Berries\", artist Kuzmenko",
+      "107908": "Watch \"At the well\", artist Kuzmenko",
+      "107909": "Watch \"Birds\", artist Gavrilov",
+      "107910": "Watch \"Couple\", artist Kuzmenko",
+      "107911": "Watch \"Firebird\", artist Gavrilov",
+      "107914": "Watch \"Firebird\", artist Kuzmenko",
+      "107897": "Watch \"Lukomorye\", artist Kornilova",
+      "107898": "Watch \"Garden with marvelous birds\", artist Shchanitsina",
+      "98031": "Watch \"Lel\", artist Lukina",
+      "98028": "Watch \"Firebird Feather\", artist Smirnov",
+      "98029": "Watch \"Date\", artist Smirnov",
+      "92184": "Watch \"Berry Girl\", artist Lukina",
+      "92185": "Watch \"Coupel\", artist Surikova",
+      "107913": "Watch \"Ornament\", artist Chibisova",
+      "107912": "Watch \"Ornament\", artist Chibisova",
+      "108548": "Watch \"Assol\", artist Mamina",
+      "108565": "Watch \"Near Lukomorye\", artist Mamina",
+      "108568": "Watch \"Angels\", artist Kornilova",
+      "108569": "Watch \"The Swan Princess\", artist Mamina",
+      "108563": "Watch \"Firebird\", artist Smirnov",
+      "108564": "Watch \"Birds\", artist Smirnov",
+      "108566": "Watch \"The Tale of the Fisherman and the Fish\", artist Smirnov",
+      "108541": "Watch \"The Swan Princess\", artist Mamina",
+      "108542": "Watch \"Couple\", artist Smirnov",
+      "108543": "Watch \"Thumbelina\", artist Mamina",
+      "108545": "Watch \"Saint George\", artist Kornilova",
+      "108546": "Watch \"Tsarevich Ivan and the Gray Wolf\", artist Kornilova",
+      "108547": "Watch \"Sivka-burka\", artist Kornilova",
+      "108549": "Watch \"Firing Hoppe\", artist Mamina",
+      "108553": "Watch \"The Tale of Tsar Saltan\", artist Smirnov",
+      "108556": "Watch \"Firebird\", artist Gavrilov",
+      "108557": "Watch \"Lel\", artist Kornilova",
+      "108558": "Watch \"Ruslan\", artist Smirnov",
+      "108559": "Watch \"Firebird\", artist Smirnov",
+      "108560": "Watch \"Archangel Michael\", artist Kornilova",
+      "108561": "Watch \"St. George\", artist Kornilova",
+      "108567": "Watch \"Miracle Whale\", artist Smirnov",
+      "108570": "Watch \"Magic carpet\", artist Smirnov",
+      "108571": "Watch \"The Stone Flower\", artist Smirnov",
+      "108572": "Watch \"Firebird\", artist Smirnov",
+      "108573": "Watch \"Swings\", artist Smirnov",
+      "108575": "Watch \"Near Lukomorye\", artist Mamina",
+      "108576": "Watch \"The Tale of the Fisherman and the Fish\", artist Smirnov",
+      "108581": "Watch \"Roosters\", artist Kornilova",
+      "108584": "Watch \"Savannah\", artist Kornilova",
+      "108585": "Watch \"Sailing ship\", artist Mamina",
+      "108586": "Watch \"The tale of the sleeping beauty\", artist Smirnov",
+      "108587": "Watch \"Tea Party\", artist Smirnov",
+      "108588": "Watch \"Aviation\", artist Mamina",
+      "108589": "Watch \"Firebird\", artist Smirnov",
+      "108590": "Watch \"Birds of paradise\", artist Smirnov",
+      "108591": "Watch \"Scarlet Flower\", artist Mamina",
+      "108582": "Watch \"St. George\", artist Gavrilov",
+      "108583": "Watch \"Night\", artist Kornilova",
+      "108766": "Watch \"Sadko\", artist Kornilova",
+      "108710": "Watch \"Ornament\", artist Chibisova",
+      "108765": "Watch \"Hunting\", artist Gavrilov,",
+      "108767": "Watch \"Stone Flower\", artist Kornilova",
+      "108768": "Watch \"Sleeping Princess\", artist Kornilova",
+      "126009": "Watch \"Sun\", artist Gavrilov",
+      "125989": "Watch \"Moon\", artist Gavrilov",
+      "125988": "Watch \"Sunshine\", artist Mamina",
+      "125987": "Watch \"Day and Night\", artist Smirnov",
+      "125986": "Watch \"Meeting of the sun and moon\", artist Smirnov",
+      "125985": "Watch \"Dreamers\", artist Smirnov",
+      "125984": "Watch \"City at night\", artist Mamina",
+      "125983": "Watch \"Sun\", artist Gavrilov",
+      "125982": "Watch \"Midnight Date\", artist Mamina",
+      "125981": "Watch \"Reach for the Stars\", artist Kornilova",
+      "125980": "Watch \"Angels\", artist Mamina",
+      "174762": "Watch \"Bouquet of spring flowers №2\", artist Gavrilov",
+      "174761": "Watch \"Tenderness of peonies No. 3\", artist Smirnov",
+      "174760": "Watch \"Magic Garden No. 15\", artist Kornilov",
+      "174759": "Watch \"Marvelous bird №14\", artist Kornilova",
+      "174755": "Watch \"Brighter than the sun №7\", artist Smirnov",
+      "174756": "Watch \"Tenderness of peonies No. 3\", artist Smirnov",
+      "174757": "Watch \"Rosehip Bushes No. 15\", artist Smirnov",
+      "174758": "Watch \"Cherry Orchard No. 7\", artist Mamina",
+      "174754": "Watch \"Magic Garden No. 11\", artist Smirnov",
+      "174753": "Watch \"Ease of Flight No. 4\", artist Smirnov",
+      "174752": "Watch \"Juicy cherry No. 6\", artist Smirnov",
+      "174751": "Watch \"Brighter than the sun №7\", artist Gavrilov",
+      "174749": "Watch \"Magic Garden No. 13\", artist Gavrilov",
+      "174750": "Watch \"Marvelous Bird No. 12\", artist Gavrilov",
+      "108574": "Watch \"Troika №28\", artist Smirnov",
+      "108562": "Watch \"Morozko №51\", artist Mamina",
+      "108551": "Watch \"Troika №7\", artist Smirnov",
+      "107902": "Watch \"Morozko №46\", artist Kuzmenko",
+      "292190": "Watch \"Silver hoof №58\", artist Smirnov",
+      "292189": "Watch \"Ice-skating №33\", artist Smirnov",
+      "292188": "Watch \"Snow Queen №216\", artist Kornilova",
+      "292186": "Watch \"12 months №215\", artist Kornilova",
+      "292184": "Watch \"Winter №34\", artist Smirnov",
+      "292183": "Watch \"Nutcracker №214\", artist Kornilova",
+      "292182": "Watch \"Paysage №59\", artist Smirnov",
+      "292181": "Watch \"Silver hoof №25\", artist Smirnov",
+      "108578": "Watch \"Troika №45\", artist Kuzmenko",
+      "108577": "Watch \"Silver hoof №57\", artist Chaparina",
+      "107907": "Watch \"Troika №38\", artist Chaparina",
+      "107901": "Watch \"Silver hoof №39\", artist Chaparina",
+      "107900": "Watch \"Troika №56\", artist Chaparina",
+      "98036": "Watch \"Snow Queen №1\", artist Kornilova",
+      "293583": "Watch \"Morozko №27\", artist Smirnov",
+      "293585": "Watch \"Troyka №9\", artist Chaparina",
+      "293586": "Watch \"Silver hoof №10\", artist Chaparina",
+      "293616": "Palekh watch / Watch \"Snow Queen №33\", artist Kornilova",
+      "293617": "Watch \"Snow Queen №12\", artist Kornilova",
+      "293618": "Watch \"Nutcracker №14\", artist Kornilova",
+      "293619": "Watch \"Bullfinches №1\", artist Chibisova",
+      "293620": "Watch \"Squirrel №2\", artist Chibisova",
+      "293621": "Watch \"Paysage №15\", artist Kornilova",
+      "292185": "Watch \"Silver plate golden apple №179\", artist Chibisova",
+      "277016": "Watch \"Summer Freshness\", artist Chibisova",
+      "210782": "Watch \"Bright splashes of tulips No. 1\", artist Gavrilov",
+      "210781": "Watch \"Marvelous bird №10\", artist Smirnov",
+      "206667": "Watch \"Lonely wolf №14\", artist Gavrilov",
+      "206669": "Watch \"Midnight Song No. 12\", artist Kornilov",
+      "293584": "Watch \"Firebird №6\", artist Gavrilov",
+      "108709": "Watch \"Ornament №77\" chronograph-quartz, artist Chibisova",
+      "293587": "Watch \"Firebird №7\", artist Gavrilov"
+    }
+  },
+  "meta": {
+    "title": "International online retail & wholesale service",
+    "description": "Thousands of unique products, worldwide shipping",
+    "category_desсription": "wholesale and retail, compare prices of suppliers on the marketplace Global Rus Trade. 🚚 Fast and convenient delivery! ✅ Service and warranty!",
+    "category_page_title": "buy at Global Rus Trade",
+    "twitter_description": "A quick and free way to find the right product",
+    "events_description": "Get to know about upcoming exhibitions and events at Global Rus Trade. Stay up-to-date on all forthcoming trade fairs, displays, forums and important events with GRT.",
+    "news_description": "Keep up to date with Russian export news on the marketplace Global Rus Trade."
+  },
+  "reset": "Reset",
+  "min_value": "Minimal value",
+  "max_value": "Maximum value",
+  "cookie_accept": "We use cookies. With their help, we take care of you, improving the site.",
+  "coockie_agreed": "I agree",
+  "clear_all": "Clear all",
+  "see_all": "See all",
+  "collapse": "Collapse",
+  "range": {
+    "from": "from",
+    "to": "to"
+  },
+  "filters": "Filters",
+  "form_supplier": {
+    "title": "Application for cooperation",
+    "site": "Company web-site",
+    "company": "Company name",
+    "comment": "Comment / Question",
+    "enter_company": "Enter your company name",
+    "offer": "Commercial offer (price list)",
+    "attach_file": "Attach file",
+    "file_size": "(maximum 30 Mb)",
+    "error_format": "The file does not match the format ",
+    "error_size": "File over 30Mb",
+    "thank_you": "Thank you!",
+    "we_will_call": "deThank you for your interest in Global Rus Trade, we will contact you shortly."
+  },
+  "ok": "OK",
+  "no_products": "We couldn't find any items. You can apply other product filters or use the search box at the top of the page.",
+  "search": {
+    "tabs": {
+      "products": "Products",
+      "services": "Services",
+      "suppliers": "Companies"
+    },
+    "blank": {
+      "title": "Sorry, no results were found.",
+      "description": "Please try another search or browse the catalog directory that may contain goods you are looking for."
+    },
+    "filters": {
+      "categories": "Categories"
+    }
+  },
+  "vendor_code": "Vendor code",
+  "reviews": "reviews",
+  "product_rating": "Product rating",
+  "rate_the_product": "Rate the product",
+  "rating_options": {
+    "awful": "Awful",
+    "bad": "Bad",
+    "fine": "Fine",
+    "good": "Good",
+    "excellent": "Excellent"
+  },
+  "price_as_title": "Price",
+  "to_reduce": "Reduce",
+  "to_enlarge": "To enlarge",
+  "brand_name": "Brand name",
+  "seller_name": "Supplier",
+  "description": "Description",
+  "characteristics": "Characteristics",
+  "show_full_description": "Show full description",
+  "hide_full_description": "Hide full description",
+  "hide_some_of_the_characteristics": "Hide some of the characteristics",
+  "show_all_characteristics": "Show all characteristics",
+  "special_conditions": "Special conditions",
+  "for_legal_entities": "for legal entities",
+  "conditions_for_legal_entities": "Conditions for legal entities",
+  "price_for_legal_entities": "Price for legal entities",
+  "minimum_lot_for_purchase": "Minimum lot for purchase",
+  "company_represented_on_site": "The company is represented on the site",
+  "years": "{n} year | {n} years",
+  "show_next_photo": "Show next photo",
+  "show_previous_photo": "Show previous photo",
+  "slide": "Slide",
+  "send_search_request": "Send search request",
+  "open_menu": "Open user menu",
+  "go_to_prev_page": "Go to the previous page",
+  "go_to_next_page": "Go to next page",
+  "suppliers": {
+    "pagetitle": "Products of company"
+  },
+  "show_navigation": "Show category list",
+  "show_filters": "Show filters",
+  "choose_sorting": "Choose a sorting method",
+  "similar_products": "Similar products",
+  "search_results_by_request": "By request of {request} {entity} were found:",
+  "goods": "{n} goods",
+  "additional_info": "Additional Information",
+  "current_exchange_rate": "The price is calculated according to the current exchange rate",
+  "universal": {
+    "date": {
+      "range": {
+        "from": "from",
+        "to": "to"
+      }
+    }
+  },
+  "fakebreadcrumbs": {
+    "events": "Events Calendar",
+    "docs": "Documents",
+    "news": "All news"
+  },
+  "checkout": {
+    "heading": "Checkout",
+    "user_data": "Buyer information",
+    "goods_quantity": "Qty",
+    "delivery_heading": "Input delivery address",
+    "delivery_action": "Specify address on the map",
+    "delivery_methods": "Choose a delivery method",
+    "recipient": "Recipient",
+    "change_recipient": "Change Recipient",
+    "index": "Postcode",
+    "parcel": "Parcel",
+    "goods": "Goods",
+    "discount": "Discount",
+    "choose": "Choose",
+    "close": "Close",
+    "message_many_parcels": "The order will come in several parcels, as it will be shipped from different warehouses",
+    "submit": "Proceed to payment",
+    "hide": "Hide",
+    "days": "{n} day | {n} days",
+    "parcels": "{n} parcel | {n} parcels",
+    "address_placeholder": "City, Street, House, Flat/Office",
+    "delivery_type_error": "Choose a convenient delivery method",
+    "delivery_method_error": "Choose a delivery service",
+    "address_error": "Enter your address correctly or use auto-selection",
+    "postal_code_error": "Enter postcode for correct delivery",
+    "target_invalid": "Fill out all required fields.",
+    "delivery_warning": "There are difficulties with delivery to your region. Our manager will advise you on alternatives.",
+    "delivery_type": {
+      "post": {
+        "name": "Postal delivery",
+        "description": "Delivery to the post office"
+      },
+      "courier": {
+        "name": "Courier service",
+        "description": "Delivery by courier to the address you specified"
+      },
+      "pack-station": {
+        "name": "Pick-up points",
+        "description": "Delivery to the post pick-up point"
+      },
+      "self-delivery": {
+        "name": "Self delivery",
+        "description": "Pick up from our warehouse"
+      }
+    },
+    "has-no-parcels": "You has no products for checkout"
+  },
+  "docs_intro": "On this page you can find documents that may be useful when buying or selling goods on the electronic trading platform GlobalRusTrade.com — marketplace rules and procedures, terms of use, privacy policy and others. If you have any questions — write us on info@globalrustrade.com",
+  "go_back": "Go back",
+  "notes": {
+    "cart_order": "It is necessary to check the conditions for the selected items with the suppliers. As soon as you leave a request our specialists will contact them. After that we will get in touch with you on the specified phone number to confirm your order",
+    "cart_change": "Some items in your cart are out of stock or their quantity has changed."
+  },
+  "cart": {
+    "product": "Product",
+    "was_deleted": "was deleted",
+    "total_products": "Total",
+    "to_proceed_with_order": "To proceed with the order",
+    "stay_in_cart": "Stay in cart",
+    "go_to_catalog": "Go to supplier's catalog",
+    "for_delivery": "You need to add more products on: {count}",
+    "parcels_from": "Parcels from ",
+    "not_available": "are not ready. Do you want continue?",
+    "all_products": "all products",
+    "see": "See",
+    "add_products": "Add the products on:",
+    "without_delivery": "Without delivery",
+    "grab_all": "Select the all",
+    "remove_selected": "Remove selected",
+    "recommend": "Recommend",
+    "delivery": "Delivery",
+    "costOfDelivery": "cost of delivery",
+    "from": "from",
+    "how_to_decrease_the_price": "How to decrease the price?",
+    "at_this_one": "at this one",
+    "result": "Result",
+    "total": "Total",
+    "products_of_company": "Products of company",
+    "products": "Products",
+    "weigh_total": "Weigh (total)",
+    "thing": "pcs.",
+    "tip-off": "Select the items you want to purchase and proceed to checkout",
+    "go_to_checkout": "Go to checkout",
+    "amount_is_changed": "Amount is changed",
+    "it_is_max_limit_amount": "is maximum possible quantity of goods for buy",
+    "it_is_min_limit_amount": "is minimum possible quantity of goods for buy",
+    "your_basket_is_empty": "Your cart is empty",
+    "go_to": "Go to",
+    "the_catalog": "the catalogue",
+    "and_choose_a_product": "and choose whatever you want from more than {count} items",
+    "product_added": "Product is added to cart",
+    "product_removed": "Product is removed from cart",
+    "grt_cart_title": "GRT - Cart",
+    "mark_product": "Please mark the product you want to buy"
+  },
+  "mass_unit": {
+    "kg": "kg"
+  },
+  "modal": {
+    "select_delivery_region": "Select delivery region"
+  },
+  "product_is_over": "The product is over",
+  "withdrawn_from_sale": "Withdrawn from sale",
+  "complain": {
+    "button": "Report an issue",
+    "title": "Reason",
+    "comment": "Comment",
+    "error_format": "The file does not match the format ",
+    "reason1": "Incorrect description",
+    "reason2": "Error in the name",
+    "reason3": "Other",
+    "thank_you": "Thank you for your attention!",
+    "send": "Your complaint has been sent for consideration. We will definitely check it and, if necessary, take measures."
+  },
+  "empty_field": "Fill in the field",
+  "product-not-available": "Unfortunately, this product is not available. Check out a selection of similar products — perhaps there is exactly what you are looking for.",
+  "сhoose_one_option": "Choose one option",
+  "confirm_form": {
+    "enter_the_code_from_sms": "Enter the code from SMS",
+    "you_have_been_sent_an_sms": "You have been sent an SMS with a code to the number",
+    "to_change_number": "To change number",
+    "send": "Send",
+    "resend_code_via": "Resend code via",
+    "resend_code": "Resend code",
+    "log_in": "Login",
+    "expired_validation": "expired validation",
+    "wrong_code": "wrong code"
+  },
+  "validation": {
+    "expiredValidation": "The deadline for receiving the confirmation code has expired. The SMS code has been sent to you again.",
+    "wrong_code": "wrong code"
+  },
+  "thanks_for_your_order": {
+    "title": "Thanks for your order",
+    "text": "Subscribe to our social networks to keep abreast of new products and promotions."
+  },
+  "status_order": {
+    "not_processed": {
+      "title": "The manager will contact you soon",
+      "thanks": "Thanks for the",
+      "order": "order",
+      "text_true": "We accepted your order and took it to work. Subscribe to our social networks to keep up to date with new products and promotions.",
+      "text_false": "Your order is processed by our manager. He will contact you soon to clarify the details.",
+      "continue_shopping": "Continue shopping",
+      "personal_account": "Personal account"
+    },
+    "awaiting_payment": {
+      "title": "Awaiting payment",
+      "thanks": "Thanks for",
+      "order": "order no.",
+      "text": "Pay for the order using any of the available methods.",
+      "problem": "If you have problems with payment, use an alternative method",
+      "button": "By bank card"
+    },
+    "preparing_for_shipment": {
+      "title": "Paid, awaiting shipment",
+      "text": "We have received payment for your order. Your order is being prepared and will be sent to the delivery service soon. We will let you know when this happens. Thank you for choosing Global Rus Trade"
+    },
+    "shipped": {
+      "title": "Shipped",
+      "text": "The order has been sent to the delivery service. Track its location by track number"
+    },
+    "completed": {
+      "title": "Completed",
+      "text": "Have fun with the purchased goods. Thank you for choosing Global Rus Trade. Please help us to become better and leave a review."
+    },
+    "canceled": {
+      "title": "Canceled",
+      "text": "We canceled the order at your request. We hope that we will still be able to surprise you with our unique products. See you soon."
+    },
+    "error": {
+      "title": "Payment authentication error using 3D Secure protocol",
+      "text": "This option may not be enabled on your card. Please contact the bank to confirm the transaction or use another bank card for payment.",
+      "thanks": "Thanks for understanding. This is important for the security of the payment. You can also use ApplePay or GPay."
+    }
+  },
+  "payment_description": "Payment for goods at globalrustrade.com",
+  "proceed_сheckout": "Proceed to сheckout",
+  "pay": "Pay",
+  "address_label": "Address",
+  "hint": "There are your products here too. Click to place an order",
+  "account": {
+    "gender": {
+      "male": "Male",
+      "female": "Female"
+    },
+    "search": "Search",
+    "subscribe": "Subscribe to our newsletter",
+    "save": "save",
+    "avatar": {
+      "invalid_format": "Incorrect file format",
+      "invalid_size": "Maximum file size 10MB"
+    },
+    "navigation": {
+      "heading": "User profile"
+    },
+    "data": {
+      "heading": "Peronal data",
+      "upload": "Upload Avatar"
+    },
+    "orders": {
+      "no-order": "You don't have any orders",
+      "awaiting-payment": "Awaiting payment",
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "not-processed": "Not processed",
+      "heading": "Orders",
+      "order": "Order",
+      "from": "from",
+      "address": "2 delivery addresses",
+      "pay": "Pay"
+    },
+    "modal": {
+      "title": "Write to us",
+      "any_messenger": "In any messenger",
+      "social_network": "or in social networks"
+    },
+    "order_detail": {
+      "title": "Order",
+      "from": "from",
+      "electronic_receipt": "Electronic receipt",
+      "payment_method": "Payment method",
+      "card": "Card",
+      "to_clarify_the_information_on_the_order": "To clarify the information on the order",
+      "parcel": {
+        "title": "Package",
+        "weight": "Weight",
+        "recipient": "Recipient",
+        "delivery": "Delivery method, address and cost",
+        "comment": "Comment"
+      },
+      "good": {
+        "weight": "Weight",
+        "color": "Color",
+        "size": "Size",
+        "price": "Price"
+      }
+    }
+  },
+  "authorization": {
+    "error_code": "The wrong code is entered",
+    "title": "Authorization",
+    "send": "Send",
+    "choice": "Or choose a convenient authorization method",
+    "will_send_code": "We will send you a confirmation code through the selected channel.",
+    "enter_code": "Enter the code",
+    "confirm": "Within a minute you will receive a call with a confirmation code to the number",
+    "change_number": "change the number",
+    "suggest": "The last 4 digits of the phone number from which you received the call are the code. (No need to answer).",
+    "call_not_received": "If the call is not received within",
+    "code_not_received": "If the code is not received within",
+    "another_way_connection": "choose a different communication method",
+    "send_code": "We have sent you a code to",
+    "change_mail": "Change e-mail",
+    "enter_correct_phone": "Enter correct phone number",
+    "get_code": "Get the code",
+    "enter_correct_mail": "Enter correct email"
+  },
+  "contacts": {
+    "legal_address": "Legal address",
+    "address": "3 Bolotnaya naberezhnaya, Bld. 2, block I",
+    "for_registration_documents": "For registration of documents",
+    "mail": "Mail",
+    "media_inquiries": "Media inquiries and clarifications on orders or cooperation",
+    "phone": "Phone",
+    "questions": "Questions about orders or cooperation",
+    "partners": "Partners",
+    "detailed_conditions": "Detailed conditions for cooperation",
+    "go": "Go",
+    "requisites": "Requisites",
+    "inn": "ITN",
+    "ogrn": "PSRN",
+    "kpp": "IEC"
+  },
+  "free": "For free"
+}

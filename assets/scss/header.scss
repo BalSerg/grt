@@ -1,0 +1,265 @@
+.header {
+  .header__top {
+    background: linear-gradient(88.73deg, #2372eb 5.54%, #fc3f71 93.84%);
+    color: #ffffff;
+    font-size: 13px;
+    line-height: 1;
+    padding: 9px 0;
+
+    @media screen and (max-width: 1024px) {
+      display: none;
+    }
+  }
+
+  .header__row {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+  }
+
+  .header__location {
+    margin-right: 115px;
+
+    & > span {
+      cursor: pointer;
+      border-bottom: 1px dashed #ffffff;
+      white-space: nowrap;
+    }
+  }
+
+  .header__links {
+    display: flex;
+    flex-flow: row nowrap;
+    flex-grow: 1;
+    justify-content: flex-start;
+    align-items: center;
+
+    a {
+      color: #ffffff;
+      display: block;
+      margin: 0 10px;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+  }
+
+  .header-currency {
+    margin-left: 12px;
+
+    span {
+      cursor: pointer;
+    }
+
+    .header-currency__context {
+      visibility: hidden;
+      position: relative;
+    }
+
+    &.active {
+      .header-currency__context {
+        visibility: visible;
+      }
+    }
+
+    .header-currency__item {
+      font-size: 13px;
+      padding: 5px 0;
+      cursor: pointer;
+      margin: 5px 0;
+      white-space: nowrap;
+
+      &:hover {
+        color: $grt-blue;
+      }
+    }
+  }
+
+  .header-language {
+    margin-left: 12px;
+
+    span {
+      cursor: pointer;
+    }
+
+    .header-language__context {
+      visibility: hidden;
+      position: relative;
+    }
+
+    &.active {
+      .header-language__context {
+        visibility: visible;
+      }
+    }
+
+    .header-language__item {
+      font-size: 13px;
+      padding: 5px 0;
+      cursor: pointer;
+      margin: 5px 0;
+      white-space: nowrap;
+
+      &:hover {
+        color: $grt-blue;
+      }
+    }
+  }
+
+  .header__main {
+    padding: 20px 0 0;
+    margin-bottom: 12px;
+
+    @media screen and (max-width: 1024px) {
+      padding: 16px 0 0;
+    }
+  }
+}
+
+.header-logo {
+  figure {
+    padding: 0;
+    margin: 0;
+  }
+
+  .header-logo__desktop {
+    display: block;
+  }
+
+  .header-logo__mobile {
+    display: none;
+  }
+
+  @media screen and (max-width: 1024px) {
+    .header-logo__desktop {
+      display: none;
+    }
+
+    .header-logo__mobile {
+      display: block;
+    }
+  }
+
+  @media screen and (max-width: 768px) {
+    .header-logo__desktop {
+      display: none;
+    }
+
+    .header-logo__mobile {
+      display: block;
+
+      svg {
+        height: 25px;
+        width: 71px;
+      }
+    }
+  }
+}
+
+.header__search {
+  margin-left: 10px;
+  margin-right: 0;
+
+  @media (min-width: 768px) {
+    margin-left: 24px;
+    margin-right: 17px;
+  }
+}
+
+.header-burger {
+  display: none;
+
+  @media screen and (max-width: 1024px) {
+    display: flex;
+    flex-grow: 1;
+    margin-left: 15px;
+  }
+
+  .header-burger__button {
+    background-color: #ffffff;
+    border-radius: 0;
+    border: none;
+    display: flex;
+    width: 36px;
+    height: 36px;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+
+    span {
+      width: 27px;
+      height: 3px;
+      border-radius: 4px;
+      background-color: $grt-blue;
+      display: block;
+      position: relative;
+
+      &::before,
+      &::after {
+        width: 100%;
+        height: 100%;
+        content: "";
+        position: absolute;
+        border-radius: 4px;
+        background-color: $grt-blue;
+        left: 0;
+      }
+
+      &::before {
+        top: -9px;
+      }
+
+      &::after {
+        bottom: -9px;
+      }
+    }
+
+    @media screen and (max-width: 768px) {
+      background-color: #ffffff;
+      border-radius: 0;
+      border: none;
+      display: flex;
+      width: 24px;
+      height: 24px;
+      flex-flow: row nowrap;
+      justify-content: center;
+      align-items: center;
+      box-sizing: border-box;
+      padding: 0;
+      margin: 0;
+
+      span {
+        width: 18px;
+        height: 2px;
+        border-radius: 2px;
+        background-color: $grt-blue;
+        display: block;
+        position: relative;
+
+        &::before,
+        &::after {
+          width: 100%;
+          height: 100%;
+          content: "";
+          position: absolute;
+          border-radius: 2px;
+          background-color: $grt-blue;
+          left: 0;
+        }
+
+        &::before {
+          top: -6px;
+        }
+
+        &::after {
+          bottom: -6px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+export const vueI18n = require('~/vueI18n.config.js').default
+export const vueI18nLoader = false
+export const locales = [{"name":"Русский","code":"ru","file":"ru.json","iso":"ru"},{"name":"English","code":"en","file":"en.json","iso":"en"},{"name":"Deutsch","code":"de","file":"de.json","iso":"de"},{"name":"Français","code":"fr","file":"fr.json","iso":"fr"},{"name":"Español","code":"es","file":"es.json","iso":"es"},{"name":"Italiano","code":"it","file":"it.json","iso":"it"},{"name":"Português","code":"pt","file":"pt.json","iso":"pt"},{"name":"Türkçe","code":"tr","file":"tr.json","iso":"tr"},{"name":"汉语","code":"zh","file":"zh.json","iso":"zh"},{"name":"हिन्दी","code":"hi","file":"hi.json","iso":"hi"},{"name":"Tiếng Việt","code":"vi","file":"vi.json","iso":"vi"}]
+export const defaultLocale = 'en'
+export const routesNameSeparator = '___'
+export const defaultLocaleRouteNameSuffix = 'default'
+export const strategy = 'prefix_except_default'
+export const lazy = true
+export const langDir = 'locales/'
+export const rootRedirect = null
+export const detectBrowserLanguage = false
+export const differentDomains = false
+export const seo = false
+export const baseUrl = 'http://grtest.website'
+export const vuex = {"moduleName":"i18n","syncLocale":false,"syncMessages":false,"syncRouteParams":true}
+export const parsePages = true
+export const pages = {}
+export const beforeLanguageSwitch = () => null
+export const onLanguageSwitched = () => null
+export const IS_UNIVERSAL_MODE = true
+export const MODULE_NAME = 'nuxt-i18n'
+export const LOCALE_CODE_KEY = 'code'
+export const LOCALE_ISO_KEY = 'iso'
+export const LOCALE_DOMAIN_KEY = 'domain'
+export const LOCALE_FILE_KEY = 'file'
+export const STRATEGIES = {"PREFIX":"prefix","PREFIX_EXCEPT_DEFAULT":"prefix_except_default","PREFIX_AND_DEFAULT":"prefix_and_default","NO_PREFIX":"no_prefix"}
+export const COMPONENT_OPTIONS_KEY = 'nuxtI18n'
+export const localeCodes = ["ru","en","de","fr","es","it","pt","tr","zh","hi","vi"]
+export const trailingSlash = true

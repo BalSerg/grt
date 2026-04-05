@@ -1,0 +1,920 @@
+{
+  "title": "Thị trường thương mại quốc tế",
+  "advantages": {
+    "reason1": "Nền tảng thương mại điện tử xuyên biên giới B2B đầu tiên của Nga",
+    "reason2": "Các công ty từ hơn 100 quốc gia có mặt trên trang web của chúng tôi"
+  },
+  "currency": {
+    "rub": "Rúp Nga",
+    "usd": "đô la Mĩ",
+    "eur": "Euro",
+    "uzs": "Tổng tiếng Uzbek",
+    "ron": "LEU Romania mới",
+    "kgs": "Kyrgyz som",
+    "huf": "Đồng forint của Hungary",
+    "aud": "Đô la Úc",
+    "cny": "nhân dân tệ của Trung Quốc",
+    "brl": "Đồng real Brazil",
+    "hkd": "Đôla Hong Kong",
+    "jpy": "yen Nhật",
+    "kzt": "Đồng tenge Kazakhstan",
+    "sek": "Đồng curon Thụy Điển",
+    "try": "Lira Thổ Nhĩ Kỳ",
+    "czk": "Koruna Séc",
+    "pln": "Đồng zloty Ba Lan",
+    "chf": "Thẳng thắn Thụy Sĩ",
+    "inr": "Rupee Ấn Độ",
+    "mdl": "Lei Moldova",
+    "bgn": "Đồng lev của Bungari",
+    "amd": "Kịch Armenia",
+    "azn": "Manat Azerbaijan",
+    "byn": "Đồng rúp của Belarus",
+    "krw": "Won Hàn Quốc",
+    "dkk": "Krone Đan Mạch",
+    "cad": "đô la Canada",
+    "tmt": "Manat Turkmen mới",
+    "nok": "Krone Na Uy",
+    "sgd": "đô la Singapore",
+    "tjs": "Tajik somoni",
+    "uah": "Hryvnia Ukraina",
+    "gbp": "Bảng Anh",
+    "zar": "Đơn vị tiền tệ tiêu chuẩn được sử dụng ở Nam Phi"
+  },
+  "selectCurrency": "Tiền tệ",
+  "features": {
+    "feature1": "Nền tảng thương mại điện tử xuyên biên giới B2B đầu tiên của Nga",
+    "feature2": "Các công ty từ hơn 100 quốc gia có mặt trên trang web của chúng tôi"
+  },
+  "footer": {
+    "contacts": {
+      "call": "Gọi",
+      "everyday": "Hằng ngày",
+      "email": "Viết cho chúng tôi",
+      "phone": "Cần giúp đỡ?"
+    },
+    "navigation": {
+      "about": "Về công ty",
+      "accept": "Chúng tôi chấp nhận thanh toán",
+      "benefits": "Lợi ích của thị trường",
+      "buyer": "Đối với người mua",
+      "contacts": "Liên lạc",
+      "delivery": "Chuyển",
+      "info": "Thông tin",
+      "history": "Lịch sử của công ty",
+      "legal": "Đối với pháp nhân",
+      "media": "Truyền thông và đối tác",
+      "news": "Tin tức",
+      "order": "Làm thế nào để gọi món",
+      "partners": "Đối tác",
+      "partnership": "Quan hệ đối tác",
+      "payment": "Thanh toán",
+      "return": "Trao đổi và trả lại",
+      "request": "Để lại yêu cầu cho một sản phẩm",
+      "seller": "Nhà cung cấp",
+      "start": "Bắt đầu hợp tác",
+      "warranty": "Sự bảo đảm",
+      "wholesale": "Khách hàng bán buôn và khách hàng B2B",
+      "sale_rules": "Quy tắc bán hàng",
+      "public_offer": "Ưu đãi công khai",
+      "regulations": "Quy định",
+      "terms": "Điều khoản sử dụng",
+      "privacy": "Chính sách bảo mật",
+      "tariff_payment": "Quy tắc thanh toán",
+      "tariff_plans": "Kế hoạch thuế quan",
+      "export_services": "Dịch vụ xuất khẩu",
+      "success_stories": "Câu chuyện thành công"
+    },
+    "social": "Chúng tôi đang ở trong mạng xã hội",
+    "subscribe": {
+      "agreement": "Tôi đồng ý với {user_agreement} và {policy}",
+      "user_agreement": "các điều khoản của thỏa thuận người dùng",
+      "policy": "chính sách bảo mật",
+      "email": "Email của bạn",
+      "message": "Đăng ký để là người đầu tiên để biết về các ưu đãi thú vị",
+      "subscribe": "Đăng ký"
+    },
+    "messengers": "Liên hệ chúng tôi"
+  },
+  "header": {
+    "cart": "xe đẩy",
+    "catalog": "Mục lục",
+    "enter": "Đăng nhập để nhận chiết khấu, tiền thưởng được cá nhân hóa và theo dõi đơn đặt hàng.",
+    "favorites": "Yêu thích",
+    "faq": "Câu hỏi và câu trả lời",
+    "become_a_supplier": "Trở thành nhà cung cấp",
+    "payment": "Thanh toán và giao hàng",
+    "profile": "Hồ sơ",
+    "search": "Tìm kiếm trong số {count} sản phẩm và dịch vụ",
+    "supplier": "Làm thế nào để trở thành nhà cung cấp",
+    "user": {
+      "orders": "Đơn hàng",
+      "bio": "Dữ liệu của tôi",
+      "messages": "Tin nhắn",
+      "refunds": "Tiền hoàn lại",
+      "feedback": "Phản hồi và câu hỏi",
+      "loyalty": "Chương trình khách hàng thân thiết",
+      "logout": "Đăng xuất",
+      "companies": "Công ty của tôi"
+    },
+    "sign_up": "Đăng ký",
+    "sign_in": "Để vào",
+    "sign_in_title": "Cổng vào",
+    "user_cart": {
+      "title": "Giỏ hàng của tôi",
+      "total": "Tổng chi phí",
+      "goto": "Đi tới xe đẩy hàng"
+    },
+    "partnership": "Bắt đầu hợp tác",
+    "buy": "Mua ngay",
+    "order": "Để đặt hàng"
+  },
+  "product": {
+    "cart": "Thêm vào giỏ hàng",
+    "favorite": "Thêm vào mục ưa thích",
+    "in_the_cart": "Trong giỏ hàng",
+    "to_cart": "Đến giỏ hàng",
+    "take_a_look": "Hãy xem",
+    "whole_products": "toàn bộ sản phẩm",
+    "goods_in_the_cart": "Sản phẩm trong giỏ hàng",
+    "min_amount": "Số lượng đặt hàng tối thiểu cho nhà cung cấp"
+  },
+  "section": {
+    "header": {
+      "advantages": "Ưu điểm của GlobalRusTrade",
+      "events": "Sự kiện",
+      "news": "Tin tức",
+      "watch": "Xem tất cả"
+    }
+  },
+  "login": {
+    "email": "E-mail",
+    "enter_email": "Nhập email của bạn",
+    "password": "Mật khẩu",
+    "password_forgot": "Quên mật khẩu?",
+    "enter_correct_password": "Nhập mật khẩu chính xác",
+    "registration": "Đăng ký",
+    "password_requirement": {
+      "message": "Để bảo vệ dữ liệu của mình, bạn phải tạo một mật khẩu an toàn",
+      "min_length": "{count} hoặc nhiều ký tự",
+      "letters": "bức thư",
+      "figures": "số liệu",
+      "new_password_message": "Vui lòng nhập mật khẩu mới có chứa:"
+    },
+    "register_now": "Đăng ký ngay",
+    "create_password": "Tạo một mật khẩu",
+    "receive_personal_offers": "Nhận đề nghị cá nhân",
+    "accept_terms": {
+      "accept": "Sau khi đăng ký, tôi chấp nhận các điều khoản của",
+      "agreement": "sự thỏa thuận của người dùng"
+    },
+    "registration_ending": "Hoàn thành đăng ký",
+    "email_confirm_message": "Vui lòng xác nhận đăng ký trong thư gửi đến",
+    "didnt_get_email": "chưa nhận được email sao?",
+    "check_spam": "Kiểm tra thư mục Spam của bạn nếu email không đến trong hơn 5 phút. Đôi khi thư bị chặn bởi hệ thống bưu điện.",
+    "check_spelling": "Kiểm tra chính tả email của bạn",
+    "request_resend": "Yêu cầu gửi lại email",
+    "didnt_help": "Đã không giúp được gì? Gửi email cho chúng tôi",
+    "password_recovery": "Khôi phục mật khẩu",
+    "password_recovery_via_email_1": "Một liên kết để đặt lại mật khẩu của bạn sẽ được gửi đến email của bạn",
+    "password_recovery_via_email_2": ".",
+    "password_recovery_via_email_3": "Một liên kết để đặt lại mật khẩu của bạn đã được gửi đến email của bạn {email} .",
+    "password_recovery_via_email_4": "Một liên kết để đặt lại mật khẩu của bạn sẽ được gửi đến email của bạn {email} .",
+    "send": "Gửi",
+    "save": "Tiết kiệm",
+    "password_change_success_message": "Mật khẩu đã thay đổi thành công",
+    "wait_for_redirect": "Chờ chuyển hướng đến trang chính sau 5 giây hoặc nhấp vào nút bên dưới",
+    "go_to_website": "Đi đến trang web",
+    "password_recovery_expired_1": "Liên kết đặt lại mật khẩu của bạn đã lỗi thời.",
+    "password_recovery_expired_2": "Vui lòng yêu cầu khôi phục mật khẩu một lần nữa.",
+    "go_to_mainpage": "Đi đến trang chính",
+    "registration_confirm": "Xác nhận đăng ký",
+    "registration_successful": "Đã xác nhận đăng ký thành công",
+    "resend_email": "Gửi lại email",
+    "resend_email_instructions": "Một liên kết để xác nhận đăng ký sẽ được gửi lại đến e-mail {email} của bạn.",
+    "resend_email_instructions_after_submit": "Một liên kết để xác nhận đăng ký đã được gửi đến email của bạn {email}.",
+    "send_email_again": "Gửi lại email"
+  },
+  "errors": {
+    "500": {
+      "something_went_wrong": "Một lỗi đã xảy ra.",
+      "message": "Đừng lo lắng, chúng tôi đang làm việc để khắc phục sự cố. Chúng tôi sẽ sớm lên. Và bạn có thể tận hưởng mua sắm một lần nữa.",
+      "link": "Làm mới trang"
+    },
+    "400": {
+      "message": "Không có gì được tìm thấy",
+      "link": "trở lại trang chinh"
+    },
+    "something_wrong": "Đã xảy ra sự cố"
+  },
+  "name": "Tên",
+  "enter_name": "Nhập tên của bạn",
+  "must_sign_in": "Bạn phải đăng nhập để làm điều đó",
+  "phone_required": "Điện thoại*",
+  "phone_code": "Chọn mã quốc gia và nhập số điện thoại của bạn",
+  "enter_phone": "Nhập số điện thoại của bạn",
+  "enter_quantity": "Nhập số lượng",
+  "order_accepted": "Đơn của bạn được chấp nhận",
+  "we_will_call": "Chúng tôi sẽ liên hệ với bạn ngay khi có thể.",
+  "you_are_subscribed": "Xin chúc mừng! Bạn đã đăng ký.",
+  "added_to_cart": "Sản phẩm được thêm vào giỏ hàng",
+  "language": "Ngôn ngữ",
+  "of_goods": "Các mặt hàng",
+  "price_demand": "Giá theo yêu cầu",
+  "goto_catalog": "Đi tới danh mục",
+  "settings": "Cài đặt",
+  "delivery_terms": "Điều khoản giao hàng",
+  "payment_methods": "Phương thức thanh toán",
+  "return_conditions": "Điều kiện trả lại",
+  "returns": "Lợi nhuận",
+  "palekh": {
+    "showmore": "Cho xem nhiều hơn",
+    "video": {
+      "title": "Truyền thống nghệ thuật Palekh thể hiện trong những chiếc đồng hồ độc quyền"
+    },
+    "showcase": {
+      "title": "Những chiếc đồng hồ đáng được chú ý",
+      "dark_title": "Quay số màu đen tuyệt vời",
+      "link": "Xem tất cả",
+      "summerGarden": "Bộ sưu tập mới \"Khu vườn mùa hè\"",
+      "other_collections": "Các bộ sưu tập khác của Palekh Watch",
+      "winterCollection": "Bộ sưu tập mùa đông của Palekh Watch",
+      "womanCollection": "Đồng hồ Palekh dành cho nữ",
+      "manCollection": "Đồng hồ Palekh dành cho nam giới"
+    },
+    "features": {
+      "readmore": "Thêm chi tiết",
+      "picture": {
+        "title": "Vẽ tay",
+        "intro": "Mỗi mặt số đều được vẽ bằng tay và giữ trong mình vẻ đẹp của Palekh thu nhỏ độc đáo, nổi tiếng khắp thế giới.",
+        "article": [
+          "Mỗi mặt số đều được vẽ bằng tay và giữ trong mình vẻ đẹp của Palekh thu nhỏ độc đáo, nổi tiếng khắp thế giới. Màu sắc phong phú, đường nét tinh tế, nét vẽ chạm khắc và những câu chuyện dân gian đầy cảm xúc đã gây ra cảm xúc tại Venetian Art Vernissage và World Expo ở Paris. Bây giờ cổ tay của bạn cũng sẽ được trang trí bằng những bức tranh huyền thoại.",
+          "Những bí mật của công nghệ sơn được truyền từ đời này sang đời khác. Chiếc đồng hồ đã lưu giữ những truyền thống hàng thế kỷ của các nghệ nhân Nga. Đầu tiên, các bậc thầy phủ men đen lên mặt số, chuyển bản phác thảo bằng đá bọt, sau đó quét vôi trắng. Tiếp theo, họ sơn mặt số bằng sơn tempera.",
+          "Các nhân vật yêu thích của bạn từ những câu chuyện dân gian trở nên sống động dưới những nét vẽ mỏng. Đây là con chim lửa cất cánh, đây là ba con ngựa đang chạy, cắt ngang qua không khí, và đây là một thiếu nữ xinh đẹp với chiếc giỏ trên đồng cỏ dâu tây. Sau đó, các nghệ sĩ đánh vecni cho bức tranh, dát vàng, đánh bóng bằng nanh sói, quét lại sơn bóng và thêm độ bóng."
+        ]
+      },
+      "gears": {
+        "title": "Phong trào Thụy Sĩ",
+        "article": [
+          "Những chiếc đồng hồ được chế tác một cách khéo léo cả bên trong và bên ngoài. Các bộ máy Thụy Sĩ hoặc Nhật Bản đáng tin cậy chịu trách nhiệm về độ chính xác. Thiết bị chống sốc bảo vệ chống rung chấn. Đồng hồ được lắp ráp bởi công ty Poljot Klassika với lịch sử 25 năm và danh tiếng của một nhà sản xuất đáng tin cậy."
+        ]
+      },
+      "box": {
+        "title": "Hộp đồng hồ gỗ",
+        "article": [
+          "Đồng hồ được đựng trong hộp quà cao cấp màu óc chó quý phái. Vỏ được làm bằng gỗ quý và phủ một lớp sơn bóng. Bên trong nó được hoàn thiện bằng đàn màu be."
+        ]
+      },
+      "belt": {
+        "title": "Dây da",
+        "article": [
+          "Một yếu tố nổi bật khác của thành phần là dây đeo được làm bằng da thật có vân nổi. Có sẵn 7 sắc thái khác nhau bổ sung hài hòa cho bản thu nhỏ: đen, nâu, trắng, đỏ, xanh hải quân, xanh lá cây hoặc be."
+        ]
+      },
+      "case": {
+        "title": "Vỏ và kính",
+        "article": [
+          "Chất lượng và độ tin cậy của đồng hồ cũng được nhấn mạnh bởi vỏ máy. Nó được làm bằng hợp kim nhôm kẽm hoặc thép không gỉ với một lớp mạ vàng hoặc crom. Ánh kim loại tạo điểm nhấn đẹp mắt cho mặt số. Kính khoáng chống thấm nước bảo vệ chống trầy xước gia dụng. Đồng hồ có khả năng chống va đập nhỏ do tai nạn."
+        ]
+      }
+    },
+    "about": {
+      "title": "Về dự án",
+      "article": [
+        "Thời gian cho nghệ thuật! Đồng hồ Palekh độc đáo kết hợp vẻ đẹp của bức tranh Palekh với chất lượng của bộ máy đồng hồ Nhật Bản và Thụy Sĩ.",
+        "Chiếc đồng hồ này không chỉ là một phụ kiện đẹp mà còn là một tác phẩm nghệ thuật thực sự lưu giữ lại sự ấm áp của công việc thủ công và truyền thống hàng thế kỷ của nghề thủ công. Mỗi mặt số đều được vẽ bằng tay bởi một nghệ nhân từ làng Palekh, tuân theo tất cả các công đoạn tạo hình thu nhỏ truyền thống. Ví dụ, các điểm nhấn được sơn bằng vàng - giống như một trăm năm trước. Việc tạo ra một mặt số duy nhất có thể mất cả tháng vì công việc tinh tế như vậy. Những câu chuyện cổ tích được yêu thích, đồ trang trí truyền thống và vẻ đẹp độc đáo của thiên nhiên đã trở thành nguồn cảm hứng cho các tác phẩm tiểu cảnh. Ngoài ra, chúng tôi sản xuất đồng hồ phiên bản giới hạn theo mùa.",
+        "Palekh Watch được giới thiệu độc quyền trên thị trường Global Rus Trade."
+      ]
+    },
+    "faq": {
+      "title": "Câu hỏi thường gặp",
+      "primary_phone": "+7 (909) 646-56-65",
+      "secondary_phone": "+7 (495) 256 26 25",
+      "alt_phone": "+7 (495) 921-45-60",
+      "email": "infо@globalrustrade.com",
+      "alt_email": "sales@simvolika.ru",
+      "questions": [
+        {
+          "question": "Chi phí và điều khoản giao hàng là gì?",
+          "answer": [
+            "Giao hàng trong nước Nga là miễn phí và được thực hiện bởi Bưu điện Nga trong vòng 2-14 ngày. Đối với Moscow và khu vực Moscow - ngày hôm sau.",
+            "Giao hàng đến các nước khác cũng như bằng dịch vụ chuyển phát nhanh được thanh toán. Chi phí của nó có thể được tính toán tự động khi đặt hàng trên trang web.",
+            "Để đặt hàng thông qua người quản lý, vui lòng liên hệ với chúng tôi theo địa chỉ {primary_phone}, {Secondary_phone} hoặc e-mail {email}."
+          ]
+        },
+        {
+          "question": "Tôi muốn tặng một chiếc đồng hồ như một món quà. Làm thế nào để làm nó?",
+          "answer": [
+            "Bất kỳ chiếc đồng hồ nào cũng có thể được gửi trong hộp quà, kèm theo một tấm bưu thiếp với lời chúc của bạn.",
+            "Để đặt hàng làm quà tặng, vui lòng liên hệ với chúng tôi qua điện thoại {primary_phone}, {Secondary_phone} hoặc e-mail {email}."
+          ]
+        },
+        {
+          "question": "Tôi có thể thử đồng hồ trước khi mua không?"
+        },
+        {
+          "question": "Bảo hành bao gồm những gì?",
+          "answer": [
+            "Bảo hành ít nhất 1 năm áp dụng cho bộ máy, tay và vỏ. Trong thời gian bảo hành, miễn phí điều chỉnh, sửa chữa, thay thế các bộ phận lắp ráp hoặc chuyển động, nếu sự cố hoặc hỏng hóc của đồng hồ không phải do tai nạn hoặc vận hành không đúng cách.",
+            "Để tận dụng trường hợp bảo hành, hãy liên hệ với chúng tôi qua e-mail {alt_email} hoặc gọi {alt_phone}",
+            "Bảo hành không bao gồm các thay đổi về mặt thẩm mỹ, các khuyết tật và hư hỏng do hao mòn, rách và lão hóa thông thường (ví dụ như trầy xước nhỏ trên vỏ hoặc kính, mòn vòng tay, bong tróc lớp phủ, v.v.)."
+          ]
+        },
+        {
+          "question": "Có thể trao đổi hoặc trả lại một mặt hàng?",
+          "answer": [
+            "Chúng tôi sẽ trả lại hàng miễn phí trong vòng 30 ngày kể từ ngày nhận hàng. Đồng hồ phải chưa qua sử dụng, còn nguyên tem mác và màng bảo vệ, không bị trầy xước, nhăn trên dây đeo và các dấu hiệu hao mòn khác.",
+            "Để hoàn lại tiền, vui lòng liên hệ với chúng tôi qua điện thoại {primary_phone}, {Secondary_phone} hoặc qua e-mail {email}."
+          ]
+        }
+      ]
+    },
+    "form": {
+      "title": "Cần một cuộc tư vấn? Để lại yêu cầu gọi lại",
+      "comment": {
+        "label": "Bình luận",
+        "message": "Để lại bình luận"
+      },
+      "thanks": "Cảm ơn bạn, dữ liệu đã được gửi thành công!",
+      "message": "Các nhà quản lý sẽ liên hệ với bạn sớm.",
+      "contacts": "Nếu bạn không muốn đợi, hãy gọi cho chúng tôi {primary_phone} hoặc {Secondary_phone}"
+    },
+    "benefits": {
+      "shipping": {
+        "title": "Giao hàng miễn phí trong nước Nga",
+        "content": "Giao hàng trong nước Nga là miễn phí và được thực hiện bởi Bưu điện Nga trong vòng 2-14 ngày. Đối với Matxcova và khu vực Matxcova, việc giao hàng sẽ được thực hiện vào ngày hôm sau."
+      },
+      "return": {
+        "title": "Đổi trả miễn phí trong vòng 30 ngày",
+        "content": "Bạn có thể trả lại đồng hồ của mình miễn phí trong vòng 30 ngày kể từ ngày nhận. Chúng tôi sẽ hoàn trả chi phí sản phẩm nếu sản phẩm không bị hư hỏng, vẫn giữ nguyên hình thức và không có dấu hiệu hao mòn."
+      },
+      "painting": {
+        "title": "Bức tranh độc đáo của tác giả",
+        "content": "Trở thành chủ nhân của chiếc đồng hồ độc quyền với bức tranh huyền thoại của các danh họa Palekh. Chọn từ một loạt các họa tiết văn hóa dân gian đầy màu sắc. Sự kỳ diệu của một câu chuyện cổ tích trong mọi mô hình."
+      },
+      "technology": {
+        "title": "Công nghệ truyền thống",
+        "content": "Mặt số được sơn giống như cách đây một thế kỷ. Các bậc thầy quan sát tất cả các giai đoạn của công nghệ sơn và bảo tồn truyền thống của nghệ thuật huyền thoại."
+      }
+    },
+    "watch": {
+      "107906": "Xem «LEL», nghệ sĩ Suloeva",
+      "107903": "Xem «Công chúa thiên nga», họa sĩ Chaparina",
+      "107894": "Xem «Firebird», nghệ sĩ Smirnov",
+      "107904": "Xem «Swan», nghệ sĩ Kuzmenko",
+      "107893": "Xem «Firebird», nghệ sĩ Smirnov",
+      "107895": "Xem «Cá vàng», nghệ sĩ Smirnov",
+      "107899": "Xem «Câu chuyện về người đánh cá và người cá», nghệ sĩ Smirnov",
+      "98030": "Xem «Firebird», nghệ sĩ Lukina",
+      "107896": "Xem «Nhạc sĩ», nghệ sĩ Smirnov",
+      "98033": "Xem «Cuộc họp», nghệ sĩ Smirnov",
+      "98035": "Xem «Goldilocks», nghệ sĩ Kornilova",
+      "98034": "Xem «Trong vườn», nghệ sĩ Lukina",
+      "98032": "Xem «Những chú chim tuyệt vời», nghệ sĩ Smirnov",
+      "92186": "Xem «Cặp đôi», nghệ sĩ Surikova",
+      "107915": "Xem «Guidon», nghệ sĩ Suloeva",
+      "107905": "Xem «By berries», nghệ sĩ Kuzmenko",
+      "107908": "Xem «At the Well», nghệ sĩ Kuzmenko",
+      "107909": "Xem «Những con chim», nghệ sĩ Gavrilov",
+      "107910": "Xem «Cặp đôi», nghệ sĩ Kuzmenko",
+      "107911": "Xem «Firebird», nghệ sĩ Gavrilov",
+      "107914": "Xem «Firebird», nghệ sĩ Kuzmenko",
+      "107897": "Xem «Near Lukomorye», nghệ sĩ Kornilova",
+      "107898": "Xem «Khu vườn với những chú chim kỳ diệu», nghệ sĩ Shahanitsina",
+      "98031": "Xem «LEL», nghệ sĩ Lukina",
+      "98028": "Xem «Feather of the Firebird», nghệ sĩ Smirnov",
+      "98029": "Xem «Date», nghệ sĩ Smirnov",
+      "92184": "Xem «Berry girl», nghệ sĩ Lukina",
+      "92185": "Xem «Cặp đôi», nghệ sĩ Surikova",
+      "107913": "Xem «Орнамент», nghệ sĩ Chibisova",
+      "107912": "Xem «Орнамент», nghệ sĩ Chibisova",
+      "108548": "Xem \"Assol\", nghệ sĩ Mamina",
+      "108565": "Xem \"By the Lukomorya\", nghệ sĩ Mamina",
+      "108568": "Xem \"Angels\", nghệ sĩ Kornilova",
+      "108569": "Xem \"Princess Swan\", nghệ sĩ Mamina",
+      "108563": "Xem \"Firebird\", nghệ sĩ Smirnov",
+      "108564": "Xem \"Những chú chim\", nghệ sĩ Smirnov",
+      "108566": "Xem \"Câu chuyện về người đánh cá và người cá\", nghệ sĩ Smirnov",
+      "108541": "Xem \"Công chúa thiên nga\", nghệ sĩ Mamina",
+      "108542": "Xem \"Cặp đôi\", nghệ sĩ Smirnov",
+      "108543": "Xem \"Thumbelina\", nghệ sĩ Mamina",
+      "108545": "Xem \"George the Victorious\", nghệ sĩ Kornilov",
+      "108546": "Xem \"Ivan Tsarevich và con sói xám\", nghệ sĩ Kornilova",
+      "108547": "Xem \"Sivka-burka\", nghệ sĩ Kornilova",
+      "108549": "Xem \"Ognevushka-jump\", nghệ sĩ Kornilova",
+      "108553": "Xem \"Câu chuyện về Sa hoàng Saltan\", nghệ sĩ Smirnov",
+      "108556": "Xem \"Firebird\", nghệ sĩ Gavrilov",
+      "108557": "Xem \"Lel\", nghệ sĩ Kornilova",
+      "108558": "Xem \"Ruslan\", nghệ sĩ Smirnov",
+      "108559": "Xem \"Firebird\", nghệ sĩ Smirnov",
+      "108560": "Xem \"Archangel Michael\", nghệ sĩ Kornilov",
+      "108561": "Xem \"George\", nghệ sĩ Kornilova",
+      "108567": "Xem \"Cá voi thần kỳ Yudo\", nghệ sĩ Smirnov",
+      "108570": "Xem \"Thảm máy bay\", nghệ sĩ Smirnov",
+      "108571": "Xem \"Hoa đá\", nghệ sĩ Smirnov",
+      "108572": "Xem \"Firebird\", nghệ sĩ Smirnov",
+      "108573": "Đồng hồ \"Swing\", nghệ sĩ Smirnov",
+      "108575": "Xem \"By the Lukomorya\", nghệ sĩ Mamina",
+      "108576": "Xem \"Câu chuyện về người đánh cá và người cá\", nghệ sĩ Smirnov",
+      "108581": "Xem \"Roosters\", nghệ sĩ Kornilova",
+      "108584": "Xem \"Savannah\", nghệ sĩ Kornilova",
+      "108585": "Xem \"Thuyền buồm\", nghệ sĩ Mamina",
+      "108586": "Xem \"Câu chuyện về người đẹp ngủ trong rừng\", nghệ sĩ Smirnov",
+      "108587": "Xem \"Tiệc trà\", nghệ sĩ Smirnov",
+      "108588": "Xem \"Hàng không\", nghệ sĩ Mamina",
+      "108589": "Xem \"Firebird\", nghệ sĩ Smirnov",
+      "108590": "Xem \"Những con chim thiên đường\", nghệ sĩ Smirnov",
+      "108591": "Xem \"Scarlet Flower\", nghệ sĩ Mamina",
+      "108582": "Xem \"St. George\", nghệ sĩ Gavrilov",
+      "108583": "Xem \"Night\", nghệ sĩ Kornilova",
+      "108766": "Xem \"Sadko\", nghệ sĩ Kornilova",
+      "108710": "Xem \"Ornament\", nghệ sĩ Chibisova",
+      "108765": "Xem \"Hunting\", nghệ sĩ Gavrilov,",
+      "108767": "Xem \"Bông hoa đá\", nghệ sĩ Kornilova",
+      "108768": "Xem \"Công chúa ngủ trong rừng\", nghệ sĩ Kornilova",
+      "126009": "Xem \"Sun\", nghệ sĩ Gavrilov",
+      "125989": "Xem \"Moon\", nghệ sĩ Gavrilov",
+      "125988": "Xem \"Sunshine\", nghệ sĩ Mamina",
+      "125987": "Xem \"Ngày và đêm\", nghệ sĩ Smirnov",
+      "125986": "Xem \"Cuộc gặp gỡ của mặt trời và mặt trăng\", nghệ sĩ Smirnov",
+      "125985": "Xem \"Những kẻ mộng mơ\", nghệ sĩ Smirnov",
+      "125984": "Xem \"Thành phố về đêm\", nghệ sĩ Mamina",
+      "125983": "Xem \"Sun\", nghệ sĩ Gavrilov",
+      "125982": "Xem \"Midnight Date\", nghệ sĩ Mamina",
+      "125981": "Xem \"Reach for the Stars\", nghệ sĩ Kornilova",
+      "125980": "Xem \"Angels\", nghệ sĩ Mamina",
+      "174762": "Xem \"Bó hoa mùa xuân №2\", nghệ sĩ Gavrilov",
+      "174761": "Xem \"Sự dịu dàng của mẫu đơn số 3\", nghệ sĩ Smirnov",
+      "174760": "Xem \"Khu vườn ma thuật số 15\", nghệ sĩ Kornilov",
+      "174759": "Xem \"Chú chim kỳ diệu №14\", nghệ sĩ Kornilova",
+      "174755": "Xem \"Sáng hơn mặt trời №7\", nghệ sĩ Smirnov",
+      "174756": "Xem \"Sự dịu dàng của mẫu đơn số 3\", nghệ sĩ Smirnov",
+      "174757": "Xem \"Rosehip Bushes số 15\", nghệ sĩ Smirnov",
+      "174758": "Xem \"Cherry Orchard số 7\", nghệ sĩ Mamina",
+      "174754": "Xem \"Khu vườn ma thuật số 11\", nghệ sĩ Smirnov",
+      "174753": "Xem \"Ease of Flight số 4\", nghệ sĩ Smirnov",
+      "174752": "Xem \"Juicy cherry No. 6\", nghệ sĩ Smirnov",
+      "174751": "Xem \"Brighter than the sun №7\", nghệ sĩ Gavrilov",
+      "174749": "Xem \"Khu vườn ma thuật số 13\", nghệ sĩ Gavrilov",
+      "174750": "Xem \"Chú chim kỳ diệu số 12\", nghệ sĩ Gavrilov",
+      "108574": "Xem \"Troika №28\", nghệ sĩ Smirnov",
+      "108562": "Xem \"Morozko №51\", nghệ sĩ Mamina",
+      "108551": "Xem \"Troika №7\", nghệ sĩ Smirnov",
+      "107902": "Xem \"Morozko №46\", nghệ sĩ Kuzmenko",
+      "292190": "Xem \"Silver hoof №58\", nghệ sĩ Smirnov",
+      "292189": "Xem \"Trượt băng №33\", nghệ sĩ Smirnov",
+      "292188": "Xem \"Snow Queen №216\", nghệ sĩ Kornilova",
+      "292186": "Xem \"12 tháng №215\", nghệ sĩ Kornilova",
+      "292184": "Xem \"Winter №34\", nghệ sĩ Smirnov",
+      "292183": "Xem \"Nutcracker №214\", nghệ sĩ Kornilova",
+      "292182": "Xem \"Paysage №59\", nghệ sĩ Smirnov",
+      "292181": "Xem \"Silver hoof №25\", nghệ sĩ Smirnov",
+      "108578": "Xem \"Troika №45\", nghệ sĩ Kuzmenko",
+      "108577": "Xem \"Silver hoof №57\", nghệ sĩ Chaparina",
+      "107907": "Xem \"Troika №38\", nghệ sĩ Chaparina",
+      "107901": "Xem \"Silver hoof №39\", nghệ sĩ Chaparina",
+      "107900": "Xem \"Troika №56\", nghệ sĩ Chaparina",
+      "98036": "Xem \"Snow Queen №1\", nghệ sĩ Kornilova",
+      "293583": "Xem \"Morozko №27\", nghệ sĩ Smirnov",
+      "293585": "Xem \"Troyka №9\", nghệ sĩ Chaparina",
+      "293586": "Xem \"Silver hoof №10\", nghệ sĩ Chaparina",
+      "293616": "Đồng hồ Palekh / Xem \"Nữ hoàng tuyết №33\", nghệ sĩ Kornilova",
+      "293617": "Xem \"Snow Queen №12\", nghệ sĩ Kornilova",
+      "293618": "Xem \"Nutcracker №14\", nghệ sĩ Kornilova",
+      "293619": "Xem \"Bullfinches №1\", nghệ sĩ Chibisova",
+      "293620": "Xem \"Squirrel №2\", nghệ sĩ Chibisova",
+      "293621": "Xem \"Paysage №15\", nghệ sĩ Kornilova",
+      "292185": "Xem \"Quả táo vàng đĩa bạc №179\", nghệ sĩ Chibisova",
+      "277016": "Xem \"Summer Freshness\", nghệ sĩ Chibisova",
+      "210782": "Xem \"Những tia sáng tulip số 1\", nghệ sĩ Gavrilov",
+      "210781": "Xem \"Chú chim kỳ diệu №10\", nghệ sĩ Smirnov",
+      "206667": "Xem \"Cô đơn sói №14\", nghệ sĩ Gavrilov",
+      "206669": "Xem \"Midnight Song No. 12\", nghệ sĩ Kornilov",
+      "293584": "Xem \"Firebird №6\", nghệ sĩ Gavrilov",
+      "108709": "Đồng hồ \"Ornament №77\" chronograph-quartz, nghệ sĩ Chibisova",
+      "293587": "Xem \"Firebird №7\", nghệ sĩ Gavrilov"
+    },
+    "slides": {
+      "alts": [
+        "Những bức tranh trên mặt số được thực hiện bởi các nghệ nhân từ Palekh.",
+        "Các điểm nhấn trên tranh được làm bằng vàng.",
+        "Các nghệ nhân chuyển tranh vào mặt số từ bản phác thảo ban đầu."
+      ]
+    }
+  },
+  "go_to_cart": "Đi tới xe đẩy hàng",
+  "benefits_title": "Lợi ích của chúng tôi",
+  "benefits": {
+    "price": "Chúng tôi giữ giá ưu đãi để bạn có thể thỏa thích thường xuyên hơn",
+    "quality": "Chúng tôi chịu trách nhiệm về chất lượng hàng hóa tại chợ của chúng tôi",
+    "speak": "Chúng tôi nói 11 ngôn ngữ, vì vậy chúng tôi có thể dễ dàng tìm thấy một ngôn ngữ chung với bạn",
+    "express": "Chúng tôi sẽ giao hàng cho bạn ở bất cứ đâu trên thế giới mà không gặp bất kỳ trở ngại nào",
+    "return": "Việc đổi trả hàng sẽ không mất nhiều thời gian và công sức"
+  },
+  "quick_order": "Để trật tự",
+  "catalog": {
+    "sort": {
+      "default": "Theo mặc định",
+      "new": "Mới đầu tiên",
+      "priceasc": "Rẻ trước",
+      "pricedesc": "Đắt đầu tiên",
+      "relevant": "Liên quan nhất",
+      "popular": "Phổ biến"
+    }
+  },
+  "meta": {
+    "title": "Dịch vụ bán buôn & bán lẻ trực tuyến quốc tế",
+    "description": "Hàng ngàn sản phẩm độc đáo, vận chuyển trên toàn thế giới",
+    "category_desсription": "bán buôn và bán lẻ, so sánh giá của các nhà cung cấp trên thị trường Global Rus Trade. 🚚 Giao hàng nhanh chóng và tiện lợi! ✅ Dịch vụ và bảo hành!",
+    "category_page_title": "mua tại Global Rus Trade",
+    "twitter_description": "Một cách nhanh chóng và miễn phí để tìm đúng sản phẩm",
+    "events_description": "Tìm hiểu về các triển lãm và sự kiện sắp tới tại Global Rus Trade. Luôn cập nhật về tất cả các hội chợ, trưng bày, diễn đàn và các sự kiện quan trọng sắp tới với GRT.",
+    "news_description": "Cập nhật tin tức xuất khẩu của Nga trên thị trường Global Rus Trade."
+  },
+  "reset": "Cài lại",
+  "min_value": "Giá trị tối thiểu",
+  "max_value": "Gia trị lơn nhât",
+  "cookie_accept": "Chúng tôi sử dụng cookie. Với sự giúp đỡ của họ, chúng tôi sẽ chăm sóc bạn và cải thiện trang web.",
+  "coockie_agreed": "tôi đồng ý",
+  "clear_all": "Làm sạch tất cả",
+  "see_all": "Nhìn thấy tất cả",
+  "collapse": "Sự sụp đổ",
+  "range": {
+    "from": "từ",
+    "to": "đến"
+  },
+  "homepage": "Trang Chủ",
+  "filters": "Bộ lọc",
+  "form_supplier": {
+    "title": "Đơn xin hợp tác",
+    "site": "Trang web của công ty",
+    "company": "Tên công ty",
+    "comment": "Nhận xét / Câu hỏi",
+    "offer": "Ưu đãi thương mại (bảng giá)",
+    "attach_file": "Đính kèm tệp",
+    "file_size": "(Tối đa 30 Мb)",
+    "error_format": "Tệp không khớp với định dạng ",
+    "error_size": "Tệp trên 30Mb",
+    "thank_you": "Cảm ơn bạn!",
+    "we_will_call": "Cảm ơn bạn đã quan tâm đến Global Rus Trade, chúng tôi sẽ liên hệ với bạn trong thời gian sớm nhất.",
+    "enter_company": "Nhập tên công ty của bạn"
+  },
+  "ok": "Đồng ý",
+  "no_products": "Chúng tôi không thể tìm thấy bất kỳ mục nào. Bạn có thể áp dụng các bộ lọc sản phẩm khác hoặc sử dụng hộp tìm kiếm ở đầu trang.",
+  "search": {
+    "tabs": {
+      "products": "Các sản phẩm",
+      "services": "Dịch vụ",
+      "suppliers": "Các công ty"
+    },
+    "blank": {
+      "title": "Xin lỗi, không tìm thấy kết quả nào.",
+      "description": "Vui lòng thử tìm kiếm khác hoặc duyệt qua thư mục danh mục có thể chứa hàng hóa bạn đang tìm kiếm."
+    },
+    "filters": {
+      "categories": "Thể loại"
+    }
+  },
+  "vendor_code": "Mã nhà sản xuất",
+  "reviews": "đánh giá",
+  "product_rating": "Đánh giá sản phẩm",
+  "rate_the_product": "Đánh giá sản phẩm",
+  "rating_options": {
+    "awful": "Kinh khủng",
+    "bad": "Xấu",
+    "fine": "Khỏe",
+    "good": "Tốt",
+    "excellent": "Thông minh"
+  },
+  "price_as_title": "Giá bán",
+  "to_reduce": "Giảm",
+  "to_enlarge": "Để phóng to",
+  "brand_name": "Tên thương hiệu",
+  "seller_name": "Nhà cung cấp",
+  "description": "Sự miêu tả",
+  "characteristics": "Nét đặc trưng",
+  "show_full_description": "Hiển thị mô tả đầy đủ",
+  "hide_full_description": "Ẩn mô tả đầy đủ",
+  "hide_some_of_the_characteristics": "Ẩn một số đặc điểm",
+  "show_all_characteristics": "Hiển thị tất cả các đặc điểm",
+  "special_conditions": "Điều kiện đặc biệt",
+  "for_legal_entities": "cho các pháp nhân",
+  "conditions_for_legal_entities": "Điều kiện đối với pháp nhân",
+  "price_for_legal_entities": "Giá cho pháp nhân",
+  "minimum_lot_for_purchase": "Số lượng tối thiểu để mua",
+  "company_represented_on_site": "Công ty được đại diện trên trang web",
+  "years": "1 năm | {n} năm",
+  "show_next_photo": "Hiển thị ảnh tiếp theo",
+  "show_previous_photo": "Hiển thị ảnh trước",
+  "slide": "Cầu trượt",
+  "send_search_request": "Gửi yêu cầu tìm kiếm",
+  "open_menu": "Mở menu người dùng",
+  "go_to_prev_page": "Đi đến trang trước",
+  "go_to_next_page": "Đi đến trang tiếp theo",
+  "suppliers": {
+    "pagetitle": "Sản phẩm của công ty"
+  },
+  "show_navigation": "Hiển thị danh sách thể loại",
+  "show_filters": "Hiển thị bộ lọc",
+  "choose_sorting": "Chọn một phương pháp sắp xếp",
+  "similar_products": "Sản phẩm liên quan",
+  "search_results_by_request": "Theo yêu cầu của {request} {entity} đã được tìm thấy:",
+  "additional_info": "thông tin thêm",
+  "current_exchange_rate": "Giá được tính theo tỷ giá hối đoái hiện hành",
+  "universal": {
+    "date": {
+      "range": {
+        "from": "từ",
+        "to": "đến"
+      }
+    }
+  },
+  "fakebreadcrumbs": {
+    "events": "lịch các sự kiện",
+    "docs": "Các tài liệu",
+    "news": "Tất cả tin tức"
+  },
+  "goods": "{n} hàng hóa",
+  "docs_intro": "Trên trang này, bạn có thể tìm thấy các tài liệu có thể hữu ích khi mua hoặc bán hàng hóa trên sàn giao dịch điện tử GlobalRusTrade.com - các quy tắc và thủ tục của thị trường, điều khoản sử dụng, chính sách bảo mật và các tài liệu khác. Nếu bạn có bất kỳ câu hỏi nào - hãy viết cho chúng tôi qua info@globalrustrade.com",
+  "go_back": "Quay lại",
+  "product_is_over": "Sản phẩm đã hết",
+  "withdrawn_from_sale": "Rút khỏi bán",
+  "complain": {
+    "button": "Khiếu nại về sản phẩm",
+    "title": "Lý do",
+    "comment": "Bình luận",
+    "error_format": "Tệp không khớp với định dạng",
+    "reason1": "Mô tả không chính xác",
+    "reason2": "Hàng kém chất lượng",
+    "reason3": "Hàng giả",
+    "reason4": "Khác",
+    "thank_you": "Cám ơn vì sự quan tâm của bạn!",
+    "send": "Khiếu nại của bạn đã được gửi để xem xét. Chúng tôi chắc chắn sẽ kiểm tra nó và nếu cần thiết sẽ có biện pháp xử lý."
+  },
+  "empty_field": "Điền vào trường",
+  "product-not-available": "Thật không may, sản phẩm này không có sẵn. Kiểm tra lựa chọn các sản phẩm tương tự - có lẽ đó là chính xác những gì bạn đang tìm kiếm.",
+  "сhoose_one_option": "Chọn một tùy chọn",
+  "currencyLocalType": "Euro",
+  "checkout": {
+    "heading": "Thủ tục thanh toán",
+    "user_data": "Thông tin người mua",
+    "goods_quantity": "Qty",
+    "delivery_heading": "Nhập địa chỉ giao hàng",
+    "delivery_action": "Chỉ định địa chỉ trên bản đồ",
+    "delivery_methods": "Chọn phương thức giao hàng",
+    "recipient": "Người nhận",
+    "change_recipient": "Thay đổi người nhận",
+    "parcel": "Bưu kiện",
+    "goods": "Các mặt hàng",
+    "discount": "Chiết khấu",
+    "choose": "Lựa chọn",
+    "close": "Gần",
+    "message_many_parcels": "Đơn đặt hàng sẽ có nhiều gói, vì nó sẽ được vận chuyển từ các kho khác nhau",
+    "submit": "Tiến hành thanh toán",
+    "hide": "Ẩn giấu",
+    "days": "{n} ngày | {n} ngày",
+    "parcels": "{n} bưu kiện | {n} bưu kiện",
+    "address_placeholder": "Thành phố, Đường phố, Nhà, Căn hộ / Văn phòng",
+    "delivery_type_error": "Chọn phương thức giao hàng thuận tiện",
+    "delivery_method_error": "Chọn một dịch vụ giao hàng",
+    "address_error": "Nhập chính xác địa chỉ của bạn hoặc sử dụng tính năng tự động chọn",
+    "postal_code_error": "Nhập mã bưu điện để giao hàng chính xác",
+    "target_invalid": "Điền vào tất cả các trường bắt buộc.",
+    "delivery_type": {
+      "post": {
+        "description": "Giao hàng đến bưu điện",
+        "name": "Chuyển phát bưu điện"
+      },
+      "courier": {
+        "description": "Giao hàng bằng chuyển phát nhanh đến địa chỉ bạn đã chỉ định",
+        "name": "dịch vụ chuyển phát nhanh"
+      },
+      "pack-station": {
+        "name": "Điểm đón",
+        "description": "Giao hàng đến điểm nhận hàng sau"
+      },
+      "self-delivery": {
+        "name": "Tự giao hàng",
+        "description": "Nhận từ kho của chúng tôi"
+      }
+    },
+    "has-no-parcels": "Bạn không có sản phẩm nào để thanh toán",
+    "index": "Mã bưu điện",
+    "delivery_warning": "Có những khó khăn khi giao hàng đến khu vực của bạn. Người quản lý của chúng tôi sẽ tư vấn cho bạn về các lựa chọn thay thế."
+  },
+  "notes": {
+    "cart_change": "Một số mặt hàng trong giỏ hàng của bạn đã hết hàng hoặc số lượng của chúng đã thay đổi.",
+    "cart_order": "Cần phải kiểm tra các điều kiện đối với các mặt hàng đã chọn với các nhà cung cấp. Ngay sau khi bạn để lại yêu cầu, các chuyên gia của chúng tôi sẽ liên hệ với họ. Sau đó, chúng tôi sẽ liên hệ với bạn theo số điện thoại được chỉ định để xác nhận đơn hàng của bạn"
+  },
+  "cart": {
+    "remove_selected": "Bỏ đã chọn",
+    "recommend": "Giới thiệu",
+    "delivery": "Chuyển",
+    "costOfDelivery": "chi phí giao hàng",
+    "from": "từ",
+    "how_to_decrease_the_price": "Làm thế nào để giảm giá?",
+    "at_this_one": "tại cái này",
+    "result": "Kết quả",
+    "total": "Toàn bộ",
+    "products_of_company": "Sản phẩm của công ty",
+    "products": "Các sản phẩm",
+    "weigh_total": "Cân (tổng cộng)",
+    "thing": "cái.",
+    "go_to_checkout": "Đi đến thanh toán",
+    "amount_is_changed": "Số tiền đã thay đổi",
+    "it_is_max_limit_amount": "là số lượng hàng hóa tối đa có thể để mua",
+    "it_is_min_limit_amount": "là số lượng hàng hóa tối thiểu có thể có để mua",
+    "go_to": "Đi đến",
+    "product_added": "Sản phẩm được thêm vào giỏ hàng",
+    "product_removed": "Sản phẩm bị xóa khỏi giỏ hàng",
+    "grt_cart_title": "GRT - Giỏ hàng",
+    "mark_product": "Hãy đánh dấu sản phẩm bạn muốn mua",
+    "grab_all": "Chọn tất cả",
+    "tip-off": "Chọn các mặt hàng bạn muốn mua và tiến hành thanh toán",
+    "your_basket_is_empty": "Giỏ của bạn trống trơn",
+    "the_catalog": "danh mục",
+    "and_choose_a_product": "và chọn bất cứ thứ gì bạn muốn từ hơn {count} mục",
+    "not_available": "chưa sẵn sàng. Bạn có muốn tiếp tục không?",
+    "to_proceed_with_order": "Để tiến hành đặt hàng",
+    "stay_in_cart": "Ở trong giỏ hàng",
+    "go_to_catalog": "Đi tới danh mục của nhà cung cấp",
+    "for_delivery": "Bạn cần thêm nhiều sản phẩm hơn trên: {count}",
+    "parcels_from": "Bưu kiện từ",
+    "all_products": "tất cả sản phẩm",
+    "see": "Xem",
+    "add_products": "Thêm các sản phẩm trên:",
+    "without_delivery": "Không có giao hàng",
+    "product": "Sản phẩm",
+    "was_deleted": "đã bị xóa",
+    "total_products": "Toàn bộ"
+  },
+  "mass_unit": {
+    "kg": "Kilôgam"
+  },
+  "modal": {
+    "select_delivery_region": "Chọn khu vực giao hàng"
+  },
+  "confirm_form": {
+    "enter_the_code_from_sms": "Nhập mã từ SMS",
+    "you_have_been_sent_an_sms": "Bạn đã được gửi một tin nhắn SMS có mã đến số",
+    "to_change_number": "Để thay đổi số",
+    "send": "Gửi",
+    "resend_code_via": "Gửi lại mã qua",
+    "resend_code": "Mã gửi lại",
+    "log_in": "Đăng nhập",
+    "expired_validation": "xác thực hết hạn",
+    "wrong_code": "sai mã"
+  },
+  "validation": {
+    "expiredValidation": "Đã hết thời hạn nhận mã xác nhận. Mã SMS đã được gửi lại cho bạn.",
+    "wrong_code": "sai mã"
+  },
+  "thanks_for_your_order": {
+    "title": "Cảm ơn đơn đặt hàng của bạn",
+    "text": "Đăng ký các mạng xã hội của chúng tôi để cập nhật các sản phẩm mới và chương trình khuyến mãi."
+  },
+  "status_order": {
+    "not_processed": {
+      "title": "Trong công việc",
+      "text": "Đơn đặt hàng của bạn được xử lý bởi người quản lý của chúng tôi. Anh ấy sẽ sớm liên hệ với bạn để làm rõ thông tin chi tiết.",
+      "thanks": "Cảm ơn vì",
+      "order": "đơn hàng",
+      "text_true": "Chúng tôi đã chấp nhận đơn đặt hàng của bạn và thực hiện nó. Đăng ký các mạng xã hội của chúng tôi để cập nhật các sản phẩm mới và chương trình khuyến mãi.",
+      "text_false": "Đơn đặt hàng của bạn được xử lý bởi người quản lý của chúng tôi. Anh ấy sẽ sớm liên hệ với bạn để làm rõ thông tin chi tiết.",
+      "continue_shopping": "Tiếp tục mua sắm",
+      "personal_account": "Tài khoản cá nhân"
+    },
+    "awaiting_payment": {
+      "title": "Đang chờ thanh toán",
+      "text": "Thanh toán cho đơn đặt hàng bằng bất kỳ phương thức nào có sẵn.",
+      "thanks": "Cảm ơn vì",
+      "order": "đặt hàng không.",
+      "problem": "Nếu bạn gặp vấn đề với thanh toán, hãy sử dụng một phương thức thay thế",
+      "button": "Bằng thẻ ngân hàng"
+    },
+    "preparing_for_shipment": {
+      "title": "Đã thanh toán, đang chờ giao hàng",
+      "text": "Chúng tôi đã nhận được thanh toán cho đơn đặt hàng của bạn. Đơn đặt hàng của bạn đang được chuẩn bị và sẽ sớm được gửi đến dịch vụ giao hàng. Chúng tôi sẽ cho bạn biết khi điều này xảy ra. Cảm ơn bạn đã chọn Global Rus Trade"
+    },
+    "shipped": {
+      "title": "Đã vận chuyển",
+      "text": "Đơn đặt hàng đã được gửi đến dịch vụ giao hàng. Theo dõi vị trí của nó bằng số theo dõi"
+    },
+    "completed": {
+      "title": "Hoàn thành",
+      "text": "Hãy vui vẻ với hàng hóa đã mua. Cảm ơn bạn đã chọn Global Rus Trade. Hãy giúp chúng tôi trở nên tốt hơn và để lại đánh giá."
+    },
+    "canceled": {
+      "title": "Đã hủy",
+      "text": "Chúng tôi đã hủy đơn đặt hàng theo yêu cầu của bạn. Chúng tôi hy vọng rằng chúng tôi sẽ vẫn có thể làm bạn ngạc nhiên với những sản phẩm độc đáo của chúng tôi. Hẹn sớm gặp lại."
+    },
+    "error": {
+      "title": "Lỗi xác thực thanh toán bằng giao thức 3D Secure",
+      "text": "Tùy chọn này có thể không được bật trên thẻ của bạn. Vui lòng liên hệ với ngân hàng để xác nhận giao dịch hoặc sử dụng thẻ ngân hàng khác để thanh toán.",
+      "thanks": "Cảm ơn vì đã hiểu. Điều này rất quan trọng đối với sự bảo mật của khoản thanh toán. Bạn cũng có thể sử dụng ApplePay hoặc GPay."
+    }
+  },
+  "payment_description": "Thanh toán hàng hóa tại globalrustrade.com",
+  "proceed_сheckout": "Tiếp tục сheckout",
+  "pay": "Tiền lương",
+  "address_label": "Địa chỉ nhà",
+  "full_name": "Họ và tên",
+  "hint": "Có cả sản phẩm của bạn ở đây nữa. Bấm để đặt hàng",
+  "account": {
+    "subscribe": "Theo dõi bản tin của chúng tôi",
+    "save": "cứu",
+    "avatar": {
+      "invalid_format": "Định dạng tệp không chính xác",
+      "invalid_size": "Kích thước tệp tối đa 10MB"
+    },
+    "navigation": {
+      "heading": "Thông tin người dùng"
+    },
+    "data": {
+      "heading": "Dữ liệu hậu môn",
+      "upload": "Tải lên hình đại diện"
+    },
+    "orders": {
+      "no-order": "Bạn không có bất kỳ đơn đặt hàng nào",
+      "awaiting-payment": "Đang chờ thanh toán",
+      "cancelled": "Đã hủy",
+      "completed": "Hoàn thành",
+      "not-processed": "Không được xử lý",
+      "heading": "Đơn hàng",
+      "order": "Gọi món",
+      "from": "từ",
+      "address": "2 địa chỉ giao hàng",
+      "pay": "Trả"
+    },
+    "modal": {
+      "title": "Viết thư cho chúng tôi",
+      "any_messenger": "Trong bất kỳ người đưa tin nào",
+      "social_network": "hoặc trong các mạng xã hội"
+    },
+    "order_detail": {
+      "title": "Đơn hàng",
+      "from": "từ",
+      "electronic_receipt": "Biên lai điện tử",
+      "payment_method": "Phương thức thanh toán",
+      "card": "Thẻ",
+      "to_clarify_the_information_on_the_order": "Để làm rõ thông tin về đơn hàng",
+      "parcel": {
+        "title": "Bưu kiện",
+        "weight": "Trọng lượng",
+        "recipient": "Người nhận",
+        "delivery": "Phương thức giao hàng, địa chỉ và chi phí",
+        "comment": "Nhận xét"
+      },
+      "good": {
+        "weight": "Trọng lượng",
+        "color": "Màu sắc",
+        "size": "Kích cỡ",
+        "price": "Giá bán"
+      }
+    },
+    "gender": {
+      "male": "Nam giới",
+      "female": "Giống cái"
+    },
+    "search": "Tìm kiếm"
+  },
+  "authorization": {
+    "title": "Ủy quyền",
+    "send": "Gửi",
+    "choice": "Hoặc chọn một phương thức ủy quyền thuận tiện",
+    "will_send_code": "Chúng tôi sẽ gửi cho bạn một mã xác nhận thông qua kênh đã chọn.",
+    "enter_code": "Nhập mã",
+    "confirm": "Trong vòng một phút, bạn sẽ nhận được một cuộc gọi có mã xác nhận đến số",
+    "change_number": "thay đổi số",
+    "suggest": "4 chữ số cuối cùng của số điện thoại mà bạn nhận được cuộc gọi là mã. (Không cần trả lời).",
+    "call_not_received": "Nếu cuộc gọi không được nhận trong",
+    "another_way_connection": "chọn một phương thức giao tiếp khác",
+    "send_code": "Chúng tôi đã gửi cho bạn một mã tới",
+    "change_mail": "thay đổi e-mail",
+    "enter_correct_phone": "Nhập số điện thoại chính xác",
+    "get_code": "Nhận mã",
+    "enter_correct_mail": "Nhập email chính xác",
+    "error_code": "Đã nhập sai mã",
+    "code_not_received": "Nếu mã không được nhận trong vòng"
+  },
+  "contacts": {
+    "legal_address": "Địa chỉ hợp pháp",
+    "address": "3 Bolotnaya naberezhnaya, Bld. 2, khối I",
+    "for_registration_documents": "Để đăng ký tài liệu",
+    "mail": "Thư",
+    "media_inquiries": "Yêu cầu phương tiện truyền thông và giải thích rõ về đơn đặt hàng hoặc hợp tác",
+    "phone": "Điện thoại",
+    "questions": "Câu hỏi về đơn đặt hàng hoặc hợp tác",
+    "partners": "Đối tác",
+    "detailed_conditions": "Điều kiện hợp tác chi tiết",
+    "go": "Đi",
+    "requisites": "Yêu cầu",
+    "inn": "ITN",
+    "ogrn": "PSRN",
+    "kpp": "IEC"
+  },
+  "free": "Miễn phí",
+  "surname": "Họ",
+  "enter_surname": "Nhập họ của bạn",
+  "birthday": "Ngày sinh",
+  "enter_birthday": "Nhập ngày tháng năm sinh của bạn"
+}

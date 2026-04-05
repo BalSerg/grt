@@ -1,0 +1,107 @@
+.grt-btn {
+  --btn-primary-color: #007aff;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 100px;
+  max-width: 290px;
+  padding: 11px 31px 12px;
+
+  font-family: inherit;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1.3;
+  text-decoration: none;
+  text-align: center;
+  color: var(--btn-primary-color);
+  vertical-align: middle;
+  white-space: nowrap;
+
+  border-radius: 5px;
+  background-color: transparent;
+  border: 1px solid var(--btn-primary-color);
+  cursor: pointer;
+  outline: none;
+
+  transition: all 0.2s ease;
+
+  &:hover,
+  &:focus {
+    color: #ffffff;
+
+    background-color: var(--btn-primary-color);
+  }
+
+  &:active {
+    color: #f9f9f9;
+
+    background-color: var(--btn-primary-color);
+  }
+
+  &:disabled {
+    color: #ffffff;
+    background-color: $grey-default;
+    border-color: $grey-default;
+    cursor: not-allowed;
+  }
+
+  @media (min-width: 768px) {
+    padding: 14px 31px 14px;
+  }
+}
+
+
+.grt-btn--azure {
+  --btn-primary-color: #13b8ae;
+}
+
+
+.grt-btn--filled {
+  color: #f9f9f9;
+
+  background-color: var(--btn-primary-color);
+
+  &:hover,
+  &:focus {
+    color: var(--btn-primary-color);
+
+    border-color: var(--btn-primary-color);
+    background-color: #ffffff;
+  }
+
+  &:active {
+    color: var(--btn-primary-color);
+
+    border-color: var(--btn-primary-color);
+    background-color: #ffffff;
+  }
+}
+
+.grt-btn--block {
+  width: 100%;
+  max-width: unset;
+}
+
+.grt-btn--small {
+  padding-top: 7px;
+  padding-bottom: 8px;
+
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.grt-btn--adaptive {
+  @media (min-width: $desktop-mid) {
+    flex-shrink: 1;
+    padding: 0.74vw 1.58vw;
+    font-size: 1vw;
+  }
+
+  @media (min-width: 1440px) {
+    font-size: 15px;
+  }
+}

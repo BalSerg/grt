@@ -1,0 +1,920 @@
+{
+  "title": "国际贸易市场",
+  "advantages": {
+    "reason1": "俄罗斯第一个B2B跨境电子商务平台",
+    "reason2": "我们网站上有来自100多个国家的公司"
+  },
+  "currency": {
+    "rub": "俄罗斯卢布",
+    "usd": "美国美元",
+    "eur": "欧元",
+    "uzs": "乌兹别克和",
+    "ron": "新罗马尼亚列伊",
+    "kgs": "吉尔吉斯索姆",
+    "huf": "匈牙利福林",
+    "aud": "澳元",
+    "cny": "人民币元",
+    "brl": "巴西雷亚尔",
+    "hkd": "港元",
+    "jpy": "日圆",
+    "kzt": "哈萨克坚戈",
+    "sek": "瑞典克朗",
+    "try": "土耳其里拉",
+    "czk": "捷克克朗",
+    "pln": "波兰兹罗提",
+    "chf": "瑞士人坦率",
+    "inr": "印度卢比",
+    "mdl": "摩尔多瓦·雷",
+    "bgn": "保加利亚列弗",
+    "amd": "亚美尼亚德拉姆",
+    "azn": "阿塞拜疆马纳特",
+    "byn": "白俄罗斯卢布",
+    "krw": "大韩民国",
+    "dkk": "丹麦克朗",
+    "cad": "加元",
+    "tmt": "新土库曼马纳特",
+    "nok": "挪威克朗",
+    "sgd": "新加坡元",
+    "tjs": "塔吉克·索莫尼",
+    "uah": "乌克兰格里夫纳汇率",
+    "gbp": "英镑",
+    "zar": "南非兰特"
+  },
+  "selectCurrency": "貨幣",
+  "features": {
+    "feature1": "俄罗斯第一个B2B跨境电子商务平台",
+    "feature2": "我们网站上有来自100多个国家的公司"
+  },
+  "footer": {
+    "contacts": {
+      "call": "呼叫",
+      "everyday": "每天",
+      "email": "写信给我们",
+      "phone": "需要帮忙？"
+    },
+    "navigation": {
+      "about": "关于公司",
+      "accept": "我们接受付款",
+      "benefits": "市场优势",
+      "buyer": "对于买家",
+      "contacts": "联络人",
+      "delivery": "交货",
+      "info": "信息",
+      "history": "公司历史",
+      "legal": "对于法人",
+      "media": "媒体与合作伙伴",
+      "news": "新闻",
+      "order": "怎么下单呢",
+      "partners": "伙伴",
+      "partnership": "合伙",
+      "payment": "付款",
+      "return": "换货和退货",
+      "request": "提出产品要求",
+      "seller": "供应商",
+      "start": "开始合作",
+      "warranty": "保证",
+      "wholesale": "批发和B2B客户",
+      "sale_rules": "销售规则",
+      "public_offer": "公开发售",
+      "regulations": "规章制度",
+      "terms": "使用条款",
+      "privacy": "隐私政策",
+      "tariff_payment": "付款规则",
+      "tariff_plans": "关税计划",
+      "export_services": "出口服务",
+      "success_stories": "成功的故事"
+    },
+    "social": "我们在社交网络中",
+    "subscribe": {
+      "agreement": "我同意{user_agreement}和{policy}",
+      "user_agreement": "用户协议",
+      "policy": "隐私政策的条款",
+      "email": "你的邮件",
+      "message": "订阅成为第一个了解有趣的优惠",
+      "subscribe": "订阅"
+    },
+    "messengers": "联系我们"
+  },
+  "header": {
+    "cart": "大车",
+    "catalog": "目录",
+    "enter": "登录以接收个性化的折扣，奖金和订单。",
+    "favorites": "收藏夹",
+    "faq": "问题与解答",
+    "become_a_supplier": "成为供应商",
+    "payment": "付款和交付",
+    "profile": "个人资料",
+    "search": "在{count}个产品和服务中搜索",
+    "supplier": "如何成为供应商",
+    "user": {
+      "orders": "订单",
+      "bio": "我的资料",
+      "messages": "留言内容",
+      "refunds": "退款",
+      "feedback": "反馈和问题",
+      "loyalty": "忠诚计划",
+      "logout": "登出",
+      "companies": "我的公司"
+    },
+    "sign_up": "注册",
+    "sign_in": "进来",
+    "sign_in_title": "入口",
+    "user_cart": {
+      "title": "我的车",
+      "total": "总计花费",
+      "goto": "去购物车"
+    },
+    "partnership": "开始合作",
+    "buy": "立即购买",
+    "order": "订购"
+  },
+  "product": {
+    "cart": "添加到购物车",
+    "favorite": "加入“最喜欢的",
+    "in_the_cart": "在购物车",
+    "to_cart": "到购物车",
+    "take_a_look": "看一看",
+    "whole_products": "整个产品",
+    "goods_in_the_cart": "购物车中的产品",
+    "min_amount": "供应商的最低订购量"
+  },
+  "section": {
+    "header": {
+      "advantages": "GlobalRusTrade的优势",
+      "events": "大事记",
+      "news": "新闻",
+      "watch": "观看全部"
+    }
+  },
+  "login": {
+    "email": "电子邮件",
+    "enter_email": "输入你的电子邮箱",
+    "password": "密码",
+    "password_forgot": "忘记密码了吗？",
+    "enter_correct_password": "输入正确的密码",
+    "registration": "注册",
+    "password_requirement": {
+      "message": "为了保护您的数据，您必须创建一个安全密码",
+      "min_length": "{count}个或更多字符",
+      "letters": "字母",
+      "figures": "数字",
+      "new_password_message": "请输入一个新密码，其中包含："
+    },
+    "register_now": "现在注册",
+    "create_password": "创建一个密码",
+    "receive_personal_offers": "收到个人优惠",
+    "accept_terms": {
+      "accept": "注册后，我接受",
+      "agreement": "用户协议"
+    },
+    "registration_ending": "完成注册",
+    "email_confirm_message": "请在发送给的信中确认注册",
+    "didnt_get_email": "没收到邮件吗？",
+    "check_spam": "如果电子邮件到达时间超过5分钟，请检查您的“垃圾邮件”文件夹。有时，信件被邮政系统封锁。",
+    "check_spelling": "检查电子邮件的拼写",
+    "request_resend": "要求重新发送电子邮件",
+    "didnt_help": "没有帮助？给我们发电子邮件",
+    "password_recovery": "找回密码",
+    "password_recovery_via_email_1": "重设密码的链接将发送到您的电子邮件中",
+    "password_recovery_via_email_2": "。",
+    "password_recovery_via_email_3": "重设密码的链接已发送到您的电子邮件{email} 。",
+    "password_recovery_via_email_4": "重置密码的链接将发送到您的电子邮件{email} 。",
+    "send": "发送",
+    "save": "救",
+    "password_change_success_message": "密码更换成功",
+    "wait_for_redirect": "等待5秒钟重定向到主页，或单击下面的按钮",
+    "go_to_website": "前往网站",
+    "password_recovery_expired_1": "您的密码重置链接已过期。",
+    "password_recovery_expired_2": "请再次请求密码恢复。",
+    "go_to_mainpage": "进入主页",
+    "registration_confirm": "报名确认",
+    "registration_successful": "注册成功确认",
+    "resend_email": "重新发送电子邮件",
+    "resend_email_instructions": "确认注册的链接将重新发送到您的电子邮件{email}。",
+    "resend_email_instructions_after_submit": "确认注册的链接已发送到您的电子邮件{email}。",
+    "send_email_again": "重发电子邮件"
+  },
+  "errors": {
+    "500": {
+      "something_went_wrong": "糟了！出了点问题...",
+      "message": "发生了一个错误。别担心，我们正在努力修复这个问题。我们很快就会恢复正常，您可以重新享受购物的乐趣。",
+      "link": "刷新页面"
+    },
+    "400": {
+      "message": "没有发现",
+      "link": "主页"
+    },
+    "something_wrong": "出了些问题"
+  },
+  "name": "名称",
+  "enter_name": "输入你的名字",
+  "must_sign_in": "您必须登录才能这样做",
+  "phone_required": "电话*",
+  "phone_code": "选择国家代码并输入您的电话号码",
+  "enter_phone": "输入你的电话号码",
+  "enter_quantity": "输入数量",
+  "order_accepted": "您的申请被接受",
+  "we_will_call": "我们会尽快与您联系。",
+  "you_are_subscribed": "恭喜你！您已订阅。",
+  "added_to_cart": "产品已添加到购物车",
+  "language": "语言",
+  "of_goods": "产品",
+  "price_demand": "按需价格",
+  "goto_catalog": "转到目录",
+  "settings": "设定值",
+  "delivery_terms": "交货条件",
+  "payment_methods": "支付方式",
+  "return_conditions": "退货条件",
+  "returns": "退货",
+  "palekh": {
+    "showmore": "展示更多",
+    "video": {
+      "title": "独家腕表体现出的Palekh艺术传统"
+    },
+    "showcase": {
+      "title": "手表值得关注",
+      "dark_title": "梦幻般的黑色表盘",
+      "link": "观看全部",
+      "summerGarden": "新系列“夏日花园”",
+      "other_collections": "Palekh Watch 的其他系列",
+      "winterCollection": "Palekh 手表的冬季系列",
+      "womanCollection": "Palekh 女士手表",
+      "manCollection": "Palekh 男士手表"
+    },
+    "features": {
+      "readmore": "更多细节",
+      "picture": {
+        "title": "手绘画",
+        "intro": "每个表盘都是手绘的，并保留着举世闻名的独特Palekh缩影的美感。",
+        "article": [
+          "每个表盘都是手绘的，并保留着举世闻名的独特Palekh缩影的美感。丰富的色彩，细腻的线条，花丝的笔触和民间故事的情感情节在威尼斯艺术博物馆和巴黎世博会上引起了轰动。现在，您的手腕上还将装饰有传奇画作。",
+          "绘画技术的秘密世代相传。这款手表保留了数百年来俄罗斯艺术家的传统。首先，大师们用黑色搪瓷覆盖表盘，然后用浮石转移素描，然后再进行粉饰。接下来，他们在表盘上涂蛋彩画颜料。",
+          "民间故事中您最喜欢的角色在轻巧的画笔下栩栩如生。火鸟在这里起飞，三匹马在奔跑，穿过空中，这是一个美丽的少女，在草莓草地上有一个篮子。然后，艺术家对画作上光，涂上金色，用狼牙打磨，重新涂上清漆并增加光泽。"
+        ]
+      },
+      "gears": {
+        "title": "瑞士运动",
+        "article": [
+          "手表内外都做工精巧。可靠的瑞士或日本机芯对准确性负责。防震装置可防止冲击振动。手表由拥有 25 年历史并享有可靠制造商声誉的 Poljot Klassika 公司组装而成。"
+        ]
+      },
+      "box": {
+        "title": "木表盒",
+        "article": [
+          "手表包装在高贵的核桃色高级礼品盒中。表壳由珍贵木材制成，并涂有清漆。内部是米色羊群。"
+        ]
+      },
+      "belt": {
+        "title": "皮表带",
+        "article": [
+          "组合物的另一个引人注目的元素是由纹理压纹真皮制成的表带。共有7种不同的阴影可供选择，与微型相得益彰：黑色，棕色，白色，红色，海军蓝，绿色或米色。"
+        ]
+      },
+      "case": {
+        "title": "案例和玻璃",
+        "article": [
+          "表壳还强调了手表的质量和可靠性。它由锌铝合金或镀金或镀铬的不锈钢制成。金属光泽精美地突出了表盘。防水矿物玻璃可防止家庭刮擦。手表可以抵抗轻微的意外飞溅。"
+        ]
+      }
+    },
+    "about": {
+      "title": "关于该项目",
+      "article": [
+        "艺术的时间！独特的Palekh手表将Palekh绘画的美感与日本和瑞士手表机芯的品质相结合。",
+        "这款表不仅是精美的配件，而且是真正的艺术品，保留了手工制作的温暖和百年传统的工艺传统。每个拨盘都是由Palekh村的工匠手工绘制的，遵循了传统微型创作的各个阶段。例如，口音上漆有金色-就像一百年前一样。由于如此精细的工作，单个表盘的创建可能要花费整个月的时间。最喜欢的童话故事，传统装饰品和独特的自然风光成为缩影的灵感来源。此外，我们还生产季节性限量版手表。",
+        "Palekh Watch仅在全球Rus Trade市场上展出。"
+      ]
+    },
+    "faq": {
+      "title": "常问问题",
+      "primary_phone": "+7（909）646-56-65",
+      "secondary_phone": "+7（495）646-56-01",
+      "alt_phone": "+7（495）921-45-60",
+      "email": "infо@globalrustrade.com",
+      "alt_email": "sales@simvolika.ru",
+      "questions": [
+        {
+          "question": "交货的费用和条件是什么？",
+          "answer": [
+            "俄罗斯境内免费送货，由俄罗斯邮政在2-14天内完成。对于莫斯科和莫斯科地区-第二天。",
+            "支付到其他国家以及通过快递服务。在网站上下订单时，可以自动计算其成本。",
+            "要通过经理下订单，请通过{primary_phone}，{secondary_phone}或电子邮件{email}与我们联系。"
+          ]
+        },
+        {
+          "question": "我想把手表当礼物。怎么做？",
+          "answer": [
+            "任何手表都可以放在礼品盒中寄出，并随您的意愿附上明信片。",
+            "要下订单作为礼物，请通过电话{primary_phone}，{secondary_phone}或电子邮件{email}与我们联系。"
+          ]
+        },
+        {
+          "question": "我可以在买之前试戴手表吗？"
+        },
+        {
+          "question": "保修范围是什么？",
+          "answer": [
+            "机芯，指针和表壳的保修期至少为1年。在保修期内，如果手表的故障或故障不是由于意外或不当操作引起的，则无需进行任何调整，修理，组装单元或机芯的更换。",
+            "要利用保修情况，请通过电子邮件{alt_email}与我们联系，或致电{alt_phone}",
+            "保修范围不包括由于正常磨损，撕裂和老化（例如，表壳或玻璃上的细小划痕，表带磨损，涂层剥落等）导致的外观变化，缺陷和损坏。"
+          ]
+        },
+        {
+          "question": "是否可以交换或退回物品？",
+          "answer": [
+            "我们将在收货后30天内免费退还该物品。手表必须处于未使用状态，其原始包装中带有完整的标签和保护膜，且无刮擦，表带上的褶皱和其他磨损迹象。",
+            "要退款，请通过电话{primary_phone}，{secondary_phone}或通过电子邮件{email}与我们联系。"
+          ]
+        }
+      ]
+    },
+    "form": {
+      "title": "需要咨询吗？留下回电请求",
+      "comment": {
+        "label": "评论",
+        "message": "发表评论"
+      },
+      "thanks": "谢谢，数据发送成功！",
+      "message": "经理将尽快与您联系。",
+      "contacts": "如果您不想等待，请致电{primary_phone}或{secondary_phone}"
+    },
+    "benefits": {
+      "shipping": {
+        "title": "俄罗斯境内免费送货",
+        "content": "俄罗斯境内免费送货，由俄罗斯邮政在2-14天内完成。对于莫斯科和莫斯科地区，交货将在第二天进行。"
+      },
+      "return": {
+        "title": "30天内免费退货",
+        "content": "您可以在收到后30天内免费退还手表。如果产品没有损坏，保持其外观且没有磨损迹象，我们将赔偿该产品的费用。"
+      },
+      "painting": {
+        "title": "作者的独特画作",
+        "content": "成为拥有Palekh艺术家传奇画作的独家腕表的所有者。从各种丰富多彩的民俗图案中进行选择。每个模型中童话故事的魔力。"
+      },
+      "technology": {
+        "title": "传统技术",
+        "content": "表盘的涂漆方式与一个世纪前相同。大师们观察绘画技术的各个阶段，并保留传奇艺术的传统。"
+      }
+    },
+    "watch": {
+      "107906": "观看«LEL»，艺术家Suloeva",
+      "107903": "观看«天鹅公主»，艺术家Chaparina",
+      "107894": "观看《火鸟》，艺术家Smirnov",
+      "107904": "观看《天鹅》，艺术家库兹曼科",
+      "107893": "观看《火鸟》，艺术家Smirnov",
+      "107895": "观看《金鱼》，艺术家Smirnov",
+      "107899": "观看《渔夫与鱼的故事》，艺术家斯米尔诺夫",
+      "98030": "观看《火鸟》，艺术家Lukina",
+      "107896": "观看«音乐家»，艺术家Smirnov",
+      "98033": "观看《会议》，艺术家Smirnov",
+      "98035": "观看《戈尔迪洛克》，艺术家科尼洛娃",
+      "98034": "观看《在花园里》，艺术家Lukina",
+      "98032": "观看《奇妙的鸟类》，艺术家斯米尔诺夫",
+      "92186": "观看«夫妇»，艺术家苏里科娃（Surikova）",
+      "107915": "观看«Guidon»，艺术家Suloeva",
+      "107905": "观看«以浆果»，艺术家库兹曼科",
+      "107908": "观看《井》，艺术家库兹曼科",
+      "107909": "观看《鸟》，艺术家加夫里洛夫（Gavrilov）",
+      "107910": "观看«夫妇»，艺术家库兹曼科",
+      "107911": "观看《火鸟》，艺术家加夫里洛夫（Gavrilov）",
+      "107914": "观看《火鸟》，艺术家库兹曼科",
+      "107897": "观看«卢科莫里附近»，艺术家科尼洛娃",
+      "107898": "观看艺术家沙哈尼西娜（Shahanitsina）的“奇异鸟花园”",
+      "98031": "观看《 LEL》，艺术家Lukina",
+      "98028": "观看《火鸟的羽毛》，艺术家Smirnov",
+      "98029": "观看《日期》，艺术家Smirnov",
+      "92184": "观看«浆果女郎»，艺术家卢基纳",
+      "92185": "观看«夫妇»，艺术家苏里科娃（Surikova）",
+      "107913": "观看«Орнамент»，艺术家Chibisova",
+      "107912": "观看«Орнамент»，艺术家Chibisova",
+      "108548": "观看“ Assol”，艺术家Mamina",
+      "108565": "观看艺术家Mamina的“ by the Lukomorya”",
+      "108568": "观看艺术家“科尔尼洛娃”的“天使”",
+      "108569": "观看“天鹅公主”，艺术家Mamina",
+      "108563": "观看“ Firebird”，艺术家Smirnov",
+      "108564": "观看“鸟”，艺术家Smirnov",
+      "108566": "观看艺术家Smirnov的“渔夫和鱼的故事”",
+      "108541": "观看“天鹅公主”，艺术家马米娜",
+      "108542": "观看“情侣”，艺术家Smirnov",
+      "108543": "观看“ Thumbelina”，艺术家Mamina",
+      "108545": "观看“胜利者乔治”，艺术家科尔尼洛夫",
+      "108546": "观看艺术家科尼罗娃（Ivan Tsarevich and the grey wolf）的作品",
+      "108547": "观看艺术家Sornka-burka的《 Sivka-burka》",
+      "108549": "观看“ Ognevushka-jump”，艺术家Kornilova",
+      "108553": "观看艺术家沙米尔诺夫（Smirnov）的《沙皇撒旦的传说》",
+      "108556": "观看“火鸟”，艺术家加夫里洛夫（Gavrilov）",
+      "108557": "观看“ Lel”，艺术家科尼罗娃",
+      "108558": "观看“ Ruslan”，艺术家Smirnov",
+      "108559": "观看“ Firebird”，艺术家Smirnov",
+      "108560": "观看艺术家“科尔尼洛夫”（Archangel Michael）",
+      "108561": "观看“乔治”，艺术家科尼洛娃",
+      "108567": "观看艺术家Smirnov的“奇迹裕都鱼鲸”",
+      "108570": "观看“飞机地毯”，艺术家Smirnov",
+      "108571": "观看“石花”，艺术家Smirnov",
+      "108572": "观看“ Firebird”，艺术家Smirnov",
+      "108573": "“ Swing”手表，艺术家Smirnov",
+      "108575": "观看艺术家Mamina的“ by the Lukomorya”",
+      "108576": "观看艺术家Smirnov的“渔夫和鱼的故事”",
+      "108581": "观看“公鸡”，艺术家科尼罗娃",
+      "108584": "观看“萨凡纳”，艺术家科尼洛娃",
+      "108585": "观看“帆船”，艺术家Mamina",
+      "108586": "观看“睡美人的故事”，艺术家Smirnov",
+      "108587": "观看“茶会”，艺术家Smirnov",
+      "108588": "观看“航空”，艺术家Mamina",
+      "108589": "观看“ Firebird”，艺术家Smirnov",
+      "108590": "观看艺术家Smirnov的“天堂鸟”",
+      "108591": "观看“猩红色的花”，艺术家Mamina",
+      "108582": "观看艺术家加夫里洛夫（Gavrilov）的“圣乔治”",
+      "108583": "观看艺术家“科尼罗娃”的“夜”",
+      "108766": "观看艺术家Sornko的“ Sadko”",
+      "108710": "观看“装饰品”，艺术家Chibisova",
+      "108765": "观看“狩猎”，艺术家加夫里洛夫（Gavrilov）",
+      "108767": "观看“石花”，艺术家科尼洛娃",
+      "108768": "观看“睡觉的公主”，艺术家科尼罗娃",
+      "126009": "观看“太阳”，艺术家加夫里洛夫（Gavrilov）",
+      "125989": "观看“月亮”，艺术家加夫里洛夫（Gavrilov）",
+      "125988": "观看“阳光”，艺术家Mamina",
+      "125987": "观看“白天和黑夜”，艺术家Smirnov",
+      "125986": "观看“太阳和月亮的相遇”，艺术家斯米尔诺夫（Smirnov）",
+      "125985": "观看艺术家Smirnov的“梦想家”",
+      "125984": "观看艺术家Mamina的“夜晚的城市”",
+      "125983": "观看“太阳”，艺术家加夫里洛夫（Gavrilov）",
+      "125982": "观看“午夜约会”，艺术家Mamina",
+      "125981": "观看艺术家Kornilova的“星辰之旅”",
+      "125980": "观看“天使”，艺术家Mamina",
+      "174762": "观看“春天的花束 №2”，艺术家加夫里洛夫",
+      "174761": "观看《牡丹之柔情 3》，艺术家斯米尔诺夫",
+      "174760": "观看“魔法花园 15 号”，艺术家科尔尼洛夫",
+      "174759": "观看“奇妙的鸟 №14”，艺术家 Kornilova",
+      "174755": "观看“比太阳更明亮 №7”，艺术家斯米尔诺夫",
+      "174756": "观看《牡丹之柔情 3》，艺术家斯米尔诺夫",
+      "174757": "观看“玫瑰果丛第 15 号”，艺术家斯米尔诺夫",
+      "174758": "观看“樱桃园 7 号”，艺术家 Mamina",
+      "174754": "观看“魔法花园 11 号”，艺术家斯米尔诺夫",
+      "174753": "观看“轻松飞行 4 号”，艺术家 Smirnov",
+      "174752": "观看“多汁樱桃 6 号”，艺术家斯米尔诺夫",
+      "174751": "观看“比太阳更明亮 №7”，艺术家加夫里洛夫",
+      "174749": "观看“魔法花园 13 号”，艺术家加夫里洛夫",
+      "174750": "观看“奇妙的鸟 12 号”，艺术家加夫里洛夫",
+      "108574": "观看“三驾马车№28”，艺术家斯米尔诺夫",
+      "108562": "观看“Morozko №51”，艺术家 Mamina",
+      "108551": "观看“三驾马车 №7”，艺术家斯米尔诺夫",
+      "107902": "观看“Morozko №46”，艺术家 Kuzmenko",
+      "292190": "观看“银蹄№58”，艺术家斯米尔诺夫",
+      "292189": "观看“滑冰№33”，艺术家斯米尔诺夫",
+      "292188": "观看“冰雪女王 №216”，艺术家 Kornilova",
+      "292186": "观看“12个月№215”，艺术家科尔尼洛娃",
+      "292184": "观看“冬天 №34”，艺术家斯米尔诺夫",
+      "292183": "观看“胡桃夹子№214”，艺术家科尔尼洛娃",
+      "292182": "观看“Paysage №59”，艺术家 Smirnov",
+      "292181": "观看“银蹄№25”，艺术家斯米尔诺夫",
+      "108578": "观看“三驾马车 №45”，艺术家库兹缅科",
+      "108577": "观看“银蹄№57”，艺术家Chaparina",
+      "107907": "观看“三驾马车№38”，艺术家Chaparina",
+      "107901": "观看“银蹄№39”，艺术家Chaparina",
+      "107900": "观看“三驾马车№56”，艺术家Chaparina",
+      "98036": "观看“冰雪女王 №1”，艺术家 Kornilova",
+      "293583": "观看“Morozko №27”，艺术家 Smirnov",
+      "293585": "观看“特洛伊卡 №9”，艺术家查帕里娜",
+      "293586": "观看“银蹄№10”，艺术家查帕丽娜",
+      "293616": "Palekh 手表 / 手表“Snow Queen №33”，艺术家 Kornilova",
+      "293617": "观看“冰雪女王 №12”，艺术家 Kornilova",
+      "293618": "观看“胡桃夹子№14”，艺术家科尔尼洛娃",
+      "293619": "观看“Bullfinches №1”，艺术家 Chibisova",
+      "293620": "观看“松鼠 №2”，艺术家 Chibisova",
+      "293621": "观看“Paysage №15”，艺术家 Kornilova",
+      "292185": "观看“银盘金苹果№179”，艺术家Chibisova",
+      "277016": "观看艺术家 Chibisova 的“夏日清新”",
+      "210782": "观看艺术家加夫里洛夫的“郁金香一号”",
+      "210781": "观看“奇妙的鸟№10”，艺术家斯米尔诺夫",
+      "206667": "观看“孤独的狼№14”，艺术家加夫里洛夫",
+      "206669": "观看“午夜歌曲第 12 号”，艺术家 Kornilov",
+      "293584": "观看艺术家 Gavrilov 的“Firebird №6”",
+      "108709": "观看“Ornament №77”计时码表-石英，艺术家 Chibisova",
+      "293587": "观看艺术家 Gavrilov 的“Firebird №7”"
+    },
+    "slides": {
+      "alts": [
+        "表盘上的画作是由Palekh的工匠制作的。",
+        "绘画上的口音是用黄金制成的。",
+        "工匠将绘画从原始素描转移到表盘上。"
+      ]
+    }
+  },
+  "go_to_cart": "去购物车",
+  "benefits_title": "我们的好处",
+  "benefits": {
+    "price": "我们保持优惠的价格，以便您可以更经常地取悦自己",
+    "quality": "我们对市场上的商品质量负责",
+    "speak": "我们说11种语言，因此我们可以轻松地与您找到共同的语言",
+    "express": "我们将在世界任何地方毫无问题地运送您的货物",
+    "return": "退货或换货不会花费很多时间或精力"
+  },
+  "quick_order": "订购",
+  "catalog": {
+    "sort": {
+      "default": "默认情况下",
+      "new": "新第一",
+      "priceasc": "便宜第一",
+      "pricedesc": "贵在先",
+      "relevant": "最相关",
+      "popular": "受欢迎的"
+    }
+  },
+  "meta": {
+    "title": "国际在线零售和批发服务",
+    "description": "数以千计的独特产品，全球出货",
+    "category_desсription": "批发和零售，比较全球Rus Trade市场上供应商的价格。 delivery交货快捷方便！ ✅服务与保修！",
+    "category_page_title": "在Global Rus Trade购买",
+    "twitter_description": "快速免费的方法来找到合适的产品",
+    "events_description": "了解即将在 Global Rus Trade 举办的展览和活动。通过 GRT 及时了解所有即将举行的贸易展览会、展览、论坛和重要活动。",
+    "news_description": "在全球罗斯贸易市场上及时了解俄罗斯出口新闻。"
+  },
+  "reset": "重置",
+  "min_value": "最低价值",
+  "max_value": "最大值",
+  "cookie_accept": "我们使用cookie。在他们的帮助下，我们会照顾您，改善网站。",
+  "coockie_agreed": "我同意",
+  "clear_all": "全部清除",
+  "see_all": "看到所有",
+  "collapse": "坍塌",
+  "range": {
+    "from": "从",
+    "to": "到"
+  },
+  "homepage": "家",
+  "filters": "筛选器",
+  "form_supplier": {
+    "title": "申请合作",
+    "site": "公司网站",
+    "company": "公司名称",
+    "comment": "评论/问题",
+    "offer": "商业报价（价格表）",
+    "attach_file": "附加档案",
+    "file_size": "(最大 30 Мb)",
+    "error_format": "文件与格式不匹配 .pdf, .doc, .xlsx, .xlsm, .xlsb, .csv",
+    "error_size": "档案超过 30Mb",
+    "thank_you": "谢谢!",
+    "we_will_call": "感谢您对Global Rus Trade的关注，我们会尽快与您联系.",
+    "enter_company": "输入您的公司名称"
+  },
+  "ok": "好的",
+  "no_products": "我们找不到任何物品。您可以应用其他产品过滤器，也可以使用页面顶部的搜索框。",
+  "search": {
+    "tabs": {
+      "products": "产品",
+      "services": "服务",
+      "suppliers": "公司介绍"
+    },
+    "blank": {
+      "title": "很抱歉，找不到任何结果。",
+      "description": "请尝试其他搜索或浏览可能包含您要查找的商品的目录目录。"
+    },
+    "filters": {
+      "categories": "分类目录"
+    }
+  },
+  "vendor_code": "供应商代码",
+  "reviews": "评论",
+  "product_rating": "产品等级",
+  "rate_the_product": "评价产品",
+  "rating_options": {
+    "awful": "可怕",
+    "bad": "坏的",
+    "fine": "美好的",
+    "good": "好的",
+    "excellent": "优秀的"
+  },
+  "price_as_title": "价格",
+  "to_reduce": "减少",
+  "to_enlarge": "放大",
+  "brand_name": "品牌",
+  "seller_name": "供应商",
+  "description": "描述",
+  "characteristics": "特征",
+  "show_full_description": "显示完整说明",
+  "hide_full_description": "隐藏完整说明",
+  "hide_some_of_the_characteristics": "隐藏一些特征",
+  "show_all_characteristics": "显示所有特征",
+  "special_conditions": "特殊情况",
+  "for_legal_entities": "对于法人",
+  "conditions_for_legal_entities": "法人实体的条件",
+  "price_for_legal_entities": "法人实体的价格",
+  "minimum_lot_for_purchase": "最低购买手数",
+  "company_represented_on_site": "该公司在网站上有代表",
+  "years": "1年{n}年",
+  "show_next_photo": "显示下一张照片",
+  "show_previous_photo": "显示上一张照片",
+  "slide": "滑动",
+  "send_search_request": "发送搜索请求",
+  "open_menu": "打开用户菜单",
+  "go_to_prev_page": "转到上一页",
+  "go_to_next_page": "转到下一页",
+  "suppliers": {
+    "pagetitle": "公司产品"
+  },
+  "show_navigation": "显示类别列表",
+  "show_filters": "显示过滤器",
+  "choose_sorting": "选择一种排序方式",
+  "similar_products": "同类产品",
+  "search_results_by_request": "根据 {request} {entity} 的请求，找到了：",
+  "additional_info": "附加信息",
+  "current_exchange_rate": "价格按当前汇率计算",
+  "universal": {
+    "date": {
+      "range": {
+        "from": "从",
+        "to": "至"
+      }
+    }
+  },
+  "fakebreadcrumbs": {
+    "events": "活动日历",
+    "docs": "文件",
+    "news": "所有新闻"
+  },
+  "goods": "{n} 商品",
+  "docs_intro": "在此页面上，您可以找到在电子交易平台 GlobalRusTrade.com 上买卖商品时可能有用的文件——市场规则和程序、使用条款、隐私政策等。如果您有任何问题，请发送电子邮件至 info@globalrustrade.com",
+  "go_back": "回去",
+  "product_is_over": "产品结束了",
+  "withdrawn_from_sale": "退出销售",
+  "complain": {
+    "button": "投诉产品",
+    "title": "原因",
+    "comment": "评论",
+    "error_format": "文件格式不匹配",
+    "reason1": "描述不正确",
+    "reason2": "劣质货",
+    "reason3": "仿冒品",
+    "reason4": "其他",
+    "thank_you": "感谢您的关注！",
+    "send": "您的投诉已送交考虑。我们一定会检查它，并在必要时采取措施。"
+  },
+  "empty_field": "填写字段",
+  "product-not-available": "不幸的是，该产品不可用。查看一系列类似的产品——也许这正是您正在寻找的。",
+  "сhoose_one_option": "选择一个选项",
+  "currencyLocalType": "欧元",
+  "checkout": {
+    "heading": "查看",
+    "user_data": "买家信息",
+    "goods_quantity": "数量",
+    "delivery_heading": "输入收货地址",
+    "delivery_action": "在地图上指定地址",
+    "delivery_methods": "选择送货方式",
+    "recipient": "接受者",
+    "change_recipient": "更改收件人",
+    "parcel": "包裹",
+    "goods": "商品",
+    "discount": "折扣",
+    "choose": "选择",
+    "close": "关闭",
+    "message_many_parcels": "订单将分成几个包裹，因为它将从不同的仓库发货",
+    "submit": "继续付款",
+    "hide": "隐藏",
+    "days": "{n} 天 | {n} 天",
+    "parcels": "{n} 包裹 | {n} 个包裹",
+    "address_placeholder": "城市、街道、房屋、公寓/办公室",
+    "delivery_type_error": "选择方便的送货方式",
+    "delivery_method_error": "选择送货服务",
+    "address_error": "正确输入您的地址或使用自动选择",
+    "postal_code_error": "输入邮政编码以正确交付",
+    "target_invalid": "填写所有必填字段。",
+    "delivery_type": {
+      "post": {
+        "description": "送到邮局",
+        "name": "邮政投递"
+      },
+      "courier": {
+        "description": "通过快递运送到您指定的地址",
+        "name": "快递服务"
+      },
+      "pack-station": {
+        "name": "上车点",
+        "description": "送货到邮政取货点"
+      },
+      "self-delivery": {
+        "name": "自提",
+        "description": "从我们的仓库取货"
+      }
+    },
+    "has-no-parcels": "您没有要结帐的产品",
+    "index": "邮政编码",
+    "delivery_warning": "运送到您所在地区时遇到困难。我们的经理会为您提供替代方案的建议。"
+  },
+  "notes": {
+    "cart_change": "您购物车中的某些商品缺货或数量已更改。",
+    "cart_order": "有必要与供应商检查所选项目的条件。一旦您提出请求，我们的专家将与他们联系。之后，我们将通过指定的电话号码与您联系以确认您的订单"
+  },
+  "cart": {
+    "remove_selected": "删除选定",
+    "recommend": "推荐",
+    "delivery": "送货",
+    "costOfDelivery": "交货成本",
+    "from": "从",
+    "how_to_decrease_the_price": "如何降低价格？",
+    "at_this_one": "在这一",
+    "result": "结果",
+    "total": "全部的",
+    "products_of_company": "公司产品",
+    "products": "产品",
+    "weigh_total": "重量（总）",
+    "thing": "件。",
+    "go_to_checkout": "去结账",
+    "amount_is_changed": "金额已更改",
+    "it_is_max_limit_amount": "是最大可能购买的商品数量",
+    "it_is_min_limit_amount": "是购买商品的最小可能数量",
+    "go_to": "去",
+    "product_added": "商品已加入购物车",
+    "product_removed": "产品已从购物车中移除",
+    "grt_cart_title": "GRT - 购物车",
+    "mark_product": "请标记您要购买的产品",
+    "grab_all": "选择全部",
+    "tip-off": "选择您要购买的商品并进行结帐",
+    "your_basket_is_empty": "您的购物车是空的",
+    "the_catalog": "目录",
+    "and_choose_a_product": "并从超过 {count} 个项目中选择您想要的任何内容",
+    "not_available": "还没有准备好。你想继续吗？",
+    "to_proceed_with_order": "继续执行订单",
+    "stay_in_cart": "留在购物车",
+    "go_to_catalog": "转到供应商目录",
+    "for_delivery": "您需要在以下位置添加更多产品：{count}",
+    "parcels_from": "包裹来自",
+    "all_products": "所有产品",
+    "see": "看",
+    "add_products": "将产品添加到：",
+    "without_delivery": "不发货",
+    "product": "产品",
+    "was_deleted": "被删除",
+    "total_products": "全部的"
+  },
+  "mass_unit": {
+    "kg": "公斤"
+  },
+  "modal": {
+    "select_delivery_region": "选择送货地区"
+  },
+  "confirm_form": {
+    "enter_the_code_from_sms": "输入短信验证码",
+    "you_have_been_sent_an_sms": "您已收到一条包含代码的短信",
+    "to_change_number": "更改号码",
+    "send": "发送",
+    "resend_code_via": "通过重新发送代码",
+    "resend_code": "重新发送验证码",
+    "log_in": "登录",
+    "expired_validation": "过期验证",
+    "wrong_code": "错误代码"
+  },
+  "validation": {
+    "expiredValidation": "收到确认码的截止日期已过。短信代码已再次发送给您。",
+    "wrong_code": "错误代码"
+  },
+  "thanks_for_your_order": {
+    "title": "感谢您的订单",
+    "text": "订阅我们的社交网络，及时了解新产品和促销活动。"
+  },
+  "status_order": {
+    "not_processed": {
+      "title": "在工作中",
+      "text": "您的订单由我们的经理处理。他会尽快与您联系以澄清细节。",
+      "thanks": "谢谢你",
+      "order": "命令",
+      "text_true": "我们接受了您的订单并开始工作。订阅我们的社交网络，及时了解新产品和促销信息。",
+      "text_false": "您的订单由我们的经理处理。他会尽快与您联系以澄清细节。",
+      "continue_shopping": "继续购物",
+      "personal_account": "个人账户"
+    },
+    "awaiting_payment": {
+      "title": "等待付款",
+      "text": "使用任何可用的方法支付订单。",
+      "thanks": "感谢",
+      "order": "订单号。",
+      "problem": "如果您在付款方面遇到问题，请使用其他方法",
+      "button": "通过银行卡"
+    },
+    "preparing_for_shipment": {
+      "title": "已付款，等待发货",
+      "text": "我们已收到您的订单付款。您的订单正在准备中，很快就会发送到送货服务。发生这种情况时，我们会通知您。感谢您选择 Global Rus Trade"
+    },
+    "shipped": {
+      "title": "已发货",
+      "text": "订单已发送至送货服务。按曲目编号跟踪其位置"
+    },
+    "completed": {
+      "title": "完全的",
+      "text": "享受购买的商品的乐趣。感谢您选择 Global Rus Trade。请帮助我们变得更好并留下评论。"
+    },
+    "canceled": {
+      "title": "取消",
+      "text": "我们应您的要求取消了订单。我们希望我们仍然能够用我们独特的产品给您带来惊喜。再见。"
+    },
+    "error": {
+      "title": "使用 3D Secure 协议的支付验证错误",
+      "text": "您的卡上可能未启用此选项。请联系银行确认交易或使用其他银行卡付款。",
+      "thanks": "感谢您的理解。这对于支付的安全性很重要。您也可以使用 ApplePay 或 GPay。"
+    }
+  },
+  "payment_description": "在 globalrustrade.com 上支付货物",
+  "proceed_сheckout": "继续结帐",
+  "pay": "支付",
+  "address_label": "地址",
+  "full_name": "名字和姓氏",
+  "hint": "这里也有你们的产品。点击下订单",
+  "account": {
+    "subscribe": "订阅我们的新闻",
+    "save": "保存",
+    "avatar": {
+      "invalid_format": "文件格式不正确",
+      "invalid_size": "最大文件大小 10MB"
+    },
+    "navigation": {
+      "heading": "用户资料"
+    },
+    "data": {
+      "heading": "个人资料",
+      "upload": "上传头像"
+    },
+    "orders": {
+      "no-order": "您没有任何订单",
+      "awaiting-payment": "等待付款",
+      "cancelled": "取消",
+      "completed": "完全的",
+      "not-processed": "未处理",
+      "heading": "命令",
+      "order": "命令",
+      "from": "从",
+      "address": "2个送货地址",
+      "pay": "支付"
+    },
+    "modal": {
+      "title": "写信给我们",
+      "any_messenger": "在任何信使",
+      "social_network": "或在社交网络中"
+    },
+    "order_detail": {
+      "title": "命令",
+      "from": "从",
+      "electronic_receipt": "电子收据",
+      "payment_method": "付款方法",
+      "card": "卡片",
+      "to_clarify_the_information_on_the_order": "澄清订单信息",
+      "parcel": {
+        "title": "包裹",
+        "weight": "重量",
+        "recipient": "接受者",
+        "delivery": "送货方式、地址及费用",
+        "comment": "评论"
+      },
+      "good": {
+        "weight": "重量",
+        "color": "颜色",
+        "size": "尺寸",
+        "price": "价钱"
+      }
+    },
+    "gender": {
+      "male": "男性",
+      "female": "女性"
+    },
+    "search": "搜索"
+  },
+  "authorization": {
+    "title": "授权",
+    "send": "发送",
+    "choice": "或者选择方便的授权方式",
+    "will_send_code": "我们将通过所选渠道向您发送确认码。",
+    "enter_code": "输入代码",
+    "confirm": "一分钟内，您将收到一个带有确认码的电话号码",
+    "change_number": "更改号码",
+    "suggest": "您接到电话的电话号码的最后 4 位数字是代码。 （无需回答）。",
+    "call_not_received": "如果电话未在",
+    "another_way_connection": "选择不同的沟通方式",
+    "send_code": "我们已向您发送代码至",
+    "change_mail": "更改电子邮件",
+    "enter_correct_phone": "输入正确的电话号码",
+    "get_code": "获取代码",
+    "enter_correct_mail": "输入正确的电子邮件",
+    "error_code": "输入了错误的代码",
+    "code_not_received": "如果未收到代码"
+  },
+  "contacts": {
+    "legal_address": "合法地址",
+    "address": "3 Bolotnaya naberezhnaya, Bld。 2、第一块",
+    "for_registration_documents": "文件登记",
+    "mail": "邮件",
+    "media_inquiries": "媒体查询及订单或合作说明",
+    "phone": "电话",
+    "questions": "关于订单或合作的问题",
+    "partners": "伙伴",
+    "detailed_conditions": "详细合作条件",
+    "go": "走",
+    "requisites": "先决条件",
+    "inn": "国际贸易网",
+    "ogrn": "PSRN",
+    "kpp": "国际电工委员会"
+  },
+  "free": "免费",
+  "surname": "姓",
+  "enter_surname": "输入您的姓氏",
+  "birthday": "出生日期",
+  "enter_birthday": "输入你的出生日期"
+}
